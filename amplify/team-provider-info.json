@@ -1,0 +1,20 @@
+{
+    "teamvinum": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-teamvinum-teamvinum-185334-authRole",
+            "UnauthRoleArn": "arn:aws:iam::090368436686:role/amplify-teamvinum-teamvinum-185334-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::090368436686:role/amplify-teamvinum-teamvinum-185334-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-teamvinum-teamvinum-185334-deployment",
+            "UnauthRoleName": "amplify-teamvinum-teamvinum-185334-unauthRole",
+            "StackName": "amplify-teamvinum-teamvinum-185334",
+            "StackId": "arn:aws:cloudformation:eu-west-1:090368436686:stack/amplify-teamvinum-teamvinum-185334/194a1460-8bdd-11ea-82b4-06d3aeb0d9f6",
+            "AmplifyAppId": "d246dgkqcbober"
+        },
+        "categories": {
+            "auth": {
+                "teamvinum590f44f8": {}
+            }
+        }
+    }
+}

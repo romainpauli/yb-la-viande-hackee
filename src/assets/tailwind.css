@@ -1,0 +1,58 @@
+/* purgecss start ignore */
+@tailwind  base;
+
+@tailwind  components;
+/* purgecss end ignore */
+
+@tailwind  utilities;
+
+.theme-light {
+  /*    --vinum-primary: #a32b2e;
+      --vinum-primary-d: #511517;*/
+      --vinum-primary: #a32b2e;
+      --vinum-primary-d: #511517;
+      --vinum-secondary-ll: rgba(255,252,244,1);
+      --vinum-secondary-l: #FEF9E7;
+      --vinum-secondary: #FEF7E0;
+      --vinum-secondary-d: #F3E4B6;
+      --vinum-secondary-dd: #CEC5AB;
+      --vinum-secondary-t: rgba(255,252,244,0.9);
+      --vinum-translucide: rgba(255,255,255,0.9);
+      --vinum-textcolor: #181818;
+      --vinum-cardcolor: rgba(255,255,255,1);
+      --vinum-accent: #FAF089;
+  }
+  
+  .theme-darkred {
+      --vinum-primary: #a32b2e;
+      --vinum-primary-d: #AC4042;
+      --vinum-secondary-ll: rgba(24,24,24,1);
+      --vinum-secondary-l: #353535;
+      --vinum-secondary: rgba(31,31,31,1);
+      --vinum-secondary-d: #353535;
+      --vinum-secondary-dd: #626262;
+      --vinum-secondary-t: rgba(24,24,24,0.95);
+      --vinum-translucide: rgba(0,0,0,0.9);
+      --vinum-textcolor: #FEF7E0;
+      --vinum-cardcolor: rgba(0,0,0,1);
+      --vinum-accent: #B7791F;
+  }
+  
+  .theme-dark {
+      --vinum-primary: #A24939;
+      --vinum-primary-d: #682E25;
+      --vinum-secondary-ll: rgba(4,14,20,1);
+      --vinum-secondary-l:  rgba(6,23,32,1);
+      --vinum-secondary: rgba(8,28,40,1);
+      --vinum-secondary-d: rgba(12,39,55,1);
+      --vinum-secondary-dd: rgba(17,51,70,1);
+      --vinum-secondary-t: rgba(4,14,20,0.95);
+      --vinum-translucide: rgba(8,28,40,0.9);
+      --vinum-textcolor: #FEF7E0;
+      --vinum-cardcolor: rgba(8,28,40,1);
+      --vinum-accent: #B7791F;
+  }  
+
+.content-wrapper {
+    transition: background-color .25s;
+}
