@@ -1,8 +1,8 @@
 <template>
   <div class="about p-3">
     <h1>Say hi to the API</h1>
-    <input class="my-2 text-lg p-2 bg-secondary border-secondary" v-model="question" @keydown.enter="helloApi(question)" />
-    <vinum-btn :loading="isLoading" @click="helloApi(question)" >say hello</vinum-btn>
+    <input class="my-2 text-lg p-2 bg-secondary border-secondary w-full" v-model="question" @keydown.enter="helloApi(question)" />
+    <vinum-btn class="w-full" :loading="isLoading" @click.native="helloApi(question)" >say hello</vinum-btn>
     <p>{{ qui }}</p>
   </div>
 </template>
@@ -14,8 +14,8 @@ export default {
   data() {
     return {
         isLoading: false,
-      question: "",
-      qui: ""
+        question: "",
+        qui: ""
     };
   },
   methods: {
