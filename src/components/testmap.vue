@@ -22,7 +22,7 @@
       />
       <polygon
         id="C6"
-        class="st1"
+        :class="{highlight: true}"
         points="128.6,679.7 126.9,906.9 305,906.9 305,682.3 	"
       />
       <polygon
@@ -54,14 +54,14 @@
     <g id="ground">
       <path
         id="C1_2_"
-        class="st2"
+        :class="(block === 'C1' || block === 'C1') ? 'highlight' : 'st2'"
         d="M321.5,397.2V280c-18.1-22.9-41.8-43.2-72.3-60.2l-171.2,110v67.3H321.5z"
       />
       <rect
         id="C3_2_"
         x="77.9"
         y="415.3"
-        class="st2"
+        :class="(block === 'C3' || block === 'C03') ? 'highlight' : 'st2'"
         width="243.3"
         height="158.7"
       />
@@ -69,7 +69,7 @@
         id="C5_2_"
         x="77.9"
         y="585"
-        class="st2"
+        :class="(block === 'C5' || block === 'C05') ? 'highlight' : 'st2'"
         width="243.3"
         height="200.6"
       />
@@ -77,7 +77,7 @@
         id="C7_2_"
         x="77.4"
         y="796.4"
-        class="st2"
+        :class="(block === 'C7' || block === 'C07') ? 'highlight' : 'st2'"
         width="243.3"
         height="200.7"
       />
@@ -85,7 +85,7 @@
         id="C9_2_"
         x="77.9"
         y="1008.3"
-        class="st2"
+        :class="(block === 'C9' || block === 'C09') ? 'highlight' : 'st2'"
         width="243.3"
         height="200.6"
       />
@@ -93,7 +93,7 @@
         id="C11_2_"
         x="77.9"
         y="1220"
-        class="st2"
+        :class="(block === 'C11') ? 'highlight' : 'st2'"
         width="243.3"
         height="200.6"
       />
@@ -101,7 +101,7 @@
         id="C13_2_"
         x="77.9"
         y="1433.2"
-        class="st2"
+        :class="(block === 'C13') ? 'highlight' : 'st2'"
         width="243.3"
         height="200.6"
       />
@@ -109,13 +109,13 @@
         id="C15_2_"
         x="77.9"
         y="1646.4"
-        class="st2"
+        :class="(block === 'C15') ? 'highlight' : 'st2'"
         width="243.3"
         height="157.9"
       />
       <path
         id="C17_2_"
-        class="st2"
+        :class="(block === 'C17') ? 'highlight' : 'st2'"
         d="M77.9,1817v65.5l184.9,110.6c31.4-22.3,52.2-45.9,58.3-71.1v-105H77.9z"
       />
       <g id="barrierNord">
@@ -4369,7 +4369,20 @@
   </svg>
 </template>
 
+<script>
+import { mapState } from 'vuex'
+
+export default {
+    computed: mapState([
+    'block'
+    ]),
+}
+</script>
+
 <style type="text/css">
+.highlight {
+    fill: #FACE48;
+}
 .st0 {
   display: none;
 }
