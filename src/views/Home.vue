@@ -3,6 +3,7 @@
     <p class="text-4xl" @click="toggleTheme">
       {{ welcome }}
     </p>
+    <p>your seat number is: {{ $store.state.seatNumber }}</p>
     <vinum-btn @click.native="toggleTheme">Changer les couleurs</vinum-btn>
   </div>
 </template>

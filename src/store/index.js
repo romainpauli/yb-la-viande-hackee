@@ -5,12 +5,12 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    user: null,
-    theme: "theme-light"
+    seatNumber: null,
+    theme: "theme-dark"
   },
   mutations: {
-    setUser(state, user) {
-      state.user = user;
+    setSeatNumber(state, seatNumber) {
+      state.seatNumber = seatNumber;
     },
     setTheme(state, theme) {
       state.theme = theme;
@@ -18,8 +18,8 @@ export default new Vuex.Store({
     }
   },
   actions: {
-    fetchUser({ commit }, user) {
-      commit("setUser", user);
+    setSeatNumber({ commit }, seatNumber) {
+      commit("setSeatNumber", seatNumber);
     },
     toggleTheme({ commit, state }) {
       commit(
