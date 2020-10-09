@@ -14,6 +14,7 @@ import IconLayout from "./IconLayout.vue";
 import IconDelete from "./IconDelete.vue";
 import IconMap from "./IconMap.vue";
 import IconList from "./IconList.vue";
+import IconSettings from "./IconSettings.vue";
 
 
 export default [
@@ -31,5 +32,6 @@ export default [
   IconLayout,
   IconDelete,
   IconMap,
-  IconList
+  IconList,
+  IconSettings
 ];

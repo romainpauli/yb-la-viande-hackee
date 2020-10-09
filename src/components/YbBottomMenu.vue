@@ -34,7 +34,7 @@
             /></icon-base></li
         ></router-link>
         <router-link
-          to="/bla"
+          to="/map"
           active-class="text-primary bg-secondary-dd"
           class="text-center block flex-1 py-4"
           href="#"
@@ -50,7 +50,7 @@
           </li>
         </router-link>
         <router-link
-          to="/bli"
+          to="/settings"
           active-class="text-primary bg-secondary-dd"
           class="text-center block flex-1 py-4"
           href="#"
@@ -59,9 +59,9 @@
             <icon-base
               width="24"
               height="24"
-              icon-name="home"
+              icon-name="settings"
               maincolor="transparent"
-              ><icon-award
+              ><icon-settings
             /></icon-base></li
         ></router-link>
       </ul>
@@ -69,34 +69,3 @@
   </div>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      publicPath: process.env.BASE_URL,
-      user: {},
-      session: {},
-      groups: ["Front"]
-    };
-  },
-  methods: {
-    toggleTheme() {
-      this.$store.dispatch("toggleTheme");
-    },
-    signout() {
-      this.$Amplify.Auth.signOut().then(() => {
-        this.$router.push("signin");
-      });
-    }
-  },
-  mounted() {
-    this.$Amplify.Auth.currentAuthenticatedUser().then(user => {
-      this.user = user;
-    }),
-      this.$Amplify.Auth.currentSession().then(s => {
-        this.session = s;
-        this.groups = s.accessToken.payload["cognito:groups"] || ["no group"];
-      });
-  }
-};
-</script>

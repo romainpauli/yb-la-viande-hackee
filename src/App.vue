@@ -53,6 +53,9 @@ export default {
       sidebarOpen: true
     };
   },
+  mounted() {
+    this.$18n.locale = 'de'
+  },
   computed: mapState(["theme"])
 };
 </script>
