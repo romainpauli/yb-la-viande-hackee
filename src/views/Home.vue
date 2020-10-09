@@ -8,7 +8,7 @@
     <p class="text-xl font-black italic my-4" >2. Grab some food and drinks and go to the block {{ $store.state.block }}</p>
     <yb-sector-c />
     <p class="text-xl font-black italic my-4" >3. Take the seat {{ $store.state.seatNumber }} and support your team ! </p>
-    <img src="/grey2.svg" class="object-contain object-left w-full h-48 " />
+    <img src="https://svg-seat-maps.s3-eu-west-1.amazonaws.com/test.svg" class="object-contain object-left w-full h-48 " />
   </div>
 </template>
 
