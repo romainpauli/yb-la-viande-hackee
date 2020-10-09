@@ -4,7 +4,10 @@
     :class="theme"
     class="content-wrapper bg-secondary-ll text-textcolor"
   >
-    <yb-seat-number v-if="$store.state.seatNumber === null" class="z-40 fixed h-sceen w-screen bg-secondary-ll" /> 
+    <yb-seat-number
+      v-if="$store.state.seatNumber === null"
+      class="z-40 fixed h-sceen w-screen bg-secondary-ll"
+    />
     <template v-else>
       <yb-bottom-menu v-if="$store.state.seatNumber !== null" class="z-40" />
       <div
@@ -54,7 +57,7 @@ export default {
     };
   },
   mounted() {
-    this.$18n.locale = 'de'
+    this.$18n.locale = "de";
   },
   computed: mapState(["theme"])
 };

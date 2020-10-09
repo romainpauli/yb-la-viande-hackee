@@ -16,7 +16,6 @@ import IconMap from "./IconMap.vue";
 import IconList from "./IconList.vue";
 import IconSettings from "./IconSettings.vue";
 
-
 export default [
   IconAddCustomer,
   IconPile,

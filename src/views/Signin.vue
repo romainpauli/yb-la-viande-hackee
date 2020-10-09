@@ -1,17 +1,26 @@
 <template>
-  <div class="h-screen flex flex-col align-center justify-center px-5 text-center pb-16">
+  <div
+    class="h-screen flex flex-col align-center justify-center px-5 text-center pb-16"
+  >
     <h1 class="font-black text-3xl mb-4 text-primary">Welcome</h1>
-    <h1 class="italic text-medium text-base mb-3" >Enter your seat number</h1>
-    <input v-model="seatNumber" v-mask="'A## R###-###'" class="bg-secondary-dd text-lg py-3 text-center" placeholder="A11 R11-111"/>
-    <vinum-btn @click.native="setSeatNumber" :loading="loading" class="mt-12">next</vinum-btn>
+    <h1 class="italic text-medium text-base mb-3">Enter your seat number</h1>
+    <input
+      v-model="seatNumber"
+      v-mask="'A## R###-###'"
+      class="bg-secondary-dd text-lg py-3 text-center"
+      placeholder="A11 R11-111"
+    />
+    <vinum-btn @click.native="setSeatNumber" :loading="loading" class="mt-12"
+      >next</vinum-btn
+    >
   </div>
 </template>
 
 <script>
-import {mask} from 'vue-the-mask'
+import { mask } from "vue-the-mask";
 
 export default {
-  directives: {mask},
+  directives: { mask },
   data() {
     return {
       seatNumber: "",
@@ -27,9 +36,9 @@ export default {
     setSeatNumber() {
       this.loading = true;
       this.$store.dispatch("setSeatNumber", this.seatNumber).then(() => {
-        this.$router.push('/')
+        this.$router.push("/");
       });
-      this.loading = false
+      this.loading = false;
     }
   }
 };
