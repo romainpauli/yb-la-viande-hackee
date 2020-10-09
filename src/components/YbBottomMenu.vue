@@ -5,7 +5,7 @@
         <router-link
           to="/"
           exact-active-class="text-primary bg-primary-d"
-          class="text-center block flex-1 py-4"
+          class="text-center block flex-1 pb-6 pt-4"
           href="#"
         >
           <li>
@@ -21,7 +21,7 @@
         <router-link
           to="/about"
           active-class="text-primary bg-primary-d"
-          class="text-center block flex-1 py-4"
+          class="text-center block flex-1 pb-6 pt-4"
           href="#"
         >
           <li>
@@ -36,7 +36,7 @@
         <router-link
           to="/map"
           active-class="text-primary bg-primary-d"
-          class="text-center block flex-1 py-4"
+          class="text-center block flex-1 pb-6 pt-4"
           href="#"
         >
           <li>
@@ -52,7 +52,7 @@
         <router-link
           to="/settings"
           active-class="text-primary bg-primary-d"
-          class="text-center block flex-1 py-4"
+          class="text-center block flex-1 pb-6 pt-4"
           href="#"
         >
           <li>

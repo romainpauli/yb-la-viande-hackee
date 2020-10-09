@@ -2646,12 +2646,14 @@ export default {
 }
 .st1 {
   fill: none;
-  stroke: #4d4d4d;
+  stroke: #fff;
+  stroke-width: 4;
   stroke-miterlimit: 10;
 }
 .st2 {
   fill: none;
-  stroke: #000000;
+  stroke: #fff;
+  stroke-width: 4;
   stroke-miterlimit: 10;
 }
 .st3 {

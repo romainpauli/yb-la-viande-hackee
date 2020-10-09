@@ -23,7 +23,7 @@
         @keyup="gonextfield($event, seatNumberBlock, 3)"
         v-mask="['A##', 'A#']"
         class="bg-secondary-dd text-lg py-3 text-center w-12 mr-2"
-        placeholder="A11"
+        placeholder="C11"
       />
       <input
         v-model="seatNumberReihe"

@@ -16,7 +16,7 @@
         <div class="absolute top-0 left-0 w-full h-full bg-primary"></div>
         <div
           class="absolute top-0 left-0 h-full bg-primary-d"
-          :style="'width:' + (elem.time / (maxtime + 1)) * 100 + '%;'"
+          :style="'width:' + (elem.time / fixedMax) * 100 + '%;'"
         ></div>
         <div class="relative z-30 flex justify-between items-center">
           <div class="font-black italic">{{ elem.label }}</div>
@@ -34,7 +34,7 @@
         <div class="absolute top-0 left-0 w-full h-full bg-primary"></div>
         <div
           class="absolute top-0 left-0 h-full bg-primary-d"
-          :style="'width:' + (elem.time / (maxtime + 1)) * 100 + '%;'"
+          :style="'width:' + (elem.time / fixedMax) * 100 + '%;'"
         ></div>
         <div class="relative z-30 flex justify-between items-center">
           <div class="font-black italic">{{ elem.label }}</div>
@@ -49,6 +49,7 @@
 export default {
   data() {
     return {
+      fixedMax: 15,
       waitingTimes: [
         {
           label: "Chips",
