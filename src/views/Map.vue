@@ -1,12 +1,15 @@
 <template>
   <div class="about p-3">
-    <testmap />
+    <h1 class="text-3xl text-center font-black italic text-primary">
+      Sector {{ $store.state.sector }}
+    </h1>
+    <yb-sector-c />
   </div>
 </template>
 
 <script>
 import ApiService from "@/services/ApiService.js";
-import testmap from "@/components/testmap.vue";
+import YbSectorC from "@/components/YbSectorC.vue";
 
 export default {
   data() {
@@ -15,7 +18,7 @@ export default {
     };
   },
   components: {
-    testmap
+    YbSectorC
   },
   methods: {
     helloApi(qui) {

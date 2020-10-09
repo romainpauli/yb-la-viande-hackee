@@ -8,13 +8,19 @@ export default new Vuex.Store({
     seatNumber: null,
     sector: null,
     block: null,
-    theme: "theme-dark",
+    theme: "theme-dark"
   },
   mutations: {
     setSeatNumber(state, seatNumber) {
-      state.seatNumber = seatNumber;
-      state.block = seatNumber.split('.')[0];
-      state.sector = seatNumber[0]
+      if (seatNumber === null) {
+        state.seatNumber = null;
+        localStorage.removeItem("seatNumber");
+      } else {
+        state.seatNumber = seatNumber;
+        state.block = seatNumber.split(".")[0];
+        state.sector = seatNumber[0];
+        localStorage.setItem("seatNumber", seatNumber);
+      }
     },
     setTheme(state, theme) {
       state.theme = theme;

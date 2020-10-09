@@ -2,6 +2,7 @@
   <div
     class="h-screen flex flex-col align-center justify-center px-5 text-center pb-16"
   >
+    <img src="/logo.png" class="object-contain object-center w-full h-24" />
     <h1 class="font-black text-3xl mb-4 text-primary">Welcome</h1>
     <h1 class="italic text-medium text-base mb-3">Enter your seat number</h1>
     <div class="flex flex-row mx-auto">

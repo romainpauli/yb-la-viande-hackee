@@ -12,6 +12,11 @@
       @click.native="helloApi(question)"
       >say hello</vinum-btn
     >
+    <vinum-btn
+      class="w-full my-2"
+      @click.native="$store.dispatch('setSeatNumber', null)"
+      >Réinitialiser mon siège</vinum-btn
+    >
     <p>{{ qui }}</p>
     <vinum-btn @click.native="toggleTheme">Changer les couleurs</vinum-btn>
   </div>
