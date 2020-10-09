@@ -10,10 +10,7 @@
     />
     <template v-else>
       <yb-bottom-menu v-if="$store.state.seatNumber !== null" class="z-40" />
-      <div
-        class="h-screen flex overflow-hidden pb-16"
-        :class="theme"
-      >
+      <div class="h-screen flex overflow-hidden pb-16" :class="theme">
         <div class="flex flex-col w-0 flex-1 overflow-hidden">
           <main
             class="flex-1 relative z-0 overflow-y-auto focus:outline-none"

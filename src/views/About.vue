@@ -3,15 +3,13 @@
     <h1 class="text-3xl pt-3 text-center font-black italic text-primary">
       Waiting times
     </h1>
-    <h2 class="text-xl pb-3 text-center font-black italic text-secondary-dd" >sector C</h2>
-    <h3 class="text-sm italic font-semibold " >
+    <h2 class="text-xl pb-3 text-center font-black italic text-secondary-dd">
+      sector C
+    </h2>
+    <h3 class="text-sm italic font-semibold ">
       Catering
     </h3>
-    <div
-      class="w-full py-2"
-      v-for="elem in cateringSorted"
-      :key="elem.label"
-    >
+    <div class="w-full py-2" v-for="elem in cateringSorted" :key="elem.label">
       <div
         class="p-3 text-lg border-2 border-primary relative text-textcolor-ad"
       >
@@ -26,14 +24,10 @@
         </div>
       </div>
     </div>
-        <h3 class="text-sm italic font-semibold " >
+    <h3 class="text-sm italic font-semibold ">
       Toilets
     </h3>
-    <div
-      class="w-full py-2"
-      v-for="elem in toiletSorted"
-      :key="elem.label"
-    >
+    <div class="w-full py-2" v-for="elem in toiletSorted" :key="elem.label">
       <div
         class="p-3 text-lg border-2 border-primary relative text-textcolor-ad"
       >
@@ -102,23 +96,23 @@ export default {
     },
     cateringSorted: function() {
       function compare(a, b) {
-        if (a.time < b.time)
-          return -1;
-        if (a.time > b.time)
-          return 1;
+        if (a.time < b.time) return -1;
+        if (a.time > b.time) return 1;
         return 0;
       }
-      return [...this.waitingTimes.filter(x => x.type == 'catering')].sort(compare);
+      return [...this.waitingTimes.filter(x => x.type == "catering")].sort(
+        compare
+      );
     },
     toiletSorted: function() {
       function compare(a, b) {
-        if (a.time < b.time)
-          return -1;
-        if (a.time > b.time)
-          return 1;
+        if (a.time < b.time) return -1;
+        if (a.time > b.time) return 1;
         return 0;
       }
-      return [...this.waitingTimes.filter(x => x.type == 'toilet')].sort(compare);
+      return [...this.waitingTimes.filter(x => x.type == "toilet")].sort(
+        compare
+      );
     }
   }
 };

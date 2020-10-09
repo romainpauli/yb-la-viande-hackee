@@ -9,16 +9,7 @@
     style="enable-background:new 0 0 1125 2436;"
     xml:space="preserve"
   >
-    <g id="image_x5F_delete" class="st0">
-      <image
-        style="display:inline;overflow:visible;"
-        width="158"
-        height="596"
-        xlink:href="B2EB15C0485CC533.jpg"
-        transform="matrix(3.8743 0 0 3.8743 237 -28)"
-      ></image>
-    </g>
-    <g id="etage_1">
+    <g id="etage_1" class="st0">
       <polygon
         id="C2_1_"
         class="st1"
@@ -37,11 +28,11 @@
       <polygon
         id="C8"
         class="st1"
-        points="128.6,914.8 126.9,1142 305,1142 305,917.4"
+        points="128.6,914.8 126.9,1142 305,1142 305,917.4 	"
       />
       <polygon
         id="C10"
-        class="highlight"
+        class="st1"
         points="128.6,1150.8 126.9,1378.1 305,1378.1 305,1153.5 	"
       />
       <polygon
@@ -60,2056 +51,488 @@
         points="128.6,1858.9 126.9,2060.7 297.1,2102.8 305,2086.1 305,1861.5 	"
       />
     </g>
-    <g id="etage_-1">
+    <g id="ground">
       <path
         id="C1_2_"
-        class="st1"
-        d="M522,348V217.8c-12.8-25.5-29.5-48-51.1-66.8l-121,122.2V348H522z"
+        class="st2"
+        d="M321.5,397.2V280c-18.1-22.9-41.8-43.2-72.3-60.2l-171.2,110v67.3H321.5z"
       />
       <rect
         id="C3_2_"
-        x="349.8"
-        y="368.1"
-        class="st1"
-        width="172"
-        height="176.4"
+        x="77.9"
+        y="415.3"
+        class="st2"
+        width="243.3"
+        height="158.7"
       />
       <rect
         id="C5_2_"
-        x="349.8"
-        y="556.7"
-        class="st1"
-        width="172"
-        height="222.9"
+        x="77.9"
+        y="585"
+        class="st2"
+        width="243.3"
+        height="200.6"
       />
       <rect
         id="C7_2_"
-        x="349.5"
-        y="791.5"
-        class="st1"
-        width="172"
-        height="223"
+        x="77.4"
+        y="796.4"
+        class="st2"
+        width="243.3"
+        height="200.7"
       />
       <rect
         id="C9_2_"
-        x="349.8"
-        y="1027"
-        class="st1"
-        width="172"
-        height="222.9"
+        x="77.9"
+        y="1008.3"
+        class="st2"
+        width="243.3"
+        height="200.6"
       />
       <rect
         id="C11_2_"
-        x="349.8"
-        y="1262.1"
-        class="st1"
-        width="172"
-        height="222.9"
+        x="77.9"
+        y="1220"
+        class="st2"
+        width="243.3"
+        height="200.6"
       />
       <rect
         id="C13_2_"
-        x="349.8"
-        y="1499"
-        class="st1"
-        width="172"
-        height="222.9"
+        x="77.9"
+        y="1433.2"
+        class="st2"
+        width="243.3"
+        height="200.6"
       />
       <rect
         id="C15_2_"
-        x="349.8"
-        y="1735.9"
-        class="st1"
-        width="172"
-        height="175.5"
+        x="77.9"
+        y="1646.4"
+        class="st2"
+        width="243.3"
+        height="157.9"
       />
       <path
         id="C17_2_"
-        class="st1"
-        d="M349.8,1925.4v72.8l130.7,122.8c22.2-24.8,36.9-51,41.2-79v-116.7H349.8z"
-      />
-    </g>
-    <g id="terrain">
-      <rect
-        id="terrain_1_"
-        x="2.5"
-        y="387.6"
         class="st2"
-        width="71.7"
-        height="1543.3"
+        d="M77.9,1817v65.5l184.9,110.6c31.4-22.3,52.2-45.9,58.3-71.1v-105H77.9z"
       />
+      <g id="barrierNord">
+        <line class="st3" x1="76" y1="325" x2="255" y2="212" />
+        <line class="st3" x1="327" y1="272" x2="255" y2="212" />
+        <line class="st3" x1="1110" y1="-2" x2="327" y2="272" />
+      </g>
     </g>
+    <g id="terrain"></g>
     <g id="escaliers_x5F_bas">
-      <g id="escalier_C17_1_">
-        <rect
-          id="marche_26_17_"
-          x="350"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_17_"
-          x="356.4"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_17_"
-          x="362.8"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_17_"
-          x="369.2"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_17_"
-          x="375.6"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_17_"
-          x="382"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_17_"
-          x="388.3"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_17_"
-          x="394.7"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_17_"
-          x="401.1"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_17_"
-          x="407.5"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_35_"
-          x="413.9"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_34_"
-          x="420.3"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_17_"
-          x="426.7"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_17_"
-          x="433.1"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_17_"
-          x="439.5"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_17_"
-          x="445.9"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_17_"
-          x="452.3"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_17_"
-          x="458.5"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_17_"
-          x="464.9"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_17_"
-          x="471.3"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_17_"
-          x="477.7"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_17_"
-          x="484.1"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_17_"
-          x="490.5"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_17_"
-          x="496.9"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_26_"
-          x="503.3"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_26_"
-          x="509.2"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_26_"
-          x="515.6"
-          y="1983.1"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC1_1_">
+        <rect x="79.4" y="329.8" class="st4" width="241" height="14" />
+        <line class="st5" x1="313.5" y1="330" x2="313.5" y2="344" />
+        <line class="st5" x1="306.5" y1="330" x2="306.5" y2="344" />
+        <line class="st5" x1="299.5" y1="330" x2="299.5" y2="344" />
+        <line class="st5" x1="292.5" y1="330" x2="292.5" y2="344" />
+        <line class="st5" x1="285.5" y1="330" x2="285.5" y2="344" />
+        <line class="st5" x1="278.5" y1="330" x2="278.5" y2="344" />
+        <line class="st5" x1="271.5" y1="330" x2="271.5" y2="344" />
+        <line class="st5" x1="264.5" y1="330" x2="264.5" y2="344" />
+        <line class="st5" x1="257.5" y1="330" x2="257.5" y2="344" />
+        <line class="st5" x1="250.5" y1="330" x2="250.5" y2="344" />
+        <line class="st5" x1="243.5" y1="330" x2="243.5" y2="344" />
+        <line class="st5" x1="236.5" y1="330" x2="236.5" y2="344" />
+        <line class="st5" x1="229.5" y1="330" x2="229.5" y2="344" />
+        <line class="st5" x1="222.5" y1="330" x2="222.5" y2="344" />
+        <line class="st5" x1="215.5" y1="330" x2="215.5" y2="344" />
+        <line class="st5" x1="208.5" y1="330" x2="208.5" y2="344" />
+        <line class="st5" x1="201.5" y1="330" x2="201.5" y2="344" />
+        <line class="st5" x1="194.5" y1="330" x2="194.5" y2="344" />
+        <line class="st5" x1="187.5" y1="330" x2="187.5" y2="344" />
+        <line class="st5" x1="180.5" y1="330" x2="180.5" y2="344" />
+        <line class="st5" x1="173.5" y1="330" x2="173.5" y2="344" />
+        <line class="st5" x1="166.5" y1="330" x2="166.5" y2="344" />
+        <line class="st5" x1="159.5" y1="330" x2="159.5" y2="344" />
+        <line class="st5" x1="152.5" y1="330" x2="152.5" y2="344" />
+        <line class="st5" x1="145.5" y1="330" x2="145.5" y2="344" />
+        <line class="st5" x1="138.5" y1="330" x2="138.5" y2="344" />
+        <line class="st5" x1="131.5" y1="330" x2="131.5" y2="344" />
+        <line class="st5" x1="124.5" y1="330" x2="124.5" y2="344" />
+        <line class="st5" x1="117.5" y1="330" x2="117.5" y2="344" />
+        <line class="st5" x1="110.5" y1="330" x2="110.5" y2="344" />
+        <line class="st5" x1="103.5" y1="330" x2="103.5" y2="344" />
+        <line class="st5" x1="96.5" y1="330" x2="96.5" y2="344" />
+        <line class="st5" x1="89.5" y1="330" x2="89.5" y2="344" />
+        <line class="st5" x1="82.5" y1="330" x2="82.5" y2="344" />
       </g>
-      <g id="escalier_C15_1_">
-        <rect
-          id="marche_26_16_"
-          x="349.8"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_16_"
-          x="356.2"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_16_"
-          x="362.6"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_16_"
-          x="368.9"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_16_"
-          x="375.3"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_16_"
-          x="381.7"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_16_"
-          x="388.1"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_16_"
-          x="394.5"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_16_"
-          x="400.9"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_16_"
-          x="407.3"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_33_"
-          x="413.7"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_32_"
-          x="420.1"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_16_"
-          x="426.5"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_16_"
-          x="432.9"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_16_"
-          x="439.2"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_16_"
-          x="445.6"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_16_"
-          x="452"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_16_"
-          x="458.3"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_16_"
-          x="464.7"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_16_"
-          x="471.1"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_16_"
-          x="477.5"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_16_"
-          x="483.9"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_16_"
-          x="490.3"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_16_"
-          x="496.7"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_25_"
-          x="503"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_25_"
-          x="509"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_25_"
-          x="515.4"
-          y="1832.6"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC3">
+        <rect x="78.7" y="476.2" class="st4" width="241" height="14" />
+        <line class="st5" x1="312.8" y1="476.4" x2="312.8" y2="490.4" />
+        <line class="st5" x1="305.8" y1="476.4" x2="305.8" y2="490.4" />
+        <line class="st5" x1="298.8" y1="476.4" x2="298.8" y2="490.4" />
+        <line class="st5" x1="291.8" y1="476.4" x2="291.8" y2="490.4" />
+        <line class="st5" x1="284.8" y1="476.4" x2="284.8" y2="490.4" />
+        <line class="st5" x1="277.8" y1="476.4" x2="277.8" y2="490.4" />
+        <line class="st5" x1="270.8" y1="476.4" x2="270.8" y2="490.4" />
+        <line class="st5" x1="263.8" y1="476.4" x2="263.8" y2="490.4" />
+        <line class="st5" x1="256.8" y1="476.4" x2="256.8" y2="490.4" />
+        <line class="st5" x1="249.8" y1="476.4" x2="249.8" y2="490.4" />
+        <line class="st5" x1="242.8" y1="476.4" x2="242.8" y2="490.4" />
+        <line class="st5" x1="235.8" y1="476.4" x2="235.8" y2="490.4" />
+        <line class="st5" x1="228.8" y1="476.4" x2="228.8" y2="490.4" />
+        <line class="st5" x1="221.8" y1="476.4" x2="221.8" y2="490.4" />
+        <line class="st5" x1="214.8" y1="476.4" x2="214.8" y2="490.4" />
+        <line class="st5" x1="207.8" y1="476.4" x2="207.8" y2="490.4" />
+        <line class="st5" x1="200.8" y1="476.4" x2="200.8" y2="490.4" />
+        <line class="st5" x1="193.8" y1="476.4" x2="193.8" y2="490.4" />
+        <line class="st5" x1="186.8" y1="476.4" x2="186.8" y2="490.4" />
+        <line class="st5" x1="179.8" y1="476.4" x2="179.8" y2="490.4" />
+        <line class="st5" x1="172.8" y1="476.4" x2="172.8" y2="490.4" />
+        <line class="st5" x1="165.8" y1="476.4" x2="165.8" y2="490.4" />
+        <line class="st5" x1="158.8" y1="476.4" x2="158.8" y2="490.4" />
+        <line class="st5" x1="151.8" y1="476.4" x2="151.8" y2="490.4" />
+        <line class="st5" x1="144.8" y1="476.4" x2="144.8" y2="490.4" />
+        <line class="st5" x1="137.8" y1="476.4" x2="137.8" y2="490.4" />
+        <line class="st5" x1="130.8" y1="476.4" x2="130.8" y2="490.4" />
+        <line class="st5" x1="123.8" y1="476.4" x2="123.8" y2="490.4" />
+        <line class="st5" x1="116.8" y1="476.4" x2="116.8" y2="490.4" />
+        <line class="st5" x1="109.8" y1="476.4" x2="109.8" y2="490.4" />
+        <line class="st5" x1="102.8" y1="476.4" x2="102.8" y2="490.4" />
+        <line class="st5" x1="95.8" y1="476.4" x2="95.8" y2="490.4" />
+        <line class="st5" x1="88.8" y1="476.4" x2="88.8" y2="490.4" />
+        <line class="st5" x1="81.8" y1="476.4" x2="81.8" y2="490.4" />
       </g>
-      <g id="escalier_C13_1_">
-        <rect
-          id="marche_26_15_"
-          x="349.9"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_15_"
-          x="356.3"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_15_"
-          x="362.7"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_15_"
-          x="369.1"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_15_"
-          x="375.5"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_15_"
-          x="381.9"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_15_"
-          x="388.3"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_15_"
-          x="394.7"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_15_"
-          x="401.1"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_15_"
-          x="407.5"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_31_"
-          x="413.8"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_30_"
-          x="420.2"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_15_"
-          x="426.6"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_15_"
-          x="433"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_15_"
-          x="439.4"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_15_"
-          x="445.8"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_15_"
-          x="452.2"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_15_"
-          x="458.5"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_15_"
-          x="464.9"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_15_"
-          x="471.3"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_15_"
-          x="477.6"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_15_"
-          x="484"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_15_"
-          x="490.4"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_15_"
-          x="496.8"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_24_"
-          x="503.2"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_24_"
-          x="509.2"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_24_"
-          x="515.5"
-          y="1603"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC5">
+        <rect x="79" y="680.7" class="st4" width="241" height="14" />
+        <line class="st5" x1="313.1" y1="680.9" x2="313.1" y2="694.9" />
+        <line class="st5" x1="306.1" y1="680.9" x2="306.1" y2="694.9" />
+        <line class="st5" x1="299.1" y1="680.9" x2="299.1" y2="694.9" />
+        <line class="st5" x1="292.1" y1="680.9" x2="292.1" y2="694.9" />
+        <line class="st5" x1="285.1" y1="680.9" x2="285.1" y2="694.9" />
+        <line class="st5" x1="278.1" y1="680.9" x2="278.1" y2="694.9" />
+        <line class="st5" x1="271.1" y1="680.9" x2="271.1" y2="694.9" />
+        <line class="st5" x1="264.1" y1="680.9" x2="264.1" y2="694.9" />
+        <line class="st5" x1="257.1" y1="680.9" x2="257.1" y2="694.9" />
+        <line class="st5" x1="250.1" y1="680.9" x2="250.1" y2="694.9" />
+        <line class="st5" x1="243.1" y1="680.9" x2="243.1" y2="694.9" />
+        <line class="st5" x1="236.1" y1="680.9" x2="236.1" y2="694.9" />
+        <line class="st5" x1="229.1" y1="680.9" x2="229.1" y2="694.9" />
+        <line class="st5" x1="222.1" y1="680.9" x2="222.1" y2="694.9" />
+        <line class="st5" x1="215.1" y1="680.9" x2="215.1" y2="694.9" />
+        <line class="st5" x1="208.1" y1="680.9" x2="208.1" y2="694.9" />
+        <line class="st5" x1="201.1" y1="680.9" x2="201.1" y2="694.9" />
+        <line class="st5" x1="194.1" y1="680.9" x2="194.1" y2="694.9" />
+        <line class="st5" x1="187.1" y1="680.9" x2="187.1" y2="694.9" />
+        <line class="st5" x1="180.1" y1="680.9" x2="180.1" y2="694.9" />
+        <line class="st5" x1="173.1" y1="680.9" x2="173.1" y2="694.9" />
+        <line class="st5" x1="166.1" y1="680.9" x2="166.1" y2="694.9" />
+        <line class="st5" x1="159.1" y1="680.9" x2="159.1" y2="694.9" />
+        <line class="st5" x1="152.1" y1="680.9" x2="152.1" y2="694.9" />
+        <line class="st5" x1="145.1" y1="680.9" x2="145.1" y2="694.9" />
+        <line class="st5" x1="138.1" y1="680.9" x2="138.1" y2="694.9" />
+        <line class="st5" x1="131.1" y1="680.9" x2="131.1" y2="694.9" />
+        <line class="st5" x1="124.1" y1="680.9" x2="124.1" y2="694.9" />
+        <line class="st5" x1="117.1" y1="680.9" x2="117.1" y2="694.9" />
+        <line class="st5" x1="110.1" y1="680.9" x2="110.1" y2="694.9" />
+        <line class="st5" x1="103.1" y1="680.9" x2="103.1" y2="694.9" />
+        <line class="st5" x1="96.1" y1="680.9" x2="96.1" y2="694.9" />
+        <line class="st5" x1="89.1" y1="680.9" x2="89.1" y2="694.9" />
+        <line class="st5" x1="82.1" y1="680.9" x2="82.1" y2="694.9" />
       </g>
-      <g id="escalier_C11_1_">
-        <rect
-          id="marche_26_14_"
-          x="349.4"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_14_"
-          x="355.8"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_14_"
-          x="362.2"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_14_"
-          x="368.6"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_14_"
-          x="374.9"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_14_"
-          x="381.3"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_14_"
-          x="387.7"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_14_"
-          x="394.1"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_14_"
-          x="400.5"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_14_"
-          x="406.9"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_29_"
-          x="413.3"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_28_"
-          x="419.7"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_14_"
-          x="426.1"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_14_"
-          x="432.5"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_14_"
-          x="438.9"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_14_"
-          x="445.2"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_14_"
-          x="451.6"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_14_"
-          x="457.9"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_14_"
-          x="464.3"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_14_"
-          x="470.7"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_14_"
-          x="477.1"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_14_"
-          x="483.5"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_14_"
-          x="489.9"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_14_"
-          x="496.3"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_23_"
-          x="502.7"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_23_"
-          x="508.6"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_23_"
-          x="515"
-          y="1367.3"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC7">
+        <rect x="78.7" y="893" class="st4" width="241" height="14" />
+        <line class="st5" x1="312.8" y1="893.2" x2="312.8" y2="907.1" />
+        <line class="st5" x1="305.8" y1="893.2" x2="305.8" y2="907.1" />
+        <line class="st5" x1="298.8" y1="893.2" x2="298.8" y2="907.1" />
+        <line class="st5" x1="291.8" y1="893.2" x2="291.8" y2="907.1" />
+        <line class="st5" x1="284.8" y1="893.2" x2="284.8" y2="907.1" />
+        <line class="st5" x1="277.8" y1="893.2" x2="277.8" y2="907.1" />
+        <line class="st5" x1="270.8" y1="893.2" x2="270.8" y2="907.1" />
+        <line class="st5" x1="263.8" y1="893.2" x2="263.8" y2="907.1" />
+        <line class="st5" x1="256.8" y1="893.2" x2="256.8" y2="907.1" />
+        <line class="st5" x1="249.8" y1="893.2" x2="249.8" y2="907.1" />
+        <line class="st5" x1="242.8" y1="893.2" x2="242.8" y2="907.1" />
+        <line class="st5" x1="235.8" y1="893.2" x2="235.8" y2="907.1" />
+        <line class="st5" x1="228.8" y1="893.2" x2="228.8" y2="907.1" />
+        <line class="st5" x1="221.8" y1="893.2" x2="221.8" y2="907.1" />
+        <line class="st5" x1="214.8" y1="893.2" x2="214.8" y2="907.1" />
+        <line class="st5" x1="207.8" y1="893.2" x2="207.8" y2="907.1" />
+        <line class="st5" x1="200.8" y1="893.2" x2="200.8" y2="907.1" />
+        <line class="st5" x1="193.8" y1="893.2" x2="193.8" y2="907.1" />
+        <line class="st5" x1="186.8" y1="893.2" x2="186.8" y2="907.1" />
+        <line class="st5" x1="179.8" y1="893.2" x2="179.8" y2="907.1" />
+        <line class="st5" x1="172.8" y1="893.2" x2="172.8" y2="907.1" />
+        <line class="st5" x1="165.8" y1="893.2" x2="165.8" y2="907.1" />
+        <line class="st5" x1="158.8" y1="893.2" x2="158.8" y2="907.1" />
+        <line class="st5" x1="151.8" y1="893.2" x2="151.8" y2="907.1" />
+        <line class="st5" x1="144.8" y1="893.2" x2="144.8" y2="907.1" />
+        <line class="st5" x1="137.8" y1="893.2" x2="137.8" y2="907.1" />
+        <line class="st5" x1="130.8" y1="893.2" x2="130.8" y2="907.1" />
+        <line class="st5" x1="123.8" y1="893.2" x2="123.8" y2="907.1" />
+        <line class="st5" x1="116.8" y1="893.2" x2="116.8" y2="907.1" />
+        <line class="st5" x1="109.8" y1="893.2" x2="109.8" y2="907.1" />
+        <line class="st5" x1="102.8" y1="893.2" x2="102.8" y2="907.1" />
+        <line class="st5" x1="95.8" y1="893.2" x2="95.8" y2="907.1" />
+        <line class="st5" x1="88.8" y1="893.2" x2="88.8" y2="907.1" />
+        <line class="st5" x1="81.8" y1="893.2" x2="81.8" y2="907.1" />
       </g>
-      <g id="escalier_C9_1_">
-        <rect
-          id="marche_26_13_"
-          x="349.2"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_13_"
-          x="355.6"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_13_"
-          x="362"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_13_"
-          x="368.4"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_13_"
-          x="374.8"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_13_"
-          x="381.1"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_13_"
-          x="387.5"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_13_"
-          x="393.9"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_13_"
-          x="400.3"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_13_"
-          x="406.7"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_27_"
-          x="413.1"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_26_"
-          x="419.5"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_13_"
-          x="425.9"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_13_"
-          x="432.3"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_13_"
-          x="438.7"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_13_"
-          x="445.1"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_13_"
-          x="451.4"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_13_"
-          x="457.7"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_13_"
-          x="464.1"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_13_"
-          x="470.5"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_13_"
-          x="476.9"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_13_"
-          x="483.3"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_13_"
-          x="489.7"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_13_"
-          x="496.1"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_22_"
-          x="502.5"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_22_"
-          x="508.4"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_22_"
-          x="514.8"
-          y="1133.9"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC9">
+        <rect x="79.3" y="1104.2" class="st4" width="241" height="14" />
+        <line class="st5" x1="313.3" y1="1104.4" x2="313.3" y2="1118.3" />
+        <line class="st5" x1="306.3" y1="1104.4" x2="306.3" y2="1118.3" />
+        <line class="st5" x1="299.3" y1="1104.4" x2="299.3" y2="1118.3" />
+        <line class="st5" x1="292.3" y1="1104.4" x2="292.3" y2="1118.3" />
+        <line class="st5" x1="285.3" y1="1104.4" x2="285.3" y2="1118.3" />
+        <line class="st5" x1="278.3" y1="1104.4" x2="278.3" y2="1118.3" />
+        <line class="st5" x1="271.3" y1="1104.4" x2="271.3" y2="1118.3" />
+        <line class="st5" x1="264.3" y1="1104.4" x2="264.3" y2="1118.3" />
+        <line class="st5" x1="257.3" y1="1104.4" x2="257.3" y2="1118.3" />
+        <line class="st5" x1="250.3" y1="1104.4" x2="250.3" y2="1118.3" />
+        <line class="st5" x1="243.3" y1="1104.4" x2="243.3" y2="1118.3" />
+        <line class="st5" x1="236.3" y1="1104.4" x2="236.3" y2="1118.3" />
+        <line class="st5" x1="229.3" y1="1104.4" x2="229.3" y2="1118.3" />
+        <line class="st5" x1="222.3" y1="1104.4" x2="222.3" y2="1118.3" />
+        <line class="st5" x1="215.3" y1="1104.4" x2="215.3" y2="1118.3" />
+        <line class="st5" x1="208.3" y1="1104.4" x2="208.3" y2="1118.3" />
+        <line class="st5" x1="201.3" y1="1104.4" x2="201.3" y2="1118.3" />
+        <line class="st5" x1="194.3" y1="1104.4" x2="194.3" y2="1118.3" />
+        <line class="st5" x1="187.3" y1="1104.4" x2="187.3" y2="1118.3" />
+        <line class="st5" x1="180.3" y1="1104.4" x2="180.3" y2="1118.3" />
+        <line class="st5" x1="173.3" y1="1104.4" x2="173.3" y2="1118.3" />
+        <line class="st5" x1="166.3" y1="1104.4" x2="166.3" y2="1118.3" />
+        <line class="st5" x1="159.3" y1="1104.4" x2="159.3" y2="1118.3" />
+        <line class="st5" x1="152.3" y1="1104.4" x2="152.3" y2="1118.3" />
+        <line class="st5" x1="145.3" y1="1104.4" x2="145.3" y2="1118.3" />
+        <line class="st5" x1="138.3" y1="1104.4" x2="138.3" y2="1118.3" />
+        <line class="st5" x1="131.3" y1="1104.4" x2="131.3" y2="1118.3" />
+        <line class="st5" x1="124.3" y1="1104.4" x2="124.3" y2="1118.3" />
+        <line class="st5" x1="117.3" y1="1104.4" x2="117.3" y2="1118.3" />
+        <line class="st5" x1="110.3" y1="1104.4" x2="110.3" y2="1118.3" />
+        <line class="st5" x1="103.3" y1="1104.4" x2="103.3" y2="1118.3" />
+        <line class="st5" x1="96.3" y1="1104.4" x2="96.3" y2="1118.3" />
+        <line class="st5" x1="89.3" y1="1104.4" x2="89.3" y2="1118.3" />
+        <line class="st5" x1="82.3" y1="1104.4" x2="82.3" y2="1118.3" />
       </g>
-      <g id="escalier_C7_1_">
-        <rect
-          id="marche_26_12_"
-          x="349.7"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_12_"
-          x="356.1"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_12_"
-          x="362.4"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_12_"
-          x="368.8"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_12_"
-          x="375.2"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_12_"
-          x="381.6"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_12_"
-          x="388"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_12_"
-          x="394.4"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_12_"
-          x="400.8"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_12_"
-          x="407.2"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_25_"
-          x="413.6"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_24_"
-          x="420"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_12_"
-          x="426.4"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_12_"
-          x="432.7"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_12_"
-          x="439.1"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_12_"
-          x="445.5"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_12_"
-          x="451.9"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_12_"
-          x="458.2"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_12_"
-          x="464.6"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_12_"
-          x="471"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_12_"
-          x="477.4"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_12_"
-          x="483.8"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_12_"
-          x="490.2"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_12_"
-          x="496.5"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_21_"
-          x="502.9"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_21_"
-          x="508.9"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_21_"
-          x="515.3"
-          y="898.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC11">
+        <rect x="80.5" y="1314.5" class="st4" width="241" height="14" />
+        <line class="st5" x1="314.6" y1="1314.7" x2="314.6" y2="1328.7" />
+        <line class="st5" x1="307.6" y1="1314.7" x2="307.6" y2="1328.7" />
+        <line class="st5" x1="300.6" y1="1314.7" x2="300.6" y2="1328.7" />
+        <line class="st5" x1="293.6" y1="1314.7" x2="293.6" y2="1328.7" />
+        <line class="st5" x1="286.6" y1="1314.7" x2="286.6" y2="1328.7" />
+        <line class="st5" x1="279.6" y1="1314.7" x2="279.6" y2="1328.7" />
+        <line class="st5" x1="272.6" y1="1314.7" x2="272.6" y2="1328.7" />
+        <line class="st5" x1="265.6" y1="1314.7" x2="265.6" y2="1328.7" />
+        <line class="st5" x1="258.6" y1="1314.7" x2="258.6" y2="1328.7" />
+        <line class="st5" x1="251.6" y1="1314.7" x2="251.6" y2="1328.7" />
+        <line class="st5" x1="244.6" y1="1314.7" x2="244.6" y2="1328.7" />
+        <line class="st5" x1="237.6" y1="1314.7" x2="237.6" y2="1328.7" />
+        <line class="st5" x1="230.6" y1="1314.7" x2="230.6" y2="1328.7" />
+        <line class="st5" x1="223.6" y1="1314.7" x2="223.6" y2="1328.7" />
+        <line class="st5" x1="216.6" y1="1314.7" x2="216.6" y2="1328.7" />
+        <line class="st5" x1="209.6" y1="1314.7" x2="209.6" y2="1328.7" />
+        <line class="st5" x1="202.6" y1="1314.7" x2="202.6" y2="1328.7" />
+        <line class="st5" x1="195.6" y1="1314.7" x2="195.6" y2="1328.7" />
+        <line class="st5" x1="188.6" y1="1314.7" x2="188.6" y2="1328.7" />
+        <line class="st5" x1="181.6" y1="1314.7" x2="181.6" y2="1328.7" />
+        <line class="st5" x1="174.6" y1="1314.7" x2="174.6" y2="1328.7" />
+        <line class="st5" x1="167.6" y1="1314.7" x2="167.6" y2="1328.7" />
+        <line class="st5" x1="160.6" y1="1314.7" x2="160.6" y2="1328.7" />
+        <line class="st5" x1="153.6" y1="1314.7" x2="153.6" y2="1328.7" />
+        <line class="st5" x1="146.6" y1="1314.7" x2="146.6" y2="1328.7" />
+        <line class="st5" x1="139.6" y1="1314.7" x2="139.6" y2="1328.7" />
+        <line class="st5" x1="132.6" y1="1314.7" x2="132.6" y2="1328.7" />
+        <line class="st5" x1="125.6" y1="1314.7" x2="125.6" y2="1328.7" />
+        <line class="st5" x1="118.6" y1="1314.7" x2="118.6" y2="1328.7" />
+        <line class="st5" x1="111.6" y1="1314.7" x2="111.6" y2="1328.7" />
+        <line class="st5" x1="104.6" y1="1314.7" x2="104.6" y2="1328.7" />
+        <line class="st5" x1="97.6" y1="1314.7" x2="97.6" y2="1328.7" />
+        <line class="st5" x1="90.6" y1="1314.7" x2="90.6" y2="1328.7" />
+        <line class="st5" x1="83.6" y1="1314.7" x2="83.6" y2="1328.7" />
       </g>
-      <g id="escalier_C5_1_">
-        <rect
-          id="marche_26_11_"
-          x="349.8"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_11_"
-          x="356.2"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_11_"
-          x="362.6"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_11_"
-          x="369"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_11_"
-          x="375.4"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_11_"
-          x="381.8"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_11_"
-          x="388.2"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_11_"
-          x="394.6"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_11_"
-          x="400.9"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_11_"
-          x="407.3"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_23_"
-          x="413.7"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_22_"
-          x="420.1"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_11_"
-          x="426.5"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_11_"
-          x="432.9"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_11_"
-          x="439.3"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_11_"
-          x="445.7"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_11_"
-          x="452.1"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_11_"
-          x="458.4"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_11_"
-          x="464.7"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_11_"
-          x="471.1"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_11_"
-          x="477.5"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_11_"
-          x="483.9"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_11_"
-          x="490.3"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_11_"
-          x="496.7"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_20_"
-          x="503.1"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_20_"
-          x="509"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_20_"
-          x="515.4"
-          y="663.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC13">
+        <rect x="79" y="1526.4" class="st4" width="241" height="14" />
+        <line class="st5" x1="313" y1="1526.6" x2="313" y2="1540.6" />
+        <line class="st5" x1="306" y1="1526.6" x2="306" y2="1540.6" />
+        <line class="st5" x1="299" y1="1526.6" x2="299" y2="1540.6" />
+        <line class="st5" x1="292" y1="1526.6" x2="292" y2="1540.6" />
+        <line class="st5" x1="285" y1="1526.6" x2="285" y2="1540.6" />
+        <line class="st5" x1="278" y1="1526.6" x2="278" y2="1540.6" />
+        <line class="st5" x1="271" y1="1526.6" x2="271" y2="1540.6" />
+        <line class="st5" x1="264" y1="1526.6" x2="264" y2="1540.6" />
+        <line class="st5" x1="257" y1="1526.6" x2="257" y2="1540.6" />
+        <line class="st5" x1="250" y1="1526.6" x2="250" y2="1540.6" />
+        <line class="st5" x1="243" y1="1526.6" x2="243" y2="1540.6" />
+        <line class="st5" x1="236" y1="1526.6" x2="236" y2="1540.6" />
+        <line class="st5" x1="229" y1="1526.6" x2="229" y2="1540.6" />
+        <line class="st5" x1="222" y1="1526.6" x2="222" y2="1540.6" />
+        <line class="st5" x1="215" y1="1526.6" x2="215" y2="1540.6" />
+        <line class="st5" x1="208" y1="1526.6" x2="208" y2="1540.6" />
+        <line class="st5" x1="201" y1="1526.6" x2="201" y2="1540.6" />
+        <line class="st5" x1="194" y1="1526.6" x2="194" y2="1540.6" />
+        <line class="st5" x1="187" y1="1526.6" x2="187" y2="1540.6" />
+        <line class="st5" x1="180" y1="1526.6" x2="180" y2="1540.6" />
+        <line class="st5" x1="173" y1="1526.6" x2="173" y2="1540.6" />
+        <line class="st5" x1="166" y1="1526.6" x2="166" y2="1540.6" />
+        <line class="st5" x1="159" y1="1526.6" x2="159" y2="1540.6" />
+        <line class="st5" x1="152" y1="1526.6" x2="152" y2="1540.6" />
+        <line class="st5" x1="145" y1="1526.6" x2="145" y2="1540.6" />
+        <line class="st5" x1="138" y1="1526.6" x2="138" y2="1540.6" />
+        <line class="st5" x1="131" y1="1526.6" x2="131" y2="1540.6" />
+        <line class="st5" x1="124" y1="1526.6" x2="124" y2="1540.6" />
+        <line class="st5" x1="117" y1="1526.6" x2="117" y2="1540.6" />
+        <line class="st5" x1="110" y1="1526.6" x2="110" y2="1540.6" />
+        <line class="st5" x1="103" y1="1526.6" x2="103" y2="1540.6" />
+        <line class="st5" x1="96" y1="1526.6" x2="96" y2="1540.6" />
+        <line class="st5" x1="89" y1="1526.6" x2="89" y2="1540.6" />
+        <line class="st5" x1="82" y1="1526.6" x2="82" y2="1540.6" />
       </g>
-      <g id="escalier_C3_1_">
-        <rect
-          id="marche_26_10_"
-          x="349.8"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_10_"
-          x="356.2"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_10_"
-          x="362.6"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_10_"
-          x="369"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_10_"
-          x="375.4"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_10_"
-          x="381.8"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_10_"
-          x="388.2"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_10_"
-          x="394.6"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_10_"
-          x="400.9"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_10_"
-          x="407.3"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_21_"
-          x="413.7"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_20_"
-          x="420.1"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_10_"
-          x="426.5"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_10_"
-          x="432.9"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_10_"
-          x="439.3"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_10_"
-          x="445.7"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_10_"
-          x="452.1"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_10_"
-          x="458.4"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_10_"
-          x="464.7"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_10_"
-          x="471.1"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_10_"
-          x="477.5"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_10_"
-          x="483.9"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_10_"
-          x="490.3"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_10_"
-          x="496.7"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_19_"
-          x="503.1"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_19_"
-          x="509"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_19_"
-          x="515.4"
-          y="436.7"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC15">
+        <rect x="78.8" y="1732.8" class="st4" width="241" height="14" />
+        <line class="st5" x1="312.9" y1="1733" x2="312.9" y2="1747" />
+        <line class="st5" x1="305.9" y1="1733" x2="305.9" y2="1747" />
+        <line class="st5" x1="298.9" y1="1733" x2="298.9" y2="1747" />
+        <line class="st5" x1="291.9" y1="1733" x2="291.9" y2="1747" />
+        <line class="st5" x1="284.9" y1="1733" x2="284.9" y2="1747" />
+        <line class="st5" x1="277.9" y1="1733" x2="277.9" y2="1747" />
+        <line class="st5" x1="270.9" y1="1733" x2="270.9" y2="1747" />
+        <line class="st5" x1="263.9" y1="1733" x2="263.9" y2="1747" />
+        <line class="st5" x1="256.9" y1="1733" x2="256.9" y2="1747" />
+        <line class="st5" x1="249.9" y1="1733" x2="249.9" y2="1747" />
+        <line class="st5" x1="242.9" y1="1733" x2="242.9" y2="1747" />
+        <line class="st5" x1="235.9" y1="1733" x2="235.9" y2="1747" />
+        <line class="st5" x1="228.9" y1="1733" x2="228.9" y2="1747" />
+        <line class="st5" x1="221.9" y1="1733" x2="221.9" y2="1747" />
+        <line class="st5" x1="214.9" y1="1733" x2="214.9" y2="1747" />
+        <line class="st5" x1="207.9" y1="1733" x2="207.9" y2="1747" />
+        <line class="st5" x1="200.9" y1="1733" x2="200.9" y2="1747" />
+        <line class="st5" x1="193.9" y1="1733" x2="193.9" y2="1747" />
+        <line class="st5" x1="186.9" y1="1733" x2="186.9" y2="1747" />
+        <line class="st5" x1="179.9" y1="1733" x2="179.9" y2="1747" />
+        <line class="st5" x1="172.9" y1="1733" x2="172.9" y2="1747" />
+        <line class="st5" x1="165.9" y1="1733" x2="165.9" y2="1747" />
+        <line class="st5" x1="158.9" y1="1733" x2="158.9" y2="1747" />
+        <line class="st5" x1="151.9" y1="1733" x2="151.9" y2="1747" />
+        <line class="st5" x1="144.9" y1="1733" x2="144.9" y2="1747" />
+        <line class="st5" x1="137.9" y1="1733" x2="137.9" y2="1747" />
+        <line class="st5" x1="130.9" y1="1733" x2="130.9" y2="1747" />
+        <line class="st5" x1="123.9" y1="1733" x2="123.9" y2="1747" />
+        <line class="st5" x1="116.9" y1="1733" x2="116.9" y2="1747" />
+        <line class="st5" x1="109.9" y1="1733" x2="109.9" y2="1747" />
+        <line class="st5" x1="102.9" y1="1733" x2="102.9" y2="1747" />
+        <line class="st5" x1="95.9" y1="1733" x2="95.9" y2="1747" />
+        <line class="st5" x1="88.9" y1="1733" x2="88.9" y2="1747" />
+        <line class="st5" x1="81.9" y1="1733" x2="81.9" y2="1747" />
       </g>
-      <g id="escalier_C1_1_">
-        <rect
-          id="marche_26_9_"
-          x="349.9"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_25_9_"
-          x="356.3"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_24_9_"
-          x="362.7"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_23_9_"
-          x="369.1"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_22_9_"
-          x="375.5"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_21_9_"
-          x="381.9"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_20_9_"
-          x="388.3"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_19_9_"
-          x="394.7"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_18_9_"
-          x="401.1"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_17_9_"
-          x="407.4"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_19_"
-          x="413.8"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_16_18_"
-          x="420.2"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_15_9_"
-          x="426.6"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_14_9_"
-          x="433"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_13_9_"
-          x="439.4"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_12_9_"
-          x="445.8"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_11_9_"
-          x="452.2"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_10_9_"
-          x="458.5"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_9_9_"
-          x="464.9"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_8_9_"
-          x="471.2"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_7_9_"
-          x="477.6"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_6_9_"
-          x="484"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_5_9_"
-          x="490.4"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_4_9_"
-          x="496.8"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_3_18_"
-          x="503.2"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_2_18_"
-          x="509.1"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
-        <rect
-          id="marche_1_18_"
-          x="515.5"
-          y="274.8"
-          class="st3"
-          width="6.4"
-          height="15.3"
-        />
+      <g id="escalierC17">
+        <rect x="79.8" y="1868.8" class="st4" width="241" height="14" />
+        <line class="st5" x1="313.9" y1="1869.1" x2="313.9" y2="1883.1" />
+        <line class="st5" x1="306.9" y1="1869.1" x2="306.9" y2="1883.1" />
+        <line class="st5" x1="299.9" y1="1869.1" x2="299.9" y2="1883" />
+        <line class="st5" x1="292.9" y1="1869.1" x2="292.9" y2="1883" />
+        <line class="st5" x1="285.9" y1="1869.1" x2="285.9" y2="1883" />
+        <line class="st5" x1="278.9" y1="1869.1" x2="278.9" y2="1883" />
+        <line class="st5" x1="271.9" y1="1869.1" x2="271.9" y2="1883" />
+        <line class="st5" x1="264.9" y1="1869.1" x2="264.9" y2="1883" />
+        <line class="st5" x1="257.9" y1="1869.1" x2="257.9" y2="1883" />
+        <line class="st5" x1="250.9" y1="1869.1" x2="250.9" y2="1883" />
+        <line class="st5" x1="243.9" y1="1869.1" x2="243.9" y2="1883" />
+        <line class="st5" x1="236.9" y1="1869" x2="236.9" y2="1883" />
+        <line class="st5" x1="229.9" y1="1869" x2="229.9" y2="1883" />
+        <line class="st5" x1="222.9" y1="1869" x2="222.9" y2="1883" />
+        <line class="st5" x1="215.9" y1="1869" x2="215.9" y2="1883" />
+        <line class="st5" x1="208.9" y1="1869" x2="208.9" y2="1883" />
+        <line class="st5" x1="201.9" y1="1869" x2="201.9" y2="1883" />
+        <line class="st5" x1="194.9" y1="1869" x2="194.9" y2="1883" />
+        <line class="st5" x1="187.9" y1="1869" x2="187.9" y2="1883" />
+        <line class="st5" x1="180.9" y1="1869" x2="180.9" y2="1883" />
+        <line class="st5" x1="173.9" y1="1869" x2="173.9" y2="1883" />
+        <line class="st5" x1="166.9" y1="1869" x2="166.9" y2="1883" />
+        <line class="st5" x1="159.9" y1="1869" x2="159.9" y2="1882.9" />
+        <line class="st5" x1="152.9" y1="1869" x2="152.9" y2="1882.9" />
+        <line class="st5" x1="145.9" y1="1869" x2="145.9" y2="1882.9" />
+        <line class="st5" x1="138.9" y1="1869" x2="138.9" y2="1882.9" />
+        <line class="st5" x1="131.9" y1="1869" x2="131.9" y2="1882.9" />
+        <line class="st5" x1="124.9" y1="1869" x2="124.9" y2="1882.9" />
+        <line class="st5" x1="117.9" y1="1869" x2="117.9" y2="1882.9" />
+        <line class="st5" x1="110.9" y1="1869" x2="110.9" y2="1882.9" />
+        <line class="st5" x1="103.9" y1="1868.9" x2="103.9" y2="1882.9" />
+        <line class="st5" x1="96.9" y1="1868.9" x2="96.9" y2="1882.9" />
+        <line class="st5" x1="89.9" y1="1868.9" x2="89.9" y2="1882.9" />
+        <line class="st5" x1="82.9" y1="1868.9" x2="82.9" y2="1882.9" />
       </g>
     </g>
-    <g id="escaliers_hauts">
-      <g id="escaliers_C16_2_">
+    <g id="indicator">
+      <g id="C1indicator">
+        <path
+          id="C1indrect"
+          class="st6"
+          d="M447.8,344.7H334.1c-2.8,0-5.1-2.3-5.1-5.1v-40.8c0-2.8,2.3-5.1,5.1-5.1h113.7
+			c2.8,0,5.1,2.3,5.1,5.1v40.8C452.9,342.4,450.6,344.7,447.8,344.7z"
+        />
+        <g id="C1indstairs">
+          <path
+            class="st0"
+            d="M332.6,297.6v41.6c0,1.2,0.9,2.1,2.1,2.1h41.6c1.2,0,2.1-0.9,2.1-2.1v-41.6c0-1.2-0.9-2.1-2.1-2.1h-41.6
+				C333.6,295.5,332.6,296.4,332.6,297.6z M335.1,298H376v40.8h-40.8V298z"
+          />
+          <path
+            d="M373.9,336.1v-34.5c0-0.7-0.6-1.3-1.3-1.3h-8.2v6.9h-6.9v6.9h-6.9v6.9h-6.9v6.9h-6.9v8.2c0,0.7,0.6,1.3,1.3,1.3h34.5
+				C373.4,337.4,373.9,336.8,373.9,336.1z M367,308.5v-5.7h4.4v32h-32v-4.4h5.7c0.7,0,1.3-0.6,1.3-1.3v-5.7h5.7
+				c0.7,0,1.3-0.6,1.3-1.3v-5.7h5.7c0.7,0,1.3-0.6,1.3-1.3v-5.7h5.7C366.5,309.8,367,309.2,367,308.5L367,308.5z"
+          />
+          <path
+            d="M354.7,302.5c0.5-0.5,0.5-1.3,0-1.8c-0.5-0.5-1.3-0.5-1.8,0l-8.2,8.2l0-2.3c0-0.7-0.6-1.2-1.3-1.2c0,0,0,0,0,0
+				c-0.7,0-1.3,0.6-1.2,1.3l0,5.2c0,0,0,0,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0,0,0c0,0,0,0,0,0c0,0.2,0,0.3,0.1,0.5c0,0,0,0,0,0
+				c0.1,0.1,0.2,0.3,0.3,0.4l0,0c0,0,0,0,0,0c0.1,0.1,0.3,0.2,0.4,0.3c0,0,0,0,0,0c0.1,0.1,0.3,0.1,0.5,0.1l5.2,0c0,0,0,0,0,0
+				c0.7,0,1.3-0.6,1.3-1.2c0-0.7-0.6-1.3-1.2-1.3l-2.2,0L354.7,302.5z"
+          />
+        </g>
+        <text
+          id="C1indtext"
+          transform="matrix(1 0 0 1 382.2339 337.7734)"
+          class="st7 st8"
+        >
+          C1
+        </text>
+      </g>
+      <g id="C2indicator">
+        <path
+          id="C2indrect"
+          class="st6"
+          d="M542,433.8H428.1c-2.8,0-5.1-2.3-5.1-5.1v-40.9c0-2.8,2.3-5.1,5.1-5.1H542
+			c2.8,0,5.1,2.3,5.1,5.1v40.9C547.1,431.5,544.8,433.8,542,433.8z"
+        />
+        <g id="C2indstairs">
+          <path
+            class="st0"
+            d="M471.9,384.5h-43.1c-1.2,0-2.2,1-2.2,2.2v43.1c0,1.2,1,2.2,2.2,2.2h43.1c1.2,0,2.2-1,2.2-2.2v-43.1
+				C474.1,385.4,473.1,384.5,471.9,384.5z M471.5,429.3h-42.3v-42.3h42.3L471.5,429.3L471.5,429.3z"
+          />
+          <path
+            d="M432.6,427.9h35.8c0.7,0,1.3-0.6,1.3-1.3v-8.4h-7.2V411h-7.2v-7.2h-7.2v-7.2h-7.2v-7.2h-8.4c-0.7,0-1.3,0.6-1.3,1.3v35.8
+				C431.3,427.3,431.9,427.9,432.6,427.9z M438.5,398c0,0.7,0.6,1.3,1.3,1.3h5.9v5.9c0,0.7,0.6,1.3,1.3,1.3h5.9v5.9
+				c0,0.7,0.6,1.3,1.3,1.3h5.9v5.9c0,0.7,0.6,1.3,1.3,1.3h5.9v4.6h-33.2v-33.2h4.6L438.5,398L438.5,398z"
+          />
+          <path
+            d="M450.9,396.4c0,0.7,0.6,1.3,1.3,1.3c0,0,0,0,0,0c0.7,0,1.3-0.6,1.3-1.3l0-2.4l8.5,8.5c0.3,0.3,0.6,0.4,0.9,0.4
+				c0.3,0,0.7-0.1,0.9-0.4c0.5-0.5,0.5-1.3,0-1.8l-8.5-8.5l2.2,0c0.7,0,1.3-0.6,1.3-1.3c0-0.7-0.6-1.3-1.3-1.3c0,0,0,0,0,0l-5.3,0
+				h-0.1c-0.1,0-0.1,0-0.2,0c-0.1,0-0.1,0-0.2,0c-0.1,0-0.2,0.1-0.3,0.1c-0.1,0-0.1,0.1-0.2,0.1c0,0-0.1,0-0.1,0.1
+				c0,0,0,0.1-0.1,0.1c-0.1,0.1-0.1,0.1-0.1,0.2c0,0.1-0.1,0.1-0.1,0.2c0,0.1,0,0.2-0.1,0.3c0,0,0,0.1,0,0.1c0,0,0,0,0,0
+				c0,0,0,0.1,0,0.1c0,0,0,0,0,0.1L450.9,396.4z"
+          />
+        </g>
+        <text transform="matrix(1 0 0 1 476.2573 428.8398)" class="st7 st9">
+          C2
+        </text>
+      </g>
+    </g>
+    <g id="escaliers_hauts" class="st0">
+      <g id="escaliers_C16_2_" class="st10">
         <g id="escalier_balong_short_3_15_">
           <rect
             id="marche_3_249_"
             x="129.1"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2117,7 +540,7 @@
             id="marche_2_249_"
             x="135.1"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2125,7 +548,7 @@
             id="marche_3_248_"
             x="141.1"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2135,7 +558,7 @@
             id="marche_3_247_"
             x="164.1"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2143,7 +566,7 @@
             id="marche_2_248_"
             x="170.2"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2151,7 +574,7 @@
             id="marche_3_246_"
             x="176.3"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2159,7 +582,7 @@
             id="marche_2_247_"
             x="182.4"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2167,7 +590,7 @@
             id="marche_3_245_"
             x="188.6"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2175,7 +598,7 @@
             id="marche_2_246_"
             x="194.6"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2183,7 +606,7 @@
             id="marche_3_244_"
             x="200.8"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2191,7 +614,7 @@
             id="marche_2_245_"
             x="206.8"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2199,7 +622,7 @@
             id="marche_3_243_"
             x="213"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2207,7 +630,7 @@
             id="marche_2_244_"
             x="219"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2215,7 +638,7 @@
             id="marche_3_242_"
             x="225.2"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2223,7 +646,7 @@
             id="marche_2_243_"
             x="231.3"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2231,7 +654,7 @@
             id="marche_2_242_"
             x="237.4"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2239,7 +662,7 @@
             id="marche_3_241_"
             x="243.5"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2247,7 +670,7 @@
             id="marche_2_241_"
             x="249.6"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2255,7 +678,7 @@
             id="marche_3_240_"
             x="255.8"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2263,7 +686,7 @@
             id="marche_2_240_"
             x="261.8"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2271,7 +694,7 @@
             id="marche_3_239_"
             x="268"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2279,7 +702,7 @@
             id="marche_2_239_"
             x="274"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2287,7 +710,7 @@
             id="marche_3_238_"
             x="280.2"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2295,7 +718,7 @@
             id="marche_2_238_"
             x="286.3"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2303,7 +726,7 @@
             id="marche_3_237_"
             x="292.4"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2311,7 +734,7 @@
             id="marche_2_237_"
             x="298.5"
             y="1885.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2321,7 +744,7 @@
             id="marche_3_236_"
             x="129.1"
             y="1924.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2329,7 +752,7 @@
             id="marche_2_236_"
             x="135.1"
             y="1924.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2337,7 +760,7 @@
             id="marche_1_41_"
             x="141.4"
             y="1924.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2347,7 +770,7 @@
             id="marche_3_235_"
             x="164"
             y="1924"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2355,7 +778,7 @@
             id="marche_2_235_"
             x="169.9"
             y="1924"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2363,33 +786,33 @@
             id="marche_1_40_"
             x="176.3"
             y="1924"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_15_">
           <polygon
-            class="st3"
+            class="st11"
             points="147.5,1885.5 164.5,1885.5 164.5,1904.5 184.5,1904.5 184.5,1920.5 163.5,1920.5 163.5,1939.5 
 				147.5,1939.5 			"
           />
           <polygon
-            class="st4"
+            class="st12"
             points="163.5,1923.3 188.5,1923.5 188.4,1900.6 164.5,1900.5 164.5,1904.5 184.5,1904.5 185.5,1904.5 
 				185.5,1920.5 163.5,1920.5 			"
           />
-          <rect x="148" y="1886.2" class="st5" width="15" height="52.8" />
+          <rect x="148" y="1886.2" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M461.5,1782.5" />
+        <path class="st14" d="M461.5,1782.5" />
       </g>
-      <g id="escaliers_C14_1_">
+      <g id="escaliers_C14_1_" class="st10">
         <g id="escalier_balong_short_3_14_">
           <rect
             id="marche_3_234_"
             x="128.1"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2397,7 +820,7 @@
             id="marche_2_234_"
             x="134.1"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2405,7 +828,7 @@
             id="marche_3_233_"
             x="140.1"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2415,7 +838,7 @@
             id="marche_3_232_"
             x="163.1"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2423,7 +846,7 @@
             id="marche_2_233_"
             x="169.2"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2431,7 +854,7 @@
             id="marche_3_231_"
             x="175.3"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2439,7 +862,7 @@
             id="marche_2_232_"
             x="181.4"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2447,7 +870,7 @@
             id="marche_3_230_"
             x="187.6"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2455,7 +878,7 @@
             id="marche_2_231_"
             x="193.6"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2463,7 +886,7 @@
             id="marche_3_229_"
             x="199.8"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2471,7 +894,7 @@
             id="marche_2_230_"
             x="205.8"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2479,7 +902,7 @@
             id="marche_3_228_"
             x="212"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2487,7 +910,7 @@
             id="marche_2_229_"
             x="218.1"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2495,7 +918,7 @@
             id="marche_3_227_"
             x="224.2"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2503,7 +926,7 @@
             id="marche_2_228_"
             x="230.3"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2511,7 +934,7 @@
             id="marche_2_227_"
             x="236.4"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2519,7 +942,7 @@
             id="marche_3_226_"
             x="242.6"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2527,7 +950,7 @@
             id="marche_2_226_"
             x="248.6"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2535,7 +958,7 @@
             id="marche_3_225_"
             x="254.8"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2543,7 +966,7 @@
             id="marche_2_225_"
             x="260.8"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2551,7 +974,7 @@
             id="marche_3_224_"
             x="267"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2559,7 +982,7 @@
             id="marche_2_224_"
             x="273.1"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2567,7 +990,7 @@
             id="marche_3_223_"
             x="279.2"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2575,7 +998,7 @@
             id="marche_2_223_"
             x="285.3"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2583,7 +1006,7 @@
             id="marche_3_222_"
             x="291.4"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2591,7 +1014,7 @@
             id="marche_2_222_"
             x="297.5"
             y="1706.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2601,7 +1024,7 @@
             id="marche_3_221_"
             x="128.1"
             y="1745.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2609,7 +1032,7 @@
             id="marche_2_221_"
             x="134.1"
             y="1745.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2617,7 +1040,7 @@
             id="marche_1_39_"
             x="140.5"
             y="1745.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2627,7 +1050,7 @@
             id="marche_3_220_"
             x="163"
             y="1744.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2635,7 +1058,7 @@
             id="marche_2_220_"
             x="168.9"
             y="1744.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2643,33 +1066,33 @@
             id="marche_1_38_"
             x="175.3"
             y="1744.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_14_">
           <polygon
-            class="st3"
+            class="st11"
             points="146.5,1706.4 163.5,1706.4 163.5,1725.4 183.5,1725.4 183.5,1741.4 162.5,1741.4 162.5,1760.4 
 				146.5,1760.4 			"
           />
           <polygon
-            class="st4"
+            class="st12"
             points="162.5,1744.3 187.5,1744.4 187.5,1721.5 163.5,1721.4 163.5,1725.4 183.5,1725.4 184.5,1725.4 
 				184.5,1741.4 162.5,1741.4 			"
           />
-          <rect x="147" y="1707.1" class="st5" width="15" height="52.8" />
+          <rect x="147" y="1707.1" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M460.5,1603.4" />
+        <path class="st14" d="M460.5,1603.4" />
       </g>
-      <g id="escaliers_C12_1_">
+      <g id="escaliers_C12_1_" class="st10">
         <g id="escalier_balong_short_3_13_">
           <rect
             id="marche_3_219_"
             x="128.1"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2677,7 +1100,7 @@
             id="marche_2_219_"
             x="134.1"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2685,7 +1108,7 @@
             id="marche_3_218_"
             x="140.1"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2695,7 +1118,7 @@
             id="marche_3_217_"
             x="163.1"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2703,7 +1126,7 @@
             id="marche_2_218_"
             x="169.2"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2711,7 +1134,7 @@
             id="marche_3_216_"
             x="175.3"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2719,7 +1142,7 @@
             id="marche_2_217_"
             x="181.4"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2727,7 +1150,7 @@
             id="marche_3_215_"
             x="187.6"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2735,7 +1158,7 @@
             id="marche_2_216_"
             x="193.6"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2743,7 +1166,7 @@
             id="marche_3_214_"
             x="199.8"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2751,7 +1174,7 @@
             id="marche_2_215_"
             x="205.8"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2759,7 +1182,7 @@
             id="marche_3_213_"
             x="212"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2767,7 +1190,7 @@
             id="marche_2_214_"
             x="218.1"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2775,7 +1198,7 @@
             id="marche_3_212_"
             x="224.2"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2783,7 +1206,7 @@
             id="marche_2_213_"
             x="230.3"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2791,7 +1214,7 @@
             id="marche_2_212_"
             x="236.4"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2799,7 +1222,7 @@
             id="marche_3_211_"
             x="242.6"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2807,7 +1230,7 @@
             id="marche_2_211_"
             x="248.6"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2815,7 +1238,7 @@
             id="marche_3_210_"
             x="254.8"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2823,7 +1246,7 @@
             id="marche_2_210_"
             x="260.8"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2831,7 +1254,7 @@
             id="marche_3_209_"
             x="267"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2839,7 +1262,7 @@
             id="marche_2_209_"
             x="273.1"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2847,7 +1270,7 @@
             id="marche_3_208_"
             x="279.2"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2855,7 +1278,7 @@
             id="marche_2_208_"
             x="285.3"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2863,7 +1286,7 @@
             id="marche_3_207_"
             x="291.4"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2871,7 +1294,7 @@
             id="marche_2_207_"
             x="297.5"
             y="1463.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2881,7 +1304,7 @@
             id="marche_3_206_"
             x="128.1"
             y="1502.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2889,7 +1312,7 @@
             id="marche_2_206_"
             x="134.1"
             y="1502.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2897,7 +1320,7 @@
             id="marche_1_37_"
             x="140.5"
             y="1502.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2907,7 +1330,7 @@
             id="marche_3_205_"
             x="163"
             y="1501.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2915,7 +1338,7 @@
             id="marche_2_205_"
             x="168.9"
             y="1501.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2923,33 +1346,33 @@
             id="marche_1_36_"
             x="175.3"
             y="1501.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_13_">
           <polygon
-            class="st3"
+            class="st11"
             points="146.5,1463.4 163.5,1463.4 163.5,1482.4 183.5,1482.4 183.5,1498.4 162.5,1498.4 162.5,1517.4 
 				146.5,1517.4 			"
           />
           <polygon
-            class="st4"
+            class="st12"
             points="162.5,1501.3 187.5,1501.4 187.5,1478.5 163.5,1478.4 163.5,1482.4 183.5,1482.4 184.5,1482.4 
 				184.5,1498.4 162.5,1498.4 			"
           />
-          <rect x="147" y="1464.1" class="st5" width="15" height="52.8" />
+          <rect x="147" y="1464.1" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M460.5,1360.4" />
+        <path class="st14" d="M460.5,1360.4" />
       </g>
-      <g id="escaliers_C10_1_">
+      <g id="escaliers_C10_1_" class="st10">
         <g id="escalier_balong_short_3_12_">
           <rect
             id="marche_3_204_"
             x="128.1"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2957,7 +1380,7 @@
             id="marche_2_204_"
             x="134.1"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2965,7 +1388,7 @@
             id="marche_3_203_"
             x="140.1"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -2975,7 +1398,7 @@
             id="marche_3_202_"
             x="163.1"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2983,7 +1406,7 @@
             id="marche_2_203_"
             x="169.2"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2991,7 +1414,7 @@
             id="marche_3_201_"
             x="175.3"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -2999,7 +1422,7 @@
             id="marche_2_202_"
             x="181.4"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3007,7 +1430,7 @@
             id="marche_3_200_"
             x="187.6"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3015,7 +1438,7 @@
             id="marche_2_201_"
             x="193.6"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3023,7 +1446,7 @@
             id="marche_3_199_"
             x="199.8"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3031,7 +1454,7 @@
             id="marche_2_200_"
             x="205.8"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3039,7 +1462,7 @@
             id="marche_3_198_"
             x="212"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3047,7 +1470,7 @@
             id="marche_2_199_"
             x="218.1"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3055,7 +1478,7 @@
             id="marche_3_197_"
             x="224.2"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3063,7 +1486,7 @@
             id="marche_2_198_"
             x="230.3"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3071,7 +1494,7 @@
             id="marche_2_197_"
             x="236.4"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3079,7 +1502,7 @@
             id="marche_3_196_"
             x="242.6"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3087,7 +1510,7 @@
             id="marche_2_196_"
             x="248.6"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3095,7 +1518,7 @@
             id="marche_3_195_"
             x="254.8"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3103,7 +1526,7 @@
             id="marche_2_195_"
             x="260.8"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3111,7 +1534,7 @@
             id="marche_3_194_"
             x="267"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3119,7 +1542,7 @@
             id="marche_2_194_"
             x="273.1"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3127,7 +1550,7 @@
             id="marche_3_193_"
             x="279.2"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3135,7 +1558,7 @@
             id="marche_2_193_"
             x="285.3"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3143,7 +1566,7 @@
             id="marche_3_192_"
             x="291.4"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3151,7 +1574,7 @@
             id="marche_2_192_"
             x="297.5"
             y="1229.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3161,7 +1584,7 @@
             id="marche_3_191_"
             x="128.1"
             y="1268.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3169,7 +1592,7 @@
             id="marche_2_191_"
             x="134.1"
             y="1268.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3177,7 +1600,7 @@
             id="marche_1_35_"
             x="140.5"
             y="1268.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3187,7 +1610,7 @@
             id="marche_3_190_"
             x="163"
             y="1267.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3195,7 +1618,7 @@
             id="marche_2_190_"
             x="168.9"
             y="1267.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3203,33 +1626,33 @@
             id="marche_1_34_"
             x="175.3"
             y="1267.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_12_">
           <polygon
-            class="st3"
+            class="st11"
             points="146.5,1229.4 163.5,1229.4 163.5,1248.4 183.5,1248.4 183.5,1264.4 162.5,1264.4 162.5,1283.4 
 				146.5,1283.4 			"
           />
           <polygon
-            class="st4"
+            class="st12"
             points="162.5,1267.3 187.5,1267.4 187.5,1244.5 163.5,1244.4 163.5,1248.4 183.5,1248.4 184.5,1248.4 
 				184.5,1264.4 162.5,1264.4 			"
           />
-          <rect x="147" y="1230.1" class="st5" width="15" height="52.8" />
+          <rect x="147" y="1230.1" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M460.5,1126.4" />
+        <path class="st14" d="M460.5,1126.4" />
       </g>
-      <g id="escaliers_C8_1_">
+      <g id="escaliers_C8_1_" class="st10">
         <g id="escalier_balong_short_3_11_">
           <rect
             id="marche_3_189_"
             x="128.1"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3237,7 +1660,7 @@
             id="marche_2_189_"
             x="134.1"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3245,7 +1668,7 @@
             id="marche_3_188_"
             x="140.1"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3255,7 +1678,7 @@
             id="marche_3_187_"
             x="163.1"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3263,7 +1686,7 @@
             id="marche_2_188_"
             x="169.2"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3271,7 +1694,7 @@
             id="marche_3_186_"
             x="175.3"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3279,7 +1702,7 @@
             id="marche_2_187_"
             x="181.4"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3287,7 +1710,7 @@
             id="marche_3_185_"
             x="187.6"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3295,7 +1718,7 @@
             id="marche_2_186_"
             x="193.6"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3303,7 +1726,7 @@
             id="marche_3_184_"
             x="199.8"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3311,7 +1734,7 @@
             id="marche_2_185_"
             x="205.8"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3319,7 +1742,7 @@
             id="marche_3_183_"
             x="212"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3327,7 +1750,7 @@
             id="marche_2_184_"
             x="218.1"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3335,7 +1758,7 @@
             id="marche_3_182_"
             x="224.2"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3343,7 +1766,7 @@
             id="marche_2_183_"
             x="230.3"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3351,7 +1774,7 @@
             id="marche_2_182_"
             x="236.4"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3359,7 +1782,7 @@
             id="marche_3_181_"
             x="242.6"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3367,7 +1790,7 @@
             id="marche_2_181_"
             x="248.6"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3375,7 +1798,7 @@
             id="marche_3_180_"
             x="254.8"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3383,7 +1806,7 @@
             id="marche_2_180_"
             x="260.8"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3391,7 +1814,7 @@
             id="marche_3_179_"
             x="267"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3399,7 +1822,7 @@
             id="marche_2_179_"
             x="273.1"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3407,7 +1830,7 @@
             id="marche_3_178_"
             x="279.2"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3415,7 +1838,7 @@
             id="marche_2_178_"
             x="285.3"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3423,7 +1846,7 @@
             id="marche_3_177_"
             x="291.4"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3431,7 +1854,7 @@
             id="marche_2_177_"
             x="297.5"
             y="991.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3441,7 +1864,7 @@
             id="marche_3_176_"
             x="128.1"
             y="1030.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3449,7 +1872,7 @@
             id="marche_2_176_"
             x="134.1"
             y="1030.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3457,7 +1880,7 @@
             id="marche_1_8_"
             x="140.5"
             y="1030.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3467,7 +1890,7 @@
             id="marche_3_175_"
             x="163"
             y="1029.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3475,7 +1898,7 @@
             id="marche_2_175_"
             x="168.9"
             y="1029.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3483,33 +1906,33 @@
             id="marche_1_7_"
             x="175.3"
             y="1029.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_11_">
           <polygon
-            class="st3"
+            class="st11"
             points="146.5,991.4 163.5,991.4 163.5,1010.4 183.5,1010.4 183.5,1026.4 162.5,1026.4 162.5,1045.4 
 				146.5,1045.4 			"
           />
           <polygon
-            class="st4"
+            class="st12"
             points="162.5,1029.3 187.5,1029.4 187.5,1006.5 163.5,1006.4 163.5,1010.4 183.5,1010.4 184.5,1010.4 
 				184.5,1026.4 162.5,1026.4 			"
           />
-          <rect x="147" y="992.1" class="st5" width="15" height="52.8" />
+          <rect x="147" y="992.1" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M460.5,888.4" />
+        <path class="st14" d="M460.5,888.4" />
       </g>
-      <g id="escaliers_C6_1_">
+      <g id="escaliers_C6_1_" class="st10">
         <g id="escalier_balong_short_3_10_">
           <rect
             id="marche_3_174_"
             x="128.1"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3517,7 +1940,7 @@
             id="marche_2_174_"
             x="134.1"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3525,7 +1948,7 @@
             id="marche_3_173_"
             x="140.1"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3535,7 +1958,7 @@
             id="marche_3_172_"
             x="163.1"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3543,7 +1966,7 @@
             id="marche_2_173_"
             x="169.2"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3551,7 +1974,7 @@
             id="marche_3_171_"
             x="175.3"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3559,7 +1982,7 @@
             id="marche_2_172_"
             x="181.4"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3567,7 +1990,7 @@
             id="marche_3_170_"
             x="187.6"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3575,7 +1998,7 @@
             id="marche_2_171_"
             x="193.6"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3583,7 +2006,7 @@
             id="marche_3_169_"
             x="199.8"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3591,7 +2014,7 @@
             id="marche_2_170_"
             x="205.8"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3599,7 +2022,7 @@
             id="marche_3_168_"
             x="212"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3607,7 +2030,7 @@
             id="marche_2_169_"
             x="218.1"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3615,7 +2038,7 @@
             id="marche_3_167_"
             x="224.2"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3623,7 +2046,7 @@
             id="marche_2_168_"
             x="230.3"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3631,7 +2054,7 @@
             id="marche_2_167_"
             x="236.4"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3639,7 +2062,7 @@
             id="marche_3_166_"
             x="242.6"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3647,7 +2070,7 @@
             id="marche_2_166_"
             x="248.6"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3655,7 +2078,7 @@
             id="marche_3_165_"
             x="254.8"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3663,7 +2086,7 @@
             id="marche_2_165_"
             x="260.8"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3671,7 +2094,7 @@
             id="marche_3_164_"
             x="267"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3679,7 +2102,7 @@
             id="marche_2_164_"
             x="273.1"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3687,7 +2110,7 @@
             id="marche_3_163_"
             x="279.2"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3695,7 +2118,7 @@
             id="marche_2_163_"
             x="285.3"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3703,7 +2126,7 @@
             id="marche_3_162_"
             x="291.4"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3711,7 +2134,7 @@
             id="marche_2_162_"
             x="297.5"
             y="757.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3721,7 +2144,7 @@
             id="marche_3_161_"
             x="128.1"
             y="796.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3729,7 +2152,7 @@
             id="marche_2_161_"
             x="134.1"
             y="796.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3737,7 +2160,7 @@
             id="marche_1_6_"
             x="140.5"
             y="796.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3747,7 +2170,7 @@
             id="marche_3_160_"
             x="163"
             y="795.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3755,7 +2178,7 @@
             id="marche_2_160_"
             x="168.9"
             y="795.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3763,33 +2186,33 @@
             id="marche_1_5_"
             x="175.3"
             y="795.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_10_">
           <polygon
-            class="st3"
-            points="146.5,757.4 163.5,757.4 163.5,776.4 183.5,776.4 183.5,792.4 162.5,792.4 162.5,811.4 146.5,811.4 
-							"
+            class="st11"
+            points="146.5,757.4 163.5,757.4 163.5,776.4 183.5,776.4 183.5,792.4 162.5,792.4 162.5,811.4 
+				146.5,811.4 			"
           />
           <polygon
-            class="st4"
-            points="162.5,795.3 187.5,795.4 187.5,772.5 163.5,772.4 163.5,776.4 183.5,776.4 184.5,776.4 184.5,792.4 
-				162.5,792.4 			"
+            class="st12"
+            points="162.5,795.3 187.5,795.4 187.5,772.5 163.5,772.4 163.5,776.4 183.5,776.4 184.5,776.4 
+				184.5,792.4 162.5,792.4 			"
           />
-          <rect x="147" y="758.1" class="st5" width="15" height="52.8" />
+          <rect x="147" y="758.1" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M460.5,654.4" />
+        <path class="st14" d="M460.5,654.4" />
       </g>
-      <g id="escaliers_C4_1_">
+      <g id="escaliers_C4_1_" class="st10">
         <g id="escalier_balong_short_3_9_">
           <rect
             id="marche_3_159_"
             x="128.1"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3797,7 +2220,7 @@
             id="marche_2_159_"
             x="134.1"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3805,7 +2228,7 @@
             id="marche_3_158_"
             x="140.1"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -3815,7 +2238,7 @@
             id="marche_3_157_"
             x="163.1"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3823,7 +2246,7 @@
             id="marche_2_158_"
             x="169.2"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3831,7 +2254,7 @@
             id="marche_3_156_"
             x="175.3"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3839,7 +2262,7 @@
             id="marche_2_157_"
             x="181.4"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3847,7 +2270,7 @@
             id="marche_3_155_"
             x="187.6"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3855,7 +2278,7 @@
             id="marche_2_156_"
             x="193.6"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3863,7 +2286,7 @@
             id="marche_3_154_"
             x="199.8"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3871,7 +2294,7 @@
             id="marche_2_155_"
             x="205.8"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3879,7 +2302,7 @@
             id="marche_3_153_"
             x="212"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3887,7 +2310,7 @@
             id="marche_2_154_"
             x="218.1"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3895,7 +2318,7 @@
             id="marche_3_152_"
             x="224.2"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3903,7 +2326,7 @@
             id="marche_2_153_"
             x="230.3"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3911,7 +2334,7 @@
             id="marche_2_152_"
             x="236.4"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3919,7 +2342,7 @@
             id="marche_3_151_"
             x="242.6"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3927,7 +2350,7 @@
             id="marche_2_151_"
             x="248.6"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3935,7 +2358,7 @@
             id="marche_3_150_"
             x="254.8"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3943,7 +2366,7 @@
             id="marche_2_150_"
             x="260.8"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3951,7 +2374,7 @@
             id="marche_3_149_"
             x="267"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3959,7 +2382,7 @@
             id="marche_2_149_"
             x="273.1"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3967,7 +2390,7 @@
             id="marche_3_148_"
             x="279.2"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3975,7 +2398,7 @@
             id="marche_2_148_"
             x="285.3"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3983,7 +2406,7 @@
             id="marche_3_147_"
             x="291.4"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -3991,7 +2414,7 @@
             id="marche_2_147_"
             x="297.5"
             y="528.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4001,7 +2424,7 @@
             id="marche_3_146_"
             x="128.1"
             y="567.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4009,7 +2432,7 @@
             id="marche_2_146_"
             x="134.1"
             y="567.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4017,7 +2440,7 @@
             id="marche_1_4_"
             x="140.5"
             y="567.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4027,7 +2450,7 @@
             id="marche_3_145_"
             x="163"
             y="566.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4035,7 +2458,7 @@
             id="marche_2_145_"
             x="168.9"
             y="566.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4043,33 +2466,33 @@
             id="marche_1_3_"
             x="175.3"
             y="566.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_9_">
           <polygon
-            class="st3"
-            points="146.5,528.4 163.5,528.4 163.5,547.4 183.5,547.4 183.5,563.4 162.5,563.4 162.5,582.4 146.5,582.4 
-							"
+            class="st11"
+            points="146.5,528.4 163.5,528.4 163.5,547.4 183.5,547.4 183.5,563.4 162.5,563.4 162.5,582.4 
+				146.5,582.4 			"
           />
           <polygon
-            class="st4"
-            points="162.5,566.3 187.5,566.4 187.5,543.5 163.5,543.4 163.5,547.4 183.5,547.4 184.5,547.4 184.5,563.4 
-				162.5,563.4 			"
+            class="st12"
+            points="162.5,566.3 187.5,566.4 187.5,543.5 163.5,543.4 163.5,547.4 183.5,547.4 184.5,547.4 
+				184.5,563.4 162.5,563.4 			"
           />
-          <rect x="147" y="529.1" class="st5" width="15" height="52.8" />
+          <rect x="147" y="529.1" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M460.5,425.4" />
+        <path class="st14" d="M460.5,425.4" />
       </g>
-      <g id="escaliers_C2_1_">
+      <g id="escaliers_C2_1_" class="st10">
         <g id="escalier_balong_short_3_8_">
           <rect
             id="marche_3_144_"
             x="127.1"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4077,7 +2500,7 @@
             id="marche_2_144_"
             x="133.1"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4085,7 +2508,7 @@
             id="marche_3_143_"
             x="139.1"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4095,7 +2518,7 @@
             id="marche_3_142_"
             x="162.1"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4103,7 +2526,7 @@
             id="marche_2_143_"
             x="168.2"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4111,7 +2534,7 @@
             id="marche_3_141_"
             x="174.3"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4119,7 +2542,7 @@
             id="marche_2_142_"
             x="180.4"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4127,7 +2550,7 @@
             id="marche_3_140_"
             x="186.6"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4135,7 +2558,7 @@
             id="marche_2_141_"
             x="192.6"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4143,7 +2566,7 @@
             id="marche_3_139_"
             x="198.8"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4151,7 +2574,7 @@
             id="marche_2_140_"
             x="204.8"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4159,7 +2582,7 @@
             id="marche_3_138_"
             x="211"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4167,7 +2590,7 @@
             id="marche_2_139_"
             x="217.1"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4175,7 +2598,7 @@
             id="marche_3_8_"
             x="223.2"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4183,7 +2606,7 @@
             id="marche_2_138_"
             x="229.3"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4191,7 +2614,7 @@
             id="marche_2_8_"
             x="235.4"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4199,7 +2622,7 @@
             id="marche_3_7_"
             x="241.6"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4207,7 +2630,7 @@
             id="marche_2_7_"
             x="247.6"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4215,7 +2638,7 @@
             id="marche_3_6_"
             x="253.8"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4223,7 +2646,7 @@
             id="marche_2_6_"
             x="259.8"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4231,7 +2654,7 @@
             id="marche_3_5_"
             x="266"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4239,7 +2662,7 @@
             id="marche_2_5_"
             x="272.1"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4247,7 +2670,7 @@
             id="marche_3_4_"
             x="278.2"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4255,7 +2678,7 @@
             id="marche_2_4_"
             x="284.3"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4263,7 +2686,7 @@
             id="marche_3_3_"
             x="290.4"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4271,7 +2694,7 @@
             id="marche_2_3_"
             x="296.5"
             y="260.3"
-            class="st3"
+            class="st11"
             width="6.5"
             height="15.3"
           />
@@ -4281,7 +2704,7 @@
             id="marche_3_2_"
             x="127.1"
             y="299.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4289,7 +2712,7 @@
             id="marche_2_2_"
             x="133.1"
             y="299.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4297,7 +2720,7 @@
             id="marche_1_2_"
             x="139.5"
             y="299.3"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4307,7 +2730,7 @@
             id="marche_3_1_"
             x="162"
             y="298.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4315,7 +2738,7 @@
             id="marche_2_1_"
             x="167.9"
             y="298.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
@@ -4323,30 +2746,30 @@
             id="marche_1_1_"
             x="174.3"
             y="298.9"
-            class="st3"
+            class="st11"
             width="6.4"
             height="15.3"
           />
         </g>
         <g id="cage_escalier_8_">
           <polygon
-            class="st3"
-            points="145.5,260.4 162.5,260.4 162.5,279.4 182.5,279.4 182.5,295.4 161.5,295.4 161.5,314.4 145.5,314.4 
-							"
+            class="st11"
+            points="145.5,260.4 162.5,260.4 162.5,279.4 182.5,279.4 182.5,295.4 161.5,295.4 161.5,314.4 
+				145.5,314.4 			"
           />
           <polygon
-            class="st4"
-            points="161.5,298.3 186.5,298.4 186.5,275.5 162.5,275.4 162.5,279.4 182.5,279.4 183.5,279.4 183.5,295.4 
-				161.5,295.4 			"
+            class="st12"
+            points="161.5,298.3 186.5,298.4 186.5,275.5 162.5,275.4 162.5,279.4 182.5,279.4 183.5,279.4 
+				183.5,295.4 161.5,295.4 			"
           />
-          <rect x="146" y="261.1" class="st5" width="15" height="52.8" />
+          <rect x="146" y="261.1" class="st13" width="15" height="52.8" />
         </g>
-        <path class="st6" d="M459.5,157.4" />
+        <path class="st14" d="M459.5,157.4" />
       </g>
-      <text transform="matrix(1 0 0 1 149.8789 107.6694)" class="st7 st8">
+      <text transform="matrix(1 0 0 1 149.8789 107.6694)" class="st10 st7 st15">
         Balcony
       </text>
-      <text transform="matrix(1 0 0 1 381.5844 102.4971)" class="st7 st8">
+      <text transform="matrix(1 0 0 1 381.5844 102.4971)" class="st10 st7 st15">
         Ground
       </text>
     </g>
@@ -4354,721 +2777,721 @@
       <g id="cage_C2">
         <rect
           id="marche_9_2_"
-          x="521.9"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="322.3"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_8_2_"
-          x="528.2"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="331.3"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_7_2_"
-          x="534.6"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="340.3"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_6_2_"
-          x="541"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="349.4"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_5_2_"
-          x="547.4"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="358.4"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_4_2_"
-          x="553.8"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="367.5"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_3_10_"
-          x="560.2"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="376.5"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_2_10_"
-          x="566.1"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="384.9"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="marche_1_10_"
-          x="572.5"
-          y="351.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="394"
+          y="393.4"
+          class="st16"
+          width="9"
+          height="30.7"
         />
         <rect
           id="cage_bord1_3_"
-          x="522"
-          y="343"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="375.7"
+          class="st2"
+          width="90.5"
+          height="16.1"
         />
         <rect
           id="cage_bord1_2_"
-          x="522"
-          y="368"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="425.9"
+          class="st2"
+          width="90.5"
+          height="16.1"
         />
       </g>
       <g id="cage_C4">
         <rect
           id="marche_9_1_"
-          x="521.9"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="321.3"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_8_1_"
-          x="528.2"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="330.3"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_7_1_"
-          x="534.6"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="339.3"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_6_1_"
-          x="541"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="348.4"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_5_1_"
-          x="547.4"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="357.4"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_4_1_"
-          x="553.8"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="366.5"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_3_9_"
-          x="560.2"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="375.5"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_2_9_"
-          x="566.1"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="383.9"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_1_9_"
-          x="572.5"
-          y="542.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="393"
+          y="572.5"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="cage_bord1"
-          x="522"
-          y="534"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="564.6"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
         <rect
           id="cage_bord1_1_"
-          x="522"
-          y="559"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="587.1"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
       </g>
       <g id="cage_C6">
         <rect
           id="marche_9_3_"
-          x="521.9"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="321.3"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_8_3_"
-          x="528.2"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="330.3"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_7_3_"
-          x="534.6"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="339.3"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_6_3_"
-          x="541"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="348.4"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_5_3_"
-          x="547.4"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="357.4"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_4_3_"
-          x="553.8"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="366.5"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_3_11_"
-          x="560.2"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="375.5"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_2_11_"
-          x="566.1"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="383.9"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_1_11_"
-          x="572.5"
-          y="780.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="393"
+          y="786.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="cage_bord1_5_"
-          x="522"
-          y="772"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="778.8"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
         <rect
           id="cage_bord1_4_"
-          x="522"
-          y="797"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="801.3"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
       </g>
       <g id="cage_C8">
         <rect
           id="marche_9_4_"
-          x="521.9"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="321.3"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_8_4_"
-          x="528.2"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="330.3"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_7_4_"
-          x="534.6"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="339.3"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_6_4_"
-          x="541"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="348.4"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_5_4_"
-          x="547.4"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="357.4"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_4_4_"
-          x="553.8"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="366.5"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_3_12_"
-          x="560.2"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="375.5"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_2_12_"
-          x="566.1"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="383.9"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_1_12_"
-          x="572.5"
-          y="1010.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="393"
+          y="993.7"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="cage_bord1_7_"
-          x="522"
-          y="1002"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="985.8"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
         <rect
           id="cage_bord1_6_"
-          x="522"
-          y="1027"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1008.3"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
       </g>
       <g id="cage_C10">
         <rect
           id="marche_9_5_"
-          x="521.9"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="321.3"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_8_5_"
-          x="528.2"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="330.3"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_7_5_"
-          x="534.6"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="339.3"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_6_5_"
-          x="541"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="348.4"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_5_5_"
-          x="547.4"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="357.4"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_4_5_"
-          x="553.8"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="366.5"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_3_13_"
-          x="560.2"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="375.5"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_2_13_"
-          x="566.1"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="383.9"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_1_13_"
-          x="572.5"
-          y="1248.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="393"
+          y="1208"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="cage_bord1_9_"
-          x="522"
-          y="1240"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1200"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
         <rect
           id="cage_bord1_8_"
-          x="522"
-          y="1265"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1222.6"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
       </g>
       <g id="cage_C12">
         <rect
           id="marche_9_6_"
-          x="521.9"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="321.3"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_8_6_"
-          x="528.2"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="330.3"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_7_6_"
-          x="534.6"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="339.3"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_6_6_"
-          x="541"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="348.4"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_5_6_"
-          x="547.4"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="357.4"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_4_6_"
-          x="553.8"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="366.5"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_3_14_"
-          x="560.2"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="375.5"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_2_14_"
-          x="566.1"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="383.9"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_1_14_"
-          x="572.5"
-          y="1482.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="393"
+          y="1418.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="cage_bord1_11_"
-          x="522"
-          y="1474"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1410.7"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
         <rect
           id="cage_bord1_10_"
-          x="522"
-          y="1499"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1433.2"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
       </g>
       <g id="cage_C14">
         <rect
           id="marche_9_7_"
-          x="521.9"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="321.3"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_8_7_"
-          x="528.2"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="330.3"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_7_7_"
-          x="534.6"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="339.3"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_6_7_"
-          x="541"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="348.4"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_5_7_"
-          x="547.4"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="357.4"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_4_7_"
-          x="553.8"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="366.5"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_3_15_"
-          x="560.2"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="375.5"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_2_15_"
-          x="566.1"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="383.9"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_1_15_"
-          x="572.5"
-          y="1722.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="393"
+          y="1634.6"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="cage_bord1_13_"
-          x="522"
-          y="1714"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1626.7"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
         <rect
           id="cage_bord1_12_"
-          x="522"
-          y="1739"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1649.2"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
       </g>
       <g id="cage_C16">
         <rect
           id="marche_9_8_"
-          x="521.9"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="321.3"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_8_8_"
-          x="528.2"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="330.3"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_7_8_"
-          x="534.6"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="339.3"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_6_8_"
-          x="541"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="348.4"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_5_8_"
-          x="547.4"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="357.4"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_4_8_"
-          x="553.8"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="366.5"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_3_16_"
-          x="560.2"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="375.5"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_2_16_"
-          x="566.1"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="383.9"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="marche_1_16_"
-          x="572.5"
-          y="1909.8"
-          class="st9"
-          width="6.4"
-          height="15.3"
+          x="393"
+          y="1802.9"
+          class="st16"
+          width="9"
+          height="13.8"
         />
         <rect
           id="cage_bord1_15_"
-          x="522"
-          y="1901"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1795"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
         <rect
           id="cage_bord1_14_"
-          x="522"
-          y="1926"
-          class="st10"
-          width="64"
-          height="8"
+          x="321.5"
+          y="1817.5"
+          class="st17"
+          width="90.5"
+          height="7.2"
         />
       </g>
     </g>
@@ -5176,48 +3599,28 @@
       </g>
       <g id="toilettes_1">
         <path
-          d="M1013,456.8c0,2,0.9,3.9,2.5,5.1c1.1,0.9,2.5,1.4,4,1.4c1.4,0,2.8-0.5,4-1.4c1.6-1.2,2.5-3.1,2.5-5.1
-			c0-3.6-2.9-6.5-6.5-6.5C1015.9,450.3,1013,453.2,1013,456.8z M1019.5,453.5c1.8,0,3.3,1.5,3.3,3.3c0,1-0.5,2-1.3,2.6
-			c-1.2,0.9-2.9,0.9-4,0c-0.8-0.6-1.3-1.6-1.3-2.6C1016.2,455,1017.6,453.5,1019.5,453.5z"
+          d="M1030,624.8c0,2,0.9,3.9,2.5,5.1c1.1,0.9,2.5,1.4,4,1.4c1.4,0,2.8-0.5,4-1.4c1.6-1.2,2.5-3.1,2.5-5.1
+			c0-3.6-2.9-6.5-6.5-6.5C1032.9,618.3,1030,621.2,1030,624.8z M1036.5,621.5c1.8,0,3.3,1.5,3.3,3.3c0,1-0.5,2-1.3,2.6
+			c-1.2,0.9-2.9,0.9-4,0c-0.8-0.6-1.3-1.6-1.3-2.6C1033.2,623,1034.6,621.5,1036.5,621.5z"
         />
         <path
-          d="M1011.2,485.1c0.1,0.1,0.3,0.1,0.4,0.2c0.1,0,0.1,0.1,0.2,0.1v4.9v0v3.2c0,2.1,1.8,3.8,4.1,3.8h0.4c1.3,0,2.4-0.5,3.1-1.3
+          d="M1028.2,653.1c0.1,0.1,0.3,0.1,0.4,0.2c0.1,0,0.1,0.1,0.2,0.1v4.9v0v3.2c0,2.1,1.8,3.8,4.1,3.8h0.4c1.3,0,2.4-0.5,3.1-1.3
 			c0.7,0.9,1.9,1.5,3.3,1.5h0.4c2.2,0,4.1-1.7,4.1-3.8v-3.4v-4.9c0.1,0,0.3-0.1,0.4-0.2c0.1,0,0.1,0,0.2-0.1
 			c0.1-0.1,0.2-0.1,0.3-0.2c0.1,0,0.1-0.1,0.2-0.1c0.1-0.1,0.2-0.2,0.3-0.2c0.1,0,0.1-0.1,0.2-0.1c0.1-0.1,0.2-0.2,0.2-0.3
 			c0-0.1,0.1-0.1,0.1-0.2c0.1-0.1,0.1-0.2,0.2-0.3c0-0.1,0.1-0.1,0.1-0.2c0.1-0.1,0.1-0.2,0.1-0.3c0-0.1,0.1-0.1,0.1-0.2
-			c0-0.1,0.1-0.3,0.1-0.4c0-0.1,0-0.1,0-0.2c0-0.2,0-0.4,0-0.6V469c0-3-3.2-5.6-5.2-5.8l-0.8-0.1l-0.5,0.5c-0.3,0.3-0.6,0.5-1,0.7
+			c0-0.1,0.1-0.3,0.1-0.4c0-0.1,0-0.1,0-0.2c0-0.2,0-0.4,0-0.6V637c0-3-3.2-5.6-5.2-5.8l-0.8-0.1l-0.5,0.5c-0.3,0.3-0.6,0.5-1,0.7
 			c-1.7,1-4,1-5.7-0.1c-0.2-0.2-0.5-0.4-0.7-0.6l-0.4-0.4l-0.8,0c-2.4,0-5.6,2.9-5.6,5.9v12.8c0,0.2,0,0.4,0.1,0.6
 			c0,0.1,0,0.2,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0,0.1,0.1,0.2,0.1,0.3c0,0.1,0.1,0.2,0.1,0.3c0.1,0.1,0.1,0.2,0.2,0.3
 			c0,0.1,0.1,0.1,0.1,0.2c0.1,0.1,0.2,0.2,0.2,0.3c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.2,0.2,0.3,0.3c0,0,0.1,0.1,0.1,0.1
-			c0.1,0.1,0.3,0.2,0.4,0.2C1011.1,485,1011.1,485.1,1011.2,485.1z M1012.2,469c0-1,1.3-2.2,2-2.5c0.2,0.1,0.3,0.3,0.5,0.4
+			c0.1,0.1,0.3,0.2,0.4,0.2C1028.1,653,1028.1,653.1,1028.2,653.1z M1029.2,637c0-1,1.3-2.2,2-2.5c0.2,0.1,0.3,0.3,0.5,0.4
 			c2.7,1.8,6.3,1.9,9.1,0.2c0.3-0.2,0.5-0.3,0.8-0.5c0.8,0.5,1.9,1.6,1.9,2.5v12.8c0,0.1-0.3,0.4-0.7,0.5c-0.1,0-0.1,0-0.2,0l-1.6,0
 			l0,0.2l-0.1,0l0,1.5c0,0,0,0.1,0,0.2l0,0.1l0,0.2c0,1.3,0,4.4,0,5.5v3.4c0,0.3-0.4,0.6-0.9,0.6h-0.4c-0.5,0-0.9-0.3-0.9-0.6v-9.1
 			h-4.6v8.9c0,0.3-0.4,0.6-0.9,0.6h-0.4c-0.5,0-0.9-0.3-0.9-0.6l0-8.9l0-0.4l-0.1-1.9l-1.6,0.1h0c-0.1,0-0.3,0-0.4,0
-			c-0.4-0.1-0.7-0.3-0.7-0.5V469L1012.2,469z"
-        />
-        <path
-          d="M1062.5,492.5v-7.8c0.4-0.1,1-0.2,1.7-0.3c0.2,0,0.4-0.1,0.4-0.1c1.9-0.4,3.2-1.9,3.2-3.6l-2.8-13
-			c-0.1-2.9-3.2-5.4-5.2-5.6l-0.8-0.1l-0.5,0.5c-0.3,0.3-0.6,0.5-1,0.7c-1.7,1-4,1-5.7-0.1c-0.2-0.1-0.4-0.3-0.7-0.6l-0.4-0.5
-			l-0.8,0c-2.3,0-5.5,2.8-5.6,5.7l-2.7,12.7l0,0.3c0,1.8,1.4,3.3,3.4,3.6c0.2,0,0.4,0,0.6,0.1l0.2,0c0,0,0.7,0,1.4,0v7.9
-			c0,2.1,1.8,3.8,4.1,3.8h0.4c1.3,0,2.4-0.5,3.1-1.3c0.7,0.9,1.9,1.5,3.3,1.5h0.4C1060.7,496.3,1062.5,494.6,1062.5,492.5z
-			 M1059.4,483l-0.1,0.4l0.1,0.4v8.8c0,0.3-0.4,0.6-0.9,0.6h-0.4c-0.5,0-0.9-0.3-0.9-0.6v-9.1h-4.6v8.9c0,0.3-0.4,0.6-0.9,0.6h-0.4
-			c-0.5,0-0.9-0.3-0.9-0.6l0-8.9l0-0.4l-0.1-1.9l-1.6,0c-0.2,0-2.4,0-2.9,0l-0.1,0c-0.1,0-0.1,0-0.2,0c-0.4-0.1-0.6-0.2-0.7-0.4
-			l2.7-12.5l0-0.3c0-1,1.3-2.2,2-2.5c0.2,0.1,0.3,0.3,0.5,0.4c2.7,1.8,6.3,1.9,9.1,0.2c0.3-0.2,0.5-0.3,0.8-0.5
-			c0.8,0.5,1.9,1.6,1.9,2.5l2.8,12.9c-0.1,0.1-0.3,0.3-0.6,0.4l-0.3,0C1060.5,481.7,1059.7,481.9,1059.4,483z"
-        />
-        <path
-          d="M1054.9,449.3c-3.6,0-6.5,2.9-6.5,6.5c0,2,0.9,3.9,2.5,5.1c1.2,0.9,2.5,1.4,4,1.4c1.4,0,2.8-0.5,4-1.4
-			c1.6-1.2,2.5-3.1,2.5-5.1C1061.4,452.2,1058.5,449.3,1054.9,449.3z M1056.9,458.3c-1.2,0.9-2.9,0.9-4,0c-0.8-0.6-1.3-1.6-1.3-2.6
-			c0-1.8,1.5-3.3,3.3-3.3c1.8,0,3.3,1.5,3.3,3.3C1058.2,456.8,1057.7,457.7,1056.9,458.3z"
-        />
-        <path
-          d="M1038.3,501.7v-55.2c0-0.9-0.7-1.6-1.6-1.6c-0.9,0-1.6,0.7-1.6,1.6v55.2c0,0.9,0.7,1.6,1.6,1.6
-			C1037.5,503.3,1038.3,502.5,1038.3,501.7z"
+			c-0.4-0.1-0.7-0.3-0.7-0.5V637L1029.2,637z"
         />
       </g>
       <path
         id="saucisse2"
-        fill="red"
         d="M1087,2089.7c-1.4-3.6-4.2-6.4-7.8-7.8c-6.7-2.5-14.2,0.5-17.6,7c-10.1,19.3-26.4,35.6-45.7,45.7
 		c-6.5,3.4-9.5,11-7,17.6c1.3,3.6,4.2,6.5,7.8,7.8c1.6,0.6,3.2,0.9,4.9,0.9c2.3,0,4.5-0.5,6.6-1.6c12.3-6.4,23.6-14.7,33.5-24.6
 		s18.2-21.2,24.6-33.5C1088.2,2097.7,1088.4,2093.5,1087,2089.7L1087,2089.7z M1082.1,2099.1c-6.2,11.9-14.2,22.7-23.8,32.3
@@ -5236,396 +3639,399 @@
 		l8.1,0.4l0.2-4.7l-5.3-0.3c1.5-2.4,2.9-4.8,4.2-7.3c1.7-3.3,5.1-5.3,8.6-5.3c1.1,0,2.1,0.2,3.2,0.6c2.4,0.9,4.2,2.7,5.1,5
 		C1071.5,875.9,1071.3,878.7,1070.1,881.1L1070.1,881.1z"
       />
-      <g id="Bier2" class="coloricon">
+      <g id="Bier2_1_">
         <g>
           <g>
             <path
-              d="M627.4,891.1c-0.7,0-1.3,0.6-1.3,1.3s0.6,1.3,1.3,1.3c0.7,0,1.3-0.6,1.3-1.3S628.1,891.1,627.4,891.1z"
+              d="M966.6,782c-0.7,0-1.3,0.6-1.3,1.3s0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3S967.3,782,966.6,782z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M608.7,857.6c-0.7,0-1.3,0.6-1.3,1.3v25.5c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-25.5
-					C610,858.2,609.4,857.6,608.7,857.6z"
+              d="M948.7,750.1c-0.7,0-1.3,0.6-1.3,1.3v24.3c0,0.7,0.6,1.3,1.3,1.3c0.7,0,1.3-0.6,1.3-1.3v-24.3
+					C949.9,750.6,949.4,750.1,948.7,750.1z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M619.3,857.6c-0.7,0-1.3,0.6-1.3,1.3v25.5c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-25.5
-					C620.7,858.2,620.1,857.6,619.3,857.6z"
+              d="M958.9,750.1c-0.7,0-1.3,0.6-1.3,1.3v24.3c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-24.3
+					C960.1,750.6,959.6,750.1,958.9,750.1z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M646.1,852.4h-6.7v-4c2.1-1.6,3.1-4.2,2.5-6.8c-0.6-2.5-2.6-4.5-5-5c-1.3-0.3-2.6-0.2-3.8,0.3c-1.2-1.9-3.3-3.1-5.6-3.1
-					c-0.9,0-1.7,0.2-2.5,0.5c-2.2-2.1-5.2-3.3-8.2-3.3c-4,0-7.8,2.1-10,5.4c-7-0.4-12.7,5.1-12.7,12v16c0,2.2,1.8,4,4.1,4
-					c0.5,0,1-0.1,1.4-0.3v24.5c0,3.7,3,6.7,6.7,6.7h26.7c3.7,0,6.7-3,6.7-6.7v-4h6.7c3.7,0,6.7-3,6.7-6.7V859
-					C652.8,855.4,649.8,852.4,646.1,852.4z M636.8,891.2h-4.1c-0.7,0-1.3,0.6-1.3,1.3s0.6,1.3,1.3,1.3h3.8c-0.6,1.6-2,2.7-3.8,2.7
-					h-26.7c-1.7,0-3.2-1.1-3.8-2.7h19.7c0.7,0,1.3-0.6,1.3-1.3s-0.6-1.3-1.3-1.3h-19.9v-26.9v-9.4c3-0.5,5.6-2.3,7-5.1
-					c0.3,0,0.5,0.1,0.7,0.3c1.5,1.5,3.5,2.3,5.6,2.3c2.2,0,4.2-0.9,5.8-2.4c0.1-0.1,0.2-0.1,0.3-0.1c2.1,0,3.4,0.4,4,1.3
-					c0.5,0.7,0.5,1.7,0.5,2.5v5.4c0,1.7,1.1,3.2,2.7,3.8v21.7c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-21.7c1.6-0.6,2.7-2,2.7-3.8
-					v-9.4c0.9,0.2,1.9,0.2,2.8,0V891.2z M633.3,846.5c-0.4-0.2-0.9-0.2-1.3,0.1c-0.4,0.2-0.6,0.7-0.6,1.1v11.3
-					c0,0.7-0.6,1.3-1.3,1.3s-1.3-0.6-1.3-1.3v-5.4c0-1,0-2.6-1-4c-1.1-1.6-3.2-2.5-6.2-2.5c-0.8,0-1.7,0.3-2.2,0.9
-					c-1,1-2.4,1.6-3.8,1.6c-1.4,0-2.7-0.5-3.7-1.5c-0.7-0.7-1.6-1-2.6-1c-1,0-1.9,0.6-2.4,1.5c-1.1,2.3-3.4,3.7-5.9,3.7
-					c-0.7,0-1.3,0.6-1.3,1.3v10.6c0,0.8-0.7,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.3v-16c0-5.1,4.2-9.3,9.4-9.3c0.4,0,0.8,0,1.2,0.1
-					c0.5,0.1,1.1-0.2,1.3-0.7c1.7-3,4.8-4.8,8.1-4.8c2.6,0,5.2,1.1,7,3.2c0.4,0.5,1.2,0.6,1.7,0.2c0.6-0.4,1.3-0.6,2.1-0.6
-					c1.7,0,3.2,1.1,3.8,2.7c0.1,0.4,0.4,0.7,0.8,0.8c0.4,0.1,0.8,0.1,1.2-0.2c0.9-0.6,2-0.8,3.1-0.6c1.4,0.3,2.7,1.5,3,3
-					C640.1,845.5,636.7,848.2,633.3,846.5z M639.5,860.4h5.3v20.1h-5.3V860.4z M650.1,881.8c0,2.2-1.8,4-4,4h-6.7v-2.7h6.7
-					c0.7,0,1.3-0.6,1.3-1.3V859c0-0.7-0.6-1.3-1.3-1.3h-6.7V855h6.7c2.2,0,4,1.8,4,4V881.8z"
-            />
-          </g>
-        </g>
-      </g>
-      <g id="Bier1">
-        <g>
-          <g>
-            <path
-              d="M611.4,1413.1c-0.7,0-1.3,0.6-1.3,1.3c0,0.7,0.6,1.3,1.3,1.3c0.7,0,1.3-0.6,1.3-1.3
-					C612.7,1413.7,612.1,1413.1,611.4,1413.1z"
-            />
-          </g>
-        </g>
-        <g>
-          <g>
-            <path
-              d="M592.7,1379.6c-0.7,0-1.3,0.6-1.3,1.3v25.5c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-25.5
-					C594,1380.2,593.4,1379.6,592.7,1379.6z"
-            />
-          </g>
-        </g>
-        <g>
-          <g>
-            <path
-              d="M603.3,1379.6c-0.7,0-1.3,0.6-1.3,1.3v25.5c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-25.5
-					C604.7,1380.2,604.1,1379.6,603.3,1379.6z"
-            />
-          </g>
-        </g>
-        <g>
-          <g>
-            <path
-              d="M630.1,1374.4h-6.7v-4c2.1-1.6,3.1-4.2,2.5-6.8c-0.6-2.5-2.6-4.5-5-5c-1.3-0.3-2.6-0.2-3.8,0.3
-					c-1.2-1.9-3.3-3.1-5.6-3.1c-0.9,0-1.7,0.2-2.5,0.5c-2.2-2.1-5.2-3.3-8.2-3.3c-4,0-7.8,2.1-10,5.4c-7-0.4-12.7,5.1-12.7,12v16
-					c0,2.2,1.8,4,4.1,4c0.5,0,1-0.1,1.4-0.3v24.5c0,3.7,3,6.7,6.7,6.7h26.7c3.7,0,6.7-3,6.7-6.7v-4h6.7c3.7,0,6.7-3,6.7-6.7V1381
-					C636.8,1377.4,633.8,1374.4,630.1,1374.4z M620.8,1413.2h-4.1c-0.7,0-1.3,0.6-1.3,1.3s0.6,1.3,1.3,1.3h3.8
-					c-0.6,1.6-2,2.7-3.8,2.7h-26.7c-1.7,0-3.2-1.1-3.8-2.7h19.7c0.7,0,1.3-0.6,1.3-1.3s-0.6-1.3-1.3-1.3h-19.9v-26.9v-9.4
-					c3-0.5,5.6-2.3,7-5.1c0.3,0,0.5,0.1,0.7,0.3c1.5,1.5,3.5,2.3,5.6,2.3c2.2,0,4.2-0.9,5.8-2.4c0.1-0.1,0.2-0.1,0.3-0.1
-					c2.1,0,3.4,0.4,4,1.3c0.5,0.7,0.5,1.7,0.5,2.5v5.4c0,1.7,1.1,3.2,2.7,3.8v21.7c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-21.7
-					c1.6-0.6,2.7-2,2.7-3.8v-9.4c0.9,0.2,1.9,0.2,2.8,0V1413.2z M617.3,1368.5c-0.4-0.2-0.9-0.2-1.3,0.1c-0.4,0.2-0.6,0.7-0.6,1.1
-					v11.3c0,0.7-0.6,1.3-1.3,1.3s-1.3-0.6-1.3-1.3v-5.4c0-1.1,0-2.6-1-4c-1.1-1.6-3.2-2.5-6.2-2.5c-0.8,0-1.7,0.3-2.2,0.9
-					c-1,1-2.4,1.6-3.8,1.6c-1.4,0-2.7-0.5-3.7-1.5c-0.7-0.7-1.6-1-2.6-1c-1,0-1.9,0.6-2.4,1.5c-1.1,2.3-3.4,3.7-5.9,3.7
-					c-0.7,0-1.3,0.6-1.3,1.3v10.6c0,0.8-0.7,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.3v-16c0-5.1,4.2-9.3,9.4-9.3c0.4,0,0.8,0,1.2,0.1
-					c0.5,0.1,1.1-0.2,1.3-0.7c1.7-3,4.8-4.8,8.1-4.8c2.6,0,5.2,1.1,7,3.2c0.4,0.5,1.2,0.6,1.7,0.2c0.6-0.4,1.3-0.6,2.1-0.6
-					c1.7,0,3.2,1.1,3.8,2.7c0.1,0.4,0.4,0.7,0.8,0.8c0.4,0.1,0.8,0.1,1.2-0.2c0.9-0.6,2-0.8,3.1-0.6c1.4,0.3,2.7,1.5,3,3
-					C624.1,1367.5,620.7,1370.2,617.3,1368.5z M623.5,1382.4h5.3v20.1h-5.3V1382.4z M634.1,1403.8c0,2.2-1.8,4-4,4h-6.7v-2.7h6.7
-					c0.7,0,1.3-0.6,1.3-1.3V1381c0-0.7-0.6-1.3-1.3-1.3h-6.7v-2.7h6.7c2.2,0,4,1.8,4,4V1403.8z"
+              d="M984.4,745.1h-6.4v-3.9c2-1.5,2.9-4,2.4-6.5c-0.5-2.3-2.5-4.3-4.8-4.8c-1.2-0.3-2.5-0.2-3.7,0.3c-1.1-1.8-3.2-3-5.4-3
+					c-0.8,0-1.6,0.2-2.4,0.5c-2.1-2-4.9-3.1-7.8-3.1c-3.8,0-7.4,2-9.5,5.2c-6.7-0.4-12.1,4.9-12.1,11.4v15.3c0,2.1,1.7,3.8,3.9,3.8
+					c0.5,0,0.9-0.1,1.3-0.2v23.4c0,3.5,2.9,6.4,6.4,6.4h25.5c3.5,0,6.4-2.9,6.4-6.4v-3.8h6.4c3.5,0,6.4-2.9,6.4-6.4v-21.8
+					C990.8,747.9,987.9,745.1,984.4,745.1z M975.5,782.1h-3.9c-0.7,0-1.3,0.6-1.3,1.3s0.6,1.3,1.3,1.3h3.7c-0.5,1.5-1.9,2.6-3.6,2.6
+					h-25.5c-1.7,0-3.1-1.1-3.6-2.5h18.8c0.7,0,1.3-0.6,1.3-1.3s-0.6-1.3-1.3-1.3h-19v-25.7v-9c2.9-0.4,5.3-2.2,6.6-4.9
+					c0.3,0,0.5,0.1,0.7,0.3c1.4,1.4,3.3,2.2,5.4,2.2c2.1,0,4-0.8,5.5-2.3c0.1-0.1,0.2-0.1,0.3-0.1c2,0,3.3,0.4,3.9,1.3
+					c0.5,0.7,0.5,1.6,0.5,2.4v5.1c0,1.7,1.1,3.1,2.5,3.6v20.7c0,0.7,0.6,1.3,1.3,1.3c0.7,0,1.3-0.6,1.3-1.3v-20.7
+					c1.5-0.5,2.5-1.9,2.5-3.6v-9c0.9,0.2,1.8,0.2,2.7,0V782.1z M972.2,739.5c-0.4-0.2-0.9-0.2-1.2,0c-0.4,0.2-0.6,0.6-0.6,1.1v10.7
+					c0,0.7-0.6,1.3-1.3,1.3c-0.7,0-1.3-0.6-1.3-1.3v-5.1c0-1,0-2.5-0.9-3.9c-1.1-1.6-3.1-2.4-5.9-2.4c-0.8,0-1.6,0.3-2.1,0.9
+					c-1,1-2.3,1.6-3.7,1.6c-1.3,0-2.6-0.5-3.6-1.5c-0.7-0.6-1.5-1-2.5-1c-1,0-1.9,0.6-2.3,1.4c-1.1,2.2-3.2,3.6-5.6,3.6
+					c-0.7,0-1.3,0.6-1.3,1.3v10.1c0,0.7-0.6,1.3-1.3,1.3c-0.7,0-1.3-0.6-1.3-1.3v-15.3c0-4.9,4-8.9,9-8.9c0.4,0,0.8,0,1.2,0.1
+					c0.5,0.1,1-0.2,1.3-0.6c1.6-2.8,4.6-4.6,7.8-4.6c2.5,0,4.9,1.1,6.6,3c0.4,0.5,1.1,0.6,1.6,0.2c0.6-0.4,1.3-0.6,2-0.6
+					c1.6,0,3.1,1,3.6,2.6c0.1,0.4,0.4,0.7,0.8,0.8c0.4,0.1,0.8,0.1,1.1-0.2c0.9-0.6,1.9-0.8,3-0.6c1.4,0.3,2.5,1.5,2.9,2.8
+					C978.7,738.5,975.4,741.1,972.2,739.5z M978.1,752.7h5.1v19.2h-5.1V752.7z M988.2,773.2c0,2.1-1.7,3.8-3.8,3.8h-6.4v-2.5h6.4
+					c0.7,0,1.3-0.6,1.3-1.3v-21.8c0-0.7-0.6-1.3-1.3-1.3h-6.4v-2.5h6.4c2.1,0,3.8,1.7,3.8,3.8V773.2z"
             />
           </g>
         </g>
       </g>
+      <g id="Bier1_1_">
+        <g>
+          <g>
+            <path
+              d="M988.3,1121.3c-0.7,0-1.3,0.6-1.3,1.3c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3C989.6,1121.8,989,1121.3,988.3,1121.3z"
+            />
+          </g>
+        </g>
+        <g>
+          <g>
+            <path
+              d="M970.4,1089.3c-0.7,0-1.3,0.6-1.3,1.3v24.3c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-24.3
+					C971.7,1089.9,971.1,1089.3,970.4,1089.3z"
+            />
+          </g>
+        </g>
+        <g>
+          <g>
+            <path
+              d="M980.6,1089.3c-0.7,0-1.3,0.6-1.3,1.3v24.3c0,0.7,0.6,1.3,1.3,1.3c0.7,0,1.3-0.6,1.3-1.3v-24.3
+					C981.9,1089.9,981.3,1089.3,980.6,1089.3z"
+            />
+          </g>
+        </g>
+        <g>
+          <g>
+            <path
+              d="M1006.2,1084.3h-6.4v-3.9c2-1.5,2.9-4,2.4-6.5c-0.5-2.3-2.5-4.3-4.8-4.8c-1.2-0.3-2.5-0.2-3.7,0.3c-1.1-1.8-3.2-3-5.4-3
+					c-0.8,0-1.6,0.2-2.4,0.5c-2.1-2-4.9-3.1-7.8-3.1c-3.8,0-7.4,2-9.5,5.2c-6.7-0.4-12.1,4.9-12.1,11.4v15.3c0,2.1,1.7,3.8,3.9,3.8
+					c0.5,0,0.9-0.1,1.3-0.2v23.4c0,3.5,2.9,6.4,6.4,6.4h25.5c3.5,0,6.4-2.9,6.4-6.4v-3.8h6.4c3.5,0,6.4-2.9,6.4-6.4v-21.8
+					C1012.5,1087.2,1009.7,1084.3,1006.2,1084.3z M997.3,1121.4h-3.9c-0.7,0-1.3,0.6-1.3,1.3c0,0.7,0.6,1.3,1.3,1.3h3.7
+					c-0.5,1.5-1.9,2.6-3.6,2.6H968c-1.7,0-3.1-1.1-3.6-2.5h18.8c0.7,0,1.3-0.6,1.3-1.3c0-0.7-0.6-1.3-1.3-1.3h-19v-25.7v-9
+					c2.9-0.4,5.3-2.2,6.6-4.9c0.3,0,0.5,0.1,0.7,0.3c1.4,1.4,3.3,2.2,5.4,2.2c2.1,0,4-0.8,5.5-2.3c0.1-0.1,0.2-0.1,0.3-0.1
+					c2,0,3.3,0.4,3.9,1.3c0.5,0.7,0.5,1.6,0.5,2.4v5.1c0,1.7,1.1,3.1,2.5,3.6v20.7c0,0.7,0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3v-20.7
+					c1.5-0.5,2.5-1.9,2.5-3.6v-9c0.9,0.2,1.8,0.2,2.7,0V1121.4z M993.9,1078.7c-0.4-0.2-0.9-0.2-1.2,0c-0.4,0.2-0.6,0.6-0.6,1.1
+					v10.7c0,0.7-0.6,1.3-1.3,1.3c-0.7,0-1.3-0.6-1.3-1.3v-5.1c0-1,0-2.5-0.9-3.9c-1.1-1.6-3.1-2.4-5.9-2.4c-0.8,0-1.6,0.3-2.1,0.9
+					c-1,1-2.3,1.6-3.7,1.6c-1.3,0-2.6-0.5-3.6-1.5c-0.7-0.6-1.5-1-2.5-1c-1,0-1.9,0.6-2.3,1.4c-1.1,2.2-3.2,3.6-5.6,3.6
+					c-0.7,0-1.3,0.6-1.3,1.3v10.1c0,0.7-0.6,1.3-1.3,1.3c-0.7,0-1.3-0.6-1.3-1.3v-15.3c0-4.9,4-8.9,9-8.9c0.4,0,0.8,0,1.2,0.1
+					c0.5,0.1,1-0.2,1.3-0.6c1.6-2.8,4.6-4.6,7.8-4.6c2.5,0,4.9,1.1,6.6,3c0.4,0.5,1.1,0.6,1.6,0.2c0.6-0.4,1.3-0.6,2-0.6
+					c1.6,0,3.1,1,3.6,2.6c0.1,0.4,0.4,0.7,0.8,0.8c0.4,0.1,0.8,0.1,1.1-0.2c0.9-0.6,1.9-0.8,3-0.6c1.4,0.3,2.5,1.5,2.9,2.8
+					C1000.4,1077.7,997.1,1080.4,993.9,1078.7z M999.8,1092h5.1v19.2h-5.1V1092z M1010,1112.5c0,2.1-1.7,3.8-3.8,3.8h-6.4v-2.5h6.4
+					c0.7,0,1.3-0.6,1.3-1.3v-21.8c0-0.7-0.6-1.3-1.3-1.3h-6.4v-2.5h6.4c2.1,0,3.8,1.7,3.8,3.8V1112.5z"
+            />
+          </g>
+        </g>
+      </g>
+      <text
+        id="frites1Wait"
+        transform="matrix(1 0 0 1 734.1289 289.6313)"
+        class="st7 st18"
+      >
+        X min
+      </text>
       <g id="frites1">
         <g>
           <g>
             <path
-              d="M1015.1,243c-0.5-0.7-1.4-0.8-2.1-0.4c-3.3,2.3-5,5.1-5,7.9c0,0.8,0.7,1.5,1.5,1.5c0.8,0,1.5-0.7,1.5-1.5
-					c0-2.3,2-4.3,3.8-5.5C1015.4,244.6,1015.6,243.7,1015.1,243z"
+              d="M958.9,205.2c-0.8-1.1-2.4-1.4-3.5-0.6c-5.5,3.9-8.4,8.5-8.4,13.3c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5
+					c0-3.9,3.4-7.2,6.3-9.2C959.4,207.9,959.7,206.4,958.9,205.2z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1055.9,236.9c-1.2-0.2-2.5-0.4-3.7-0.6c-0.8-0.1-1.6,0.5-1.7,1.3c-0.1,0.8,0.5,1.6,1.3,1.7c1.2,0.2,2.4,0.3,3.6,0.6
-					c0.1,0,0.2,0,0.3,0c0.7,0,1.3-0.5,1.5-1.2C1057.3,237.8,1056.7,237,1055.9,236.9z"
+              d="M1027.4,194.9c-2-0.4-4.1-0.7-6.3-1c-1.4-0.2-2.6,0.8-2.8,2.2c-0.2,1.4,0.8,2.6,2.2,2.8c2,0.3,4,0.6,6,0.9
+					c0.2,0,0.3,0,0.5,0c1.2,0,2.2-0.8,2.5-2C1029.7,196.5,1028.8,195.2,1027.4,194.9z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1073.5,244.3c-0.6-0.6-1.5-0.6-2.1,0c-0.6,0.6-0.6,1.5,0,2.1c1.4,1.4,2.1,2.8,2.1,4.1c0,0.8,0.7,1.5,1.5,1.5
-					s1.5-0.7,1.5-1.5C1076.5,248.3,1075.5,246.2,1073.5,244.3z"
+              d="M1057,207.4c-1-1-2.6-0.9-3.5,0.1c-1,1-0.9,2.6,0.1,3.5c2.4,2.3,3.5,4.6,3.5,7c0,1.4,1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5
+					C1062.1,214.2,1060.4,210.7,1057,207.4z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1015.8,228.2h-1.9c-0.8,0-1.5,0.7-1.5,1.5v20.9c0,0.8,0.7,1.5,1.5,1.5c0.8,0,1.5-0.7,1.5-1.5v-19.4h0.4
-					c0.8,0,1.5-0.7,1.5-1.5S1016.6,228.2,1015.8,228.2z"
+              d="M960.1,180.4H957c-1.4,0-2.5,1.1-2.5,2.5v35c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5v-32.5h0.6
+					c1.4,0,2.5-1.1,2.5-2.5C962.6,181.5,961.5,180.4,960.1,180.4z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1030.2,246.2l-6.1-22.8c-0.2-0.8-1-1.3-1.8-1.1l-7.2,1.9c-0.4,0.1-0.7,0.4-0.9,0.7c-0.2,0.3-0.3,0.7-0.1,1.1l8.1,30.1
-					c0.2,0.7,0.8,1.1,1.4,1.1c0.1,0,0.3,0,0.4-0.1c0.8-0.2,1.3-1,1.1-1.8l-7.7-28.6l4.3-1.2l5.7,21.4c0.2,0.8,1,1.3,1.8,1.1
-					C1029.9,247.8,1030.4,247,1030.2,246.2z"
+              d="M984.3,210.6L974,172.3c-0.4-1.3-1.7-2.1-3.1-1.8l-12.1,3.2c-0.6,0.2-1.2,0.6-1.5,1.2c-0.3,0.6-0.4,1.3-0.2,1.9
+					l13.5,50.5c0.3,1.1,1.3,1.9,2.4,1.9c0.2,0,0.4,0,0.6-0.1c1.3-0.4,2.1-1.7,1.8-3.1l-12.9-48.1l7.2-1.9l9.6,35.9
+					c0.4,1.3,1.7,2.1,3.1,1.8C983.8,213.3,984.6,211.9,984.3,210.6z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1034.1,232.7h-5.2c-0.8,0-1.5,0.7-1.5,1.5v25.5c0,0.8,0.7,1.5,1.5,1.5c0.8,0,1.5-0.7,1.5-1.5v-24h3.7
-					c0.8,0,1.5-0.7,1.5-1.5S1034.9,232.7,1034.1,232.7z"
+              d="M990.8,187.9H982c-1.4,0-2.5,1.1-2.5,2.5v42.8c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5v-40.3h6.3
+					c1.4,0,2.5-1.1,2.5-2.5S992.2,187.9,990.8,187.9z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1042.3,226.7h-7.4c-0.8,0-1.5,0.7-1.5,1.5v33.5c0,0.7,0.5,1.3,1.2,1.5c2.5,0.6,5.1,0.8,7.8,0.8c0.8,0,1.5-0.7,1.5-1.5
-					v-34.3C1043.8,227.4,1043.1,226.7,1042.3,226.7z M1040.8,261c-1.5-0.1-3-0.2-4.5-0.5v-30.8h4.5V261z"
+              d="M1004.5,177.9H992c-1.4,0-2.5,1.1-2.5,2.5v56.2c0,1.2,0.8,2.2,2,2.4c4.2,0.9,8.6,1.4,13,1.4c1.4,0,2.5-1.1,2.5-2.5
+					v-57.5C1007,179,1005.9,177.9,1004.5,177.9z M1002,235.4c-2.5-0.1-5-0.4-7.5-0.8v-51.6h7.5V235.4z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1051.2,223.7h-7.4c-0.8,0-1.5,0.7-1.5,1.5V258c0,0.8,0.7,1.5,1.5,1.5c0.8,0,1.5-0.7,1.5-1.5v-31.3h4.5v18.4
-					c0,0.8,0.7,1.5,1.5,1.5c0.8,0,1.5-0.7,1.5-1.5v-19.9C1052.7,224.4,1052,223.7,1051.2,223.7z"
+              d="M1019.5,172.9H1007c-1.4,0-2.5,1.1-2.5,2.5v55c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5v-52.5h7.5v30.8
+					c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5v-33.3C1022,174,1020.9,172.9,1019.5,172.9z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1032.3,259.4c-0.5-0.2-1-0.4-1.5-0.6c-0.8-0.3-1.6,0.1-1.9,0.8c-0.1,0.2-0.1,0.4-0.1,0.6c0,0.6,0.4,1.1,0.9,1.4
-					c0.5,0.2,1.1,0.4,1.7,0.6c0.2,0.1,0.3,0.1,0.5,0.1c0.6,0,1.2-0.4,1.4-1C1033.5,260.5,1033,259.7,1032.3,259.4z"
+              d="M987.7,232.8c-0.9-0.3-1.7-0.6-2.5-0.9c-1.3-0.5-2.7,0.1-3.3,1.4c-0.1,0.3-0.2,0.6-0.2,0.9c0,1,0.6,1.9,1.6,2.3
+					c0.9,0.4,1.9,0.7,2.9,1c0.3,0.1,0.5,0.1,0.8,0.1c1,0,2-0.7,2.4-1.7C989.8,234.7,989,233.3,987.7,232.8z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1041.4,261c-3.2-0.1-6.3-0.6-9.1-1.5c-0.8-0.3-1.6,0.2-1.9,0.9c-0.3,0.8,0.2,1.6,0.9,1.9c3.1,1,6.4,1.6,10,1.7
-					c0,0,0,0,0,0c0.8,0,1.5-0.6,1.5-1.5C1042.9,261.7,1042.2,261,1041.4,261z"
+              d="M1003,235.4c-5.4-0.1-10.7-1-15.3-2.5c-1.3-0.4-2.7,0.3-3.2,1.6c-0.4,1.3,0.3,2.7,1.6,3.2c5.1,1.7,10.8,2.6,16.7,2.8
+					c0,0,0,0,0.1,0c1.4,0,2.5-1.1,2.5-2.4C1005.5,236.6,1004.4,235.4,1003,235.4z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1052.6,260.9l-0.5-1.4c-0.2,0.1-0.4,0.1-0.6,0.2c0,0,0,0,0,0c0,0,0,0,0,0c-0.8,0.2-1.2,1.1-1,1.9
-					c0.2,0.6,0.8,1.1,1.4,1.1c0.1,0,0.3,0,0.4-0.1c0.2-0.1,0.4-0.1,0.6-0.2c0,0,0,0,0,0L1052.6,260.9z"
+              d="M1022,235.3l-0.9-2.4c-0.3,0.1-0.6,0.2-1,0.3c0,0,0,0,0,0c0,0,0,0,0,0c-1.3,0.4-2.1,1.8-1.7,3.1
+					c0.3,1.1,1.3,1.8,2.4,1.8c0.2,0,0.5,0,0.7-0.1c0.4-0.1,0.7-0.2,1.1-0.4c0,0,0,0,0,0L1022,235.3z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1057.3,258.8l-0.9-1.2l-0.3,0.2c-0.5,0.3-0.8,0.8-0.8,1.3c0,0.2,0.1,0.5,0.2,0.7c0.3,0.5,0.8,0.8,1.3,0.8
-					c0.2,0,0.5-0.1,0.7-0.2l0.4-0.2L1057.3,258.8z"
+              d="M1029.8,231.8l-1.5-2l-0.5,0.3c-0.8,0.5-1.3,1.3-1.3,2.2c0,0.4,0.1,0.8,0.3,1.2c0.5,0.8,1.3,1.3,2.2,1.3
+					c0.4,0,0.8-0.1,1.2-0.3l0.7-0.4L1029.8,231.8z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1055.6,259.8c-0.3-0.8-1.2-1.1-1.9-0.8l-0.6,0.2c-0.8,0.3-1.2,1.1-0.9,1.9c0.2,0.6,0.8,1,1.4,1c0.2,0,0.4,0,0.5-0.1
-					l0.1-0.1c0.2-0.1,0.4-0.1,0.5-0.2C1055.5,261.4,1055.9,260.5,1055.6,259.8z"
+              d="M1026.9,233.4c-0.5-1.3-2-1.9-3.2-1.4l-1,0.4c-1.3,0.5-1.9,1.9-1.5,3.2c0.4,1,1.3,1.6,2.3,1.6c0.3,0,0.6-0.1,0.9-0.2
+					l0.2-0.1c0.3-0.1,0.6-0.2,0.9-0.3C1026.8,236.1,1027.4,234.7,1026.9,233.4z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1057,259.1c-0.4-0.7-1.2-1.1-2-0.7l-0.5,0.2c-0.6,0.2-0.9,0.8-0.9,1.4c0,0.2,0,0.4,0.1,0.6c0.2,0.6,0.8,0.9,1.4,0.9
-					c0.2,0,0.4,0,0.6-0.1l0.5-0.2c0.5-0.3,0.8-0.8,0.8-1.3C1057.1,259.5,1057.1,259.3,1057,259.1z"
+              d="M1029.2,232.2c-0.6-1.2-2.1-1.8-3.3-1.2l-0.8,0.3c-0.9,0.4-1.5,1.3-1.5,2.3c0,0.3,0.1,0.7,0.2,1
+					c0.4,0.9,1.3,1.5,2.3,1.5c0.3,0,0.7-0.1,1-0.2l0.9-0.4c0.9-0.4,1.4-1.3,1.4-2.3C1029.5,232.9,1029.4,232.6,1029.2,232.2z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1025.5,255.7C1025.5,255.7,1025.5,255.7,1025.5,255.7C1025.5,255.7,1025.5,255.7,1025.5,255.7
-					c-0.1-0.1-0.2-0.2-0.3-0.3c-0.1-0.1-0.2-0.2-0.3-0.3c0,0,0,0,0,0c0,0,0,0,0,0c-0.6-0.6-1.5-0.6-2.1-0.1
-					c-0.6,0.6-0.6,1.5-0.1,2.1c0,0,0,0,0,0c0,0,0,0,0,0c0.1,0.1,0.2,0.2,0.3,0.3c0.1,0.1,0.3,0.3,0.5,0.4c0,0,0,0,0,0c0,0,0,0,0,0
-					c0.3,0.3,0.6,0.4,1,0.4c0.4,0,0.8-0.2,1.1-0.5C1026.2,257.2,1026.1,256.3,1025.5,255.7z"
+              d="M976.4,226.6C976.4,226.6,976.4,226.6,976.4,226.6C976.4,226.6,976.4,226.6,976.4,226.6c-0.2-0.2-0.3-0.3-0.5-0.5
+					c-0.2-0.2-0.4-0.3-0.5-0.5c0,0,0,0,0,0c0,0,0,0,0,0c-0.9-1-2.5-1.1-3.5-0.1c-1,0.9-1.1,2.5-0.1,3.5c0,0,0,0,0,0c0,0,0,0,0,0
+					c0.2,0.2,0.3,0.3,0.5,0.5c0.2,0.2,0.5,0.5,0.8,0.7c0,0,0,0,0,0c0,0,0,0,0,0c0.5,0.4,1.1,0.7,1.7,0.7c0.7,0,1.3-0.3,1.8-0.8
+					C977.5,229.1,977.4,227.5,976.4,226.6z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1030.7,258.9C1030.7,258.9,1030.7,258.9,1030.7,258.9C1030.7,258.9,1030.7,258.9,1030.7,258.9
-					c-0.5-0.2-0.9-0.4-1.3-0.6c-0.7-0.4-1.6-0.1-2,0.7c-0.1,0.2-0.2,0.4-0.2,0.7c0,0.5,0.3,1.1,0.8,1.3c0.5,0.2,1,0.5,1.5,0.7
-					c0.2,0.1,0.4,0.1,0.6,0.1c0.6,0,1.1-0.3,1.4-0.9C1031.8,260,1031.4,259.2,1030.7,258.9z"
+              d="M985.1,231.9C985.1,231.9,985.1,231.9,985.1,231.9C985.1,231.9,985.1,231.9,985.1,231.9c-0.8-0.3-1.5-0.7-2.3-1
+					c-1.2-0.6-2.7-0.1-3.4,1.1c-0.2,0.4-0.3,0.7-0.3,1.1c0,0.9,0.5,1.8,1.4,2.2c0.8,0.4,1.7,0.8,2.6,1.1c0.3,0.1,0.6,0.2,1,0.2
+					c1,0,1.9-0.6,2.3-1.5C987,233.9,986.3,232.4,985.1,231.9z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1026.6,256.6c-0.3-0.2-0.5-0.4-0.8-0.6c0,0,0,0,0,0c-0.6-0.5-1.6-0.5-2.1,0.1c-0.2,0.3-0.4,0.6-0.4,1
-					c0,0.4,0.2,0.8,0.5,1.1c0.3,0.3,0.6,0.5,1,0.8c0.3,0.2,0.6,0.3,0.9,0.3c0.5,0,0.9-0.2,1.2-0.6
-					C1027.4,258,1027.3,257.1,1026.6,256.6z"
+              d="M978.2,228.1c-0.4-0.3-0.9-0.7-1.3-1c0,0,0,0,0,0c-1-0.9-2.6-0.8-3.5,0.2c-0.4,0.5-0.6,1.1-0.6,1.6
+					c0,0.7,0.3,1.4,0.9,1.9c0.5,0.4,1,0.9,1.6,1.3c0.4,0.3,1,0.5,1.5,0.5c0.8,0,1.5-0.3,2-1C979.6,230.5,979.3,228.9,978.2,228.1z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1027.8,257.4c-0.2-0.1-0.3-0.2-0.5-0.3c-0.2-0.1-0.3-0.2-0.5-0.3c-0.7-0.5-1.6-0.3-2.1,0.4c-0.5,0.7-0.3,1.6,0.3,2.1
-					c0.2,0.1,0.4,0.2,0.5,0.4c0.2,0.1,0.4,0.3,0.6,0.4c0.2,0.1,0.5,0.2,0.8,0.2c0.5,0,1-0.3,1.3-0.7
-					C1028.7,258.8,1028.5,257.9,1027.8,257.4z"
+              d="M980.3,229.5c-0.3-0.2-0.5-0.3-0.8-0.5c-0.3-0.2-0.6-0.4-0.8-0.6c-1.1-0.8-2.7-0.5-3.5,0.6c-0.8,1.1-0.5,2.7,0.6,3.5
+					c0.3,0.2,0.6,0.4,0.9,0.6c0.3,0.2,0.7,0.4,1,0.6c0.4,0.2,0.9,0.4,1.3,0.4c0.8,0,1.7-0.4,2.1-1.2
+					C981.8,231.7,981.5,230.2,980.3,229.5z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1029.2,258.2c-0.4-0.2-0.8-0.4-1.2-0.6c-0.7-0.4-1.6-0.2-2,0.5c-0.1,0.2-0.2,0.5-0.2,0.8c0,0.5,0.3,1,0.7,1.3
-					c0.4,0.3,0.9,0.5,1.3,0.7c0.2,0.1,0.4,0.2,0.7,0.2c0.5,0,1.1-0.3,1.3-0.8c0.1-0.2,0.2-0.4,0.2-0.7
-					C1030,259,1029.7,258.4,1029.2,258.2z"
+              d="M982.6,230.7c-0.7-0.3-1.3-0.7-1.9-1c-1.2-0.7-2.7-0.3-3.4,0.9c-0.2,0.4-0.3,0.8-0.3,1.3c0,0.9,0.4,1.7,1.2,2.2
+					c0.7,0.4,1.5,0.8,2.2,1.2c0.4,0.2,0.7,0.3,1.1,0.3c0.9,0,1.8-0.5,2.2-1.4c0.2-0.4,0.3-0.7,0.3-1.1
+					C983.9,232,983.4,231.2,982.6,230.7z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1024.7,254.8l-0.1-0.1c-0.1-0.1-0.1-0.2-0.2-0.2c-0.1-0.1-0.1-0.1-0.1-0.2c-0.5-0.7-1.4-0.8-2.1-0.3
-					c-0.7,0.5-0.8,1.4-0.3,2.1c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.3,0.3,0.4,0.5c0.3,0.3,0.7,0.5,1.1,0.5c0.3,0,0.7-0.1,1-0.4
-					C1025.1,256.4,1025.2,255.4,1024.7,254.8z"
+              d="M975,225l-0.2-0.2c-0.1-0.1-0.2-0.3-0.3-0.4c-0.1-0.1-0.2-0.2-0.3-0.3c-0.8-1.1-2.4-1.4-3.5-0.5
+					c-1.1,0.8-1.4,2.4-0.5,3.5c0.1,0.1,0.2,0.2,0.3,0.4c0.2,0.3,0.4,0.5,0.7,0.8c0.5,0.6,1.2,0.9,1.9,0.9c0.6,0,1.2-0.2,1.6-0.6
+					C975.7,227.7,975.9,226.1,975,225z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1066.6,233.6l-2.9-1.7c-0.7-0.4-1.6-0.2-2,0.5c-0.4,0.7-0.2,1.6,0.5,2l1.7,1l-14.3,24.7c-1.8,0.4-3.7,0.7-5.6,0.7
-					l13.5-23.3c0.4-0.7,0.2-1.6-0.5-2c-0.7-0.4-1.6-0.2-2,0.5l-14.8,25.6c-0.3,0.5-0.3,1,0,1.5c0.3,0.5,0.7,0.7,1.3,0.8l0.3,0
-					c0.2,0,0.4,0,0.6,0c3,0,5.9-0.3,8.6-1c0.4-0.1,0.7-0.3,0.9-0.7l15.4-26.6C1067.6,235,1067.3,234,1066.6,233.6z"
+              d="M1045.4,189.5l-4.9-2.9c-1.2-0.7-2.7-0.3-3.4,0.9c-0.7,1.2-0.3,2.7,0.9,3.4l2.8,1.6l-24,41.5c-3,0.7-6.2,1.1-9.4,1.2
+					l22.6-39.2c0.7-1.2,0.3-2.7-0.9-3.4c-1.2-0.7-2.7-0.3-3.4,0.9l-24.8,43c-0.4,0.8-0.4,1.7,0,2.5c0.4,0.8,1.2,1.3,2.1,1.3l0.5,0
+					c0.3,0,0.7,0,1,0c5,0,9.8-0.6,14.4-1.7c0.7-0.2,1.2-0.6,1.6-1.2l25.8-44.7C1047,191.7,1046.6,190.2,1045.4,189.5z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1023.9,253.8l-0.1-0.2c-0.1-0.1-0.1-0.2-0.2-0.3c-0.4-0.7-1.3-1-2-0.6c-0.5,0.3-0.8,0.8-0.8,1.3c0,0.2,0.1,0.5,0.2,0.7
-					c0.1,0.2,0.2,0.4,0.3,0.5l0.1,0.1c0.3,0.4,0.8,0.7,1.3,0.7c0.3,0,0.6-0.1,0.8-0.2c0.4-0.3,0.7-0.8,0.7-1.3
-					C1024.2,254.4,1024.1,254.1,1023.9,253.8z"
+              d="M973.8,223.4l-0.2-0.3c-0.1-0.2-0.2-0.4-0.3-0.5c-0.7-1.2-2.2-1.7-3.4-1c-0.8,0.4-1.3,1.3-1.3,2.2
+					c0,0.4,0.1,0.8,0.3,1.2c0.2,0.3,0.4,0.6,0.6,0.9l0.2,0.2c0.5,0.8,1.3,1.2,2.1,1.2c0.5,0,0.9-0.1,1.3-0.4
+					c0.7-0.5,1.2-1.3,1.2-2.1C974.2,224.3,974,223.9,973.8,223.4z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1063.3,250.2c-0.8-0.1-1.6,0.4-1.7,1.2l-0.1,0.3c0,0.1,0,0.2,0,0.3c0,0.7,0.5,1.3,1.2,1.4c0.1,0,0.2,0,0.3,0
-					c0.7,0,1.3-0.5,1.5-1.2c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0-0.2C1064.5,250.9,1064,250.3,1063.3,250.2z"
+              d="M1039.8,217.3c-1.4-0.2-2.6,0.7-2.9,2.1l-0.1,0.4c0,0.2-0.1,0.3-0.1,0.5c0,1.1,0.8,2.1,2,2.4c0.2,0,0.3,0.1,0.5,0.1
+					c1.2,0,2.2-0.9,2.5-2c0-0.2,0.1-0.4,0.1-0.5c0-0.1,0-0.3,0-0.4C1041.9,218.6,1041,217.5,1039.8,217.3z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1023.4,252.9l-0.1-0.2c0-0.1-0.1-0.1-0.1-0.2c-0.3-0.8-1.1-1.2-1.9-0.9c-0.6,0.2-1,0.8-1,1.4c0,0.2,0,0.3,0.1,0.5
-					c0.1,0.2,0.1,0.3,0.2,0.5l0.1,0.1c0.2,0.6,0.8,0.9,1.4,0.9c0.2,0,0.4,0,0.6-0.1c0.6-0.2,0.9-0.8,0.9-1.4
-					C1023.5,253.3,1023.5,253.1,1023.4,252.9z"
+              d="M972.9,221.8l-0.2-0.4c-0.1-0.1-0.1-0.2-0.2-0.4c-0.5-1.3-1.9-2-3.2-1.5c-1,0.4-1.7,1.3-1.7,2.4c0,0.3,0,0.6,0.1,0.8
+					c0.1,0.3,0.2,0.5,0.3,0.8l0.1,0.2c0.4,0.9,1.3,1.5,2.3,1.5c0.3,0,0.7-0.1,1-0.2c0.9-0.4,1.5-1.3,1.5-2.3
+					C973.1,222.5,973,222.1,972.9,221.8z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1059.7,257.1c-0.5-0.7-1.4-0.8-2.1-0.3l-0.4,0.3c-0.7,0.5-0.9,1.4-0.4,2.1c0.3,0.4,0.8,0.7,1.2,0.7
-					c0.3,0,0.6-0.1,0.8-0.2c0.2-0.1,0.3-0.2,0.5-0.3c0.4-0.3,0.6-0.7,0.6-1.2C1060,257.7,1059.9,257.4,1059.7,257.1z"
+              d="M1033.9,229c-0.8-1.1-2.4-1.4-3.5-0.6l-0.7,0.5c-1.1,0.8-1.5,2.3-0.7,3.5c0.5,0.7,1.3,1.1,2.1,1.1c0.5,0,1-0.1,1.4-0.4
+					c0.3-0.2,0.6-0.4,0.8-0.6c0.7-0.5,1-1.3,1-2C1034.3,229.9,1034.2,229.4,1033.9,229z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1023.1,251.8l-0.1-0.3c-0.1-0.8-0.9-1.3-1.7-1.2c-0.7,0.1-1.2,0.8-1.2,1.5c0,0.1,0,0.2,0,0.3c0,0.1,0.1,0.3,0.1,0.5
-					c0.2,0.7,0.8,1.1,1.4,1.1c0.1,0,0.2,0,0.4,0c0.7-0.2,1.1-0.8,1.1-1.4C1023.1,252.1,1023.1,252,1023.1,251.8z"
+              d="M972.3,220.1l-0.2-0.6c-0.2-1.4-1.5-2.2-2.9-2c-1.2,0.2-2.1,1.3-2.1,2.5c0,0.1,0,0.3,0,0.4c0,0.2,0.1,0.5,0.2,0.9
+					c0.3,1.1,1.3,1.9,2.4,1.9c0.2,0,0.4,0,0.6-0.1c1.1-0.3,1.9-1.3,1.9-2.4C972.4,220.5,972.4,220.3,972.3,220.1z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1060.8,256l-1.2-0.9l-0.2,0.2c-0.3,0.3-0.4,0.7-0.4,1c0,0.4,0.1,0.8,0.4,1.1c0.3,0.3,0.7,0.4,1,0.4
-					c0.4,0,0.8-0.1,1.1-0.4c0.1-0.1,0.2-0.2,0.3-0.3L1060.8,256z"
+              d="M1035.6,227.1l-2-1.6l-0.3,0.3c-0.5,0.5-0.7,1.1-0.7,1.7c0,0.6,0.3,1.3,0.8,1.8c0.5,0.5,1.1,0.7,1.7,0.7
+					c0.6,0,1.3-0.3,1.8-0.8c0.2-0.2,0.3-0.3,0.5-0.6L1035.6,227.1z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1064.2,252.8c0-0.6-0.4-1.2-1-1.4c-0.8-0.3-1.6,0.2-1.9,0.9c0,0-0.1,0.2-0.1,0.3c-0.1,0.2-0.1,0.4-0.1,0.5
-					c0,0.6,0.4,1.2,1,1.4c0.2,0.1,0.4,0.1,0.5,0.1c0.6,0,1.2-0.4,1.4-1c0-0.1,0.1-0.2,0.1-0.3l-1.4-0.6l1.4,0.5
-					C1064.2,253.1,1064.2,252.9,1064.2,252.8z"
+              d="M1041.4,221.6c0-1-0.7-2-1.7-2.4c-1.3-0.4-2.7,0.3-3.2,1.6c0,0-0.1,0.4-0.1,0.4c-0.1,0.3-0.2,0.6-0.2,0.9
+					c0,1,0.6,2,1.6,2.3c0.3,0.1,0.6,0.2,0.9,0.2c1,0,2-0.6,2.3-1.6c0.1-0.2,0.1-0.3,0.2-0.5l-2.3-0.9l2.4,0.8
+					C1041.4,222.2,1041.4,221.9,1041.4,221.6z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1060.7,256.3c-0.5-0.6-1.5-0.7-2.1-0.2c0,0-0.1,0.1-0.1,0.1c-0.3,0.3-0.5,0.7-0.5,1.1c0,0.3,0.1,0.7,0.3,1
-					c0.3,0.4,0.7,0.5,1.2,0.5c0.3,0,0.7-0.1,1-0.3l0.2-0.1c0.3-0.3,0.5-0.7,0.5-1.1C1061.1,256.9,1060.9,256.6,1060.7,256.3z"
+              d="M1035.5,227.6c-0.8-1.1-2.5-1.2-3.6-0.3c0,0-0.2,0.2-0.2,0.2c-0.6,0.5-0.9,1.1-0.9,1.8c0,0.6,0.2,1.1,0.6,1.6
+					c0.5,0.6,1.2,0.9,2,0.9c0.6,0,1.1-0.2,1.6-0.5l0.3-0.2c0.6-0.5,0.8-1.1,0.8-1.8C1036.1,228.7,1035.9,228.1,1035.5,227.6z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1062.4,253.9c-0.7-0.5-1.6-0.3-2.1,0.3l-0.2,0.3c-0.2,0.3-0.3,0.6-0.3,0.9c0,0.4,0.2,0.9,0.6,1.2
-					c0.3,0.2,0.6,0.3,0.9,0.3c0.5,0,0.9-0.2,1.2-0.6c0.1-0.1,0.2-0.2,0.2-0.3c0.2-0.3,0.3-0.6,0.3-0.9
-					C1063.1,254.6,1062.8,254.2,1062.4,253.9z"
+              d="M1038.4,223.5c-1.1-0.8-2.7-0.5-3.5,0.6l-0.3,0.4c-0.3,0.4-0.5,1-0.5,1.5c0,0.7,0.3,1.5,1,2c0.4,0.3,1,0.5,1.5,0.5
+					c0.8,0,1.5-0.3,2-1c0.1-0.2,0.3-0.3,0.4-0.5c0.3-0.4,0.5-0.9,0.5-1.4C1039.4,224.7,1039.1,224,1038.4,223.5z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1062.9,252.8c-0.7-0.4-1.6-0.1-2,0.6c-0.1,0.2-0.2,0.5-0.2,0.7c0,0.5,0.3,1,0.7,1.3c0.2,0.1,0.5,0.2,0.7,0.2
-					c0.5,0,1-0.3,1.3-0.7c0,0,0.1-0.1,0.1-0.2c0.1-0.2,0.2-0.4,0.2-0.7C1063.7,253.6,1063.4,253.1,1062.9,252.8z"
+              d="M1039.1,221.7c-1.2-0.7-2.8-0.1-3.4,1.1c-0.2,0.4-0.3,0.8-0.3,1.2c0,0.8,0.4,1.7,1.2,2.1c0.4,0.2,0.8,0.3,1.3,0.3
+					c0.8,0,1.7-0.4,2.1-1.2c0-0.1,0.1-0.2,0.2-0.3c0.2-0.4,0.3-0.7,0.3-1.1C1040.5,223,1040,222.2,1039.1,221.7z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1066.5,240.5l-4.7-17.4c-0.1-0.4-0.4-0.7-0.7-0.9c-0.3-0.2-0.7-0.2-1.1-0.1l-7.2,1.9c-0.4,0.1-0.7,0.4-0.9,0.7
-					c-0.2,0.3-0.3,0.7-0.1,1.1l6.1,22.8c0.2,0.7,0.8,1.1,1.4,1.1c0.1,0,0.3,0,0.4-0.1c0.8-0.2,1.3-1,1.1-1.8l-5.7-21.3l4.3-1.2
-					l4.3,16c0.2,0.8,1,1.3,1.8,1.1C1066.2,242.1,1066.7,241.3,1066.5,240.5z"
+              d="M1045.2,201.1l-7.8-29.2c-0.2-0.6-0.6-1.2-1.2-1.5c-0.6-0.3-1.3-0.4-1.9-0.2l-12.1,3.2c-0.6,0.2-1.2,0.6-1.5,1.2
+					c-0.3,0.6-0.4,1.3-0.2,1.9l10.2,38.3c0.3,1.1,1.3,1.9,2.4,1.9c0.2,0,0.4,0,0.6-0.1c1.3-0.4,2.1-1.7,1.8-3.1l-9.6-35.8l7.2-1.9
+					l7.2,26.8c0.4,1.3,1.7,2.1,3.1,1.8C1044.8,203.8,1045.6,202.4,1045.2,201.1z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1080.2,235.5c-0.1-0.4-0.3-0.7-0.6-1l-5.9-4.5c-0.7-0.5-1.6-0.4-2.1,0.3l-23,30.5c-0.4,0.5-0.4,1.2-0.1,1.7
-					c0.3,0.4,0.8,0.7,1.3,0.7c0.1,0,0.2,0,0.3,0c8-1.8,13.5-6,14.4-11.1h3c0.5,0,0.9-0.2,1.2-0.6l11.2-14.9
-					C1080.1,236.3,1080.2,235.9,1080.2,235.5z M1066.7,249.1h-3.6c-0.8,0-1.5,0.7-1.5,1.5c0,3.3-3.1,6.4-7.9,8.4l19.3-25.6l3.6,2.7
-					L1066.7,249.1z"
+              d="M1068.2,192.6c-0.1-0.7-0.4-1.2-1-1.6l-10-7.5c-1.1-0.8-2.7-0.6-3.5,0.5l-38.6,51.2c-0.6,0.8-0.7,2-0.1,2.9
+					c0.5,0.7,1.3,1.1,2.1,1.1c0.2,0,0.4,0,0.5-0.1c13.5-3,22.7-10.1,24.2-18.6h5c0.8,0,1.5-0.4,2-1l18.8-25
+					C1068.1,193.9,1068.3,193.3,1068.2,192.6z M1045.6,215.4h-6c-1.4,0-2.5,1.1-2.5,2.5c0,5.5-5.1,10.7-13.3,14l32.4-43l6,4.5
+					L1045.6,215.4z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1076.1,249.5c-0.3-0.3-0.7-0.5-1.1-0.5h-11.9c-0.8,0-1.5,0.7-1.5,1.5c0,5.7-8.9,10.4-19.4,10.4s-19.4-4.8-19.4-10.4
-					c0-0.8-0.7-1.5-1.5-1.5h-11.9c-0.4,0-0.8,0.2-1.1,0.5c-0.3,0.3-0.4,0.7-0.4,1.1l4.5,61.1c0.1,0.8,0.7,1.4,1.5,1.4h56.6
-					c0.8,0,1.4-0.6,1.5-1.4l4.5-61.1C1076.6,250.3,1076.4,249.9,1076.1,249.5z M1069.2,310.2h-53.8l-4.3-58.1h9
-					c1.2,6.8,10.5,11.9,22.2,11.9c11.7,0,21-5.1,22.2-11.9h9L1069.2,310.2z"
+              d="M1061.4,216.2c-0.5-0.5-1.1-0.8-1.8-0.8h-20c-1.4,0-2.5,1.1-2.5,2.5c0,9.5-14.9,17.5-32.5,17.5s-32.5-8-32.5-17.5
+					c0-1.4-1.1-2.5-2.5-2.5h-20c-0.7,0-1.4,0.3-1.8,0.8c-0.5,0.5-0.7,1.2-0.7,1.9l7.5,102.6c0.1,1.3,1.2,2.3,2.5,2.3h95.1
+					c1.3,0,2.4-1,2.5-2.3l7.5-102.6C1062.1,217.4,1061.9,216.7,1061.4,216.2z M1049.7,318h-90.4l-7.1-97.6h15
+					c2,11.4,17.7,20,37.3,20s35.3-8.6,37.3-20h15L1049.7,318z"
             />
           </g>
         </g>
         <g>
           <g>
             <path
-              d="M1042.3,274.4c-7.4,0-13.4,6-13.4,13.4c0,7.4,6,13.4,13.4,13.4c7.4,0,13.4-6,13.4-13.4
-					C1055.7,280.4,1049.7,274.4,1042.3,274.4z M1042.3,298.2c-5.8,0-10.4-4.7-10.4-10.4s4.7-10.4,10.4-10.4
-					c5.8,0,10.4,4.7,10.4,10.4S1048,298.2,1042.3,298.2z"
+              d="M1004.5,258c-12.4,0-22.5,10.1-22.5,22.5s10.1,22.5,22.5,22.5c12.4,0,22.5-10.1,22.5-22.5S1016.9,258,1004.5,258z
+					 M1004.5,298c-9.7,0-17.5-7.9-17.5-17.5c0-9.7,7.9-17.5,17.5-17.5s17.5,7.9,17.5,17.5C1022,290.1,1014.2,298,1004.5,298z"
             />
           </g>
         </g>
@@ -5930,6 +4336,35 @@
           </g>
         </g>
       </g>
+      <g id="femme1_2_">
+        <path
+          id="femme1_1_"
+          class="st19"
+          d="M1032.2,526.7v-25.5c1.3-0.2,3.1-0.5,5.6-0.9c0.7-0.1,1.2-0.2,1.3-0.2
+			c6.2-1.2,10.5-6,10.5-11.7l-9-42.2c-0.4-9.4-10.4-17.6-17-18.4l-2.5-0.2l-1.8,1.7c-0.9,0.9-2,1.7-3.1,2.4
+			c-5.7,3.4-13,3.2-18.4-0.5c-0.7-0.5-1.4-1-2.3-1.8l-1.4-1.5l-2.6-0.1c-7.6,0-17.7,9-18.2,18.5l-8.9,41.1l-0.1,1.1
+			c0,5.8,4.7,10.8,11,11.8c0.6,0.1,1.2,0.2,1.9,0.2l0.6,0c0,0,2.2,0,4.5,0v25.7c0,6.8,6,12.3,13.4,12.3h1.2c4.1,0,7.8-1.7,10.2-4.4
+			c2.4,3,6.3,5,10.6,5h1.2C1026.2,539,1032.2,533.5,1032.2,526.7z M1021.9,495.7l-0.3,1.3l0.2,1.2v28.6c0,0.9-1.2,1.9-2.9,1.9h-1.2
+			c-1.7,0-2.9-1-2.9-1.9V497h-14.9v29.1c0,0.9-1.3,1.9-3,1.9h-1.2c-1.7,0-3-1-3-1.9l0-28.8l0.1-1.2l-0.3-6.1l-5.2,0.1
+			c-0.6,0-7.9,0-9.3,0.1l-0.4,0c-0.2,0-0.4,0-0.6,0c-1.2-0.2-2-0.8-2.3-1.3l8.8-40.8l0.1-1.1c0-3.3,4.1-7,6.6-8.3
+			c0.6,0.4,1.1,0.9,1.7,1.2c8.7,5.8,20.5,6.2,29.5,0.8c0.9-0.5,1.7-1.1,2.6-1.8c2.6,1.5,6.1,5.1,6.1,8l9,41.9c-0.2,0.4-1,1-1.9,1.2
+			l-0.9,0.1C1025.6,491.7,1023,492,1021.9,495.7z"
+        />
+        <path
+          id="femme1"
+          class="st19"
+          d="M1007.3,386c-11.6,0-21.1,9.5-21.1,21.1c0,6.5,3,12.6,8.2,16.7c3.7,2.9,8.2,4.4,12.9,4.4
+			c4.7,0,9.2-1.5,12.9-4.4c5.2-4,8.2-10.1,8.2-16.7C1028.4,395.5,1019,386,1007.3,386z M1013.9,415.6c-3.8,3-9.3,3-13.1,0
+			c-2.7-2.1-4.2-5.1-4.2-8.5c0-5.9,4.8-10.7,10.7-10.7c5.9,0,10.7,4.8,10.7,10.7C1018.1,410.4,1016.5,413.5,1013.9,415.6z"
+        />
+        <text
+          id="frites1Wait_1_"
+          transform="matrix(1 0 0 1 734.4932 494.1843)"
+          class="st7 st18"
+        >
+          X min
+        </text>
+      </g>
     </g>
   </svg>
 </template>
@@ -5939,56 +4374,83 @@
   display: none;
 }
 .st1 {
-  stroke: #808080;
-  stroke-miterlimit: 10;
-}
-.highlight {
+  display: inline;
   stroke: #000000;
-  fill: #face48;
   stroke-miterlimit: 10;
 }
 .st2 {
-  fill: #ff83d6;
+  fill: #a6a6a6;
   stroke: #000000;
   stroke-miterlimit: 10;
 }
 .st3 {
-  fill: #e6e6e6;
-  stroke: #000000;
+  fill: none;
+  stroke: #4d4d4d;
   stroke-miterlimit: 10;
 }
 .st4 {
-  fill: #dfed26;
-  stroke: #000000;
+  fill: #cccccc;
+  stroke: #808080;
   stroke-miterlimit: 10;
 }
 .st5 {
-  fill: #ffffff;
+  fill: none;
+  stroke: #808080;
+  stroke-width: 0.5;
+  stroke-miterlimit: 10;
 }
 .st6 {
-  display: none;
-  fill: #dfed26;
-  stroke: #000000;
-  stroke-miterlimit: 10;
+  fill: #face48;
 }
 .st7 {
   font-family: "MyriadPro-Regular";
 }
 .st8 {
-  font-size: 40px;
+  font-size: 57.0765px;
 }
 .st9 {
+  font-size: 57.1572px;
+}
+.st10 {
+  display: inline;
+}
+.st11 {
+  fill: #e6e6e6;
+  stroke: #000000;
+  stroke-miterlimit: 10;
+}
+.st12 {
+  fill: #dfed26;
+  stroke: #000000;
+  stroke-miterlimit: 10;
+}
+.st13 {
+  fill: #ffffff;
+}
+.st14 {
+  display: none;
+  fill: #dfed26;
+  stroke: #000000;
+  stroke-miterlimit: 10;
+}
+.st15 {
+  font-size: 40px;
+}
+.st16 {
   fill: #e6e6e6;
   stroke: #999999;
   stroke-miterlimit: 10;
 }
-.st10 {
+.st17 {
   fill: #ffff00;
   stroke: #000000;
   stroke-miterlimit: 10;
 }
-.coloricon {
-  stroke: #28f043;
+.st18 {
+  font-size: 65.2711px;
+}
+.st19 {
+  stroke: #4d4d4d;
   stroke-miterlimit: 10;
 }
 </style>
