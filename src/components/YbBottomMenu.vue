@@ -1,10 +1,10 @@
 <template>
-  <div class="fixed bottom-0 bg-secondary w-screen text-xs">
-    <div class="max-w-screen-xl mx-auto py-0 px-0 text-textcolor">
+  <div class="fixed bottom-0 bg-primary w-screen text-xs">
+    <div class="max-w-screen-xl mx-auto py-0 px-0 text-textcolor-ad">
       <ul class="flex">
         <router-link
           to="/"
-          exact-active-class="text-primary bg-secondary-dd"
+          exact-active-class="text-primary bg-primary-d"
           class="text-center block flex-1 py-4"
           href="#"
         >
@@ -20,7 +20,7 @@
         </router-link>
         <router-link
           to="/about"
-          active-class="text-primary bg-secondary-dd"
+          active-class="text-primary bg-primary-d"
           class="text-center block flex-1 py-4"
           href="#"
         >
@@ -35,7 +35,7 @@
         ></router-link>
         <router-link
           to="/map"
-          active-class="text-primary bg-secondary-dd"
+          active-class="text-primary bg-primary-d"
           class="text-center block flex-1 py-4"
           href="#"
         >
@@ -51,7 +51,7 @@
         </router-link>
         <router-link
           to="/settings"
-          active-class="text-primary bg-secondary-dd"
+          active-class="text-primary bg-primary-d"
           class="text-center block flex-1 py-4"
           href="#"
         >
