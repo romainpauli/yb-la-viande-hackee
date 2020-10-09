@@ -11,9 +11,8 @@
     <template v-else>
       <yb-bottom-menu v-if="$store.state.seatNumber !== null" class="z-40" />
       <div
-        class="h-screen flex overflow-hidden"
+        class="h-screen flex overflow-hidden pb-16"
         :class="theme"
-        @keydown.escape="sidebarOpen = !sidebarOpen"
       >
         <div class="flex flex-col w-0 flex-1 overflow-hidden">
           <main

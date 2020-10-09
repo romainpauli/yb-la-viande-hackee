@@ -29,6 +29,7 @@
         @click="seatNumberReihe = ''"
         @keyup="gonextfield($event, seatNumberReihe, 2)"
         v-mask="['##', '#']"
+        type="number"
         class="bg-secondary-dd text-lg py-3 text-center w-12 mr-2"
         placeholder="11"
       />
@@ -36,6 +37,7 @@
         v-model="seatNumberPlatz"
         @click="seatNumberReihe = ''"
         v-mask="['###', '##', '#']"
+        type="number"
         class="bg-secondary-dd text-lg py-3 text-center w-16"
         placeholder="111"
       />
