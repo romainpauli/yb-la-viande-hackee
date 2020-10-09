@@ -5,7 +5,7 @@
     class="content-wrapper bg-secondary-ll text-textcolor"
   >
     <vinum-side-menu v-if="$store.state.seatNumber !== null" class="z-40" />
-    <yb-seat-number v-else class="z-40" />
+    <yb-seat-number v-else class="z-40 fixed h-sceen w-screen bg-secondary-ll" />
     <div
       class="h-screen flex overflow-hidden"
       :class="theme"
