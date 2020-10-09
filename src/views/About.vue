@@ -62,7 +62,7 @@ export default {
           type: "catering"
         },
         {
-          label: "Pizza",
+          label: "Pizz",
           time: 11,
           type: "catering"
         },
