@@ -4,7 +4,7 @@
     :class="theme"
     class="content-wrapper bg-secondary-ll text-textcolor"
   >
-    <vinum-side-menu class="z-50" />
+    <vinum-side-menu v-if="false" class="z-40" />
     <div
       class="h-screen flex overflow-hidden"
       :class="theme"

@@ -1,6 +1,6 @@
 <template>
   <button
-    class="transition duration-200 uppercase bg-secondary hover:bg-primary text-primary hover:text-secondary py-2 px-4 border border-primary focus:outline-none transition duration-200 ease-in-out"
+    class="transition duration-200 uppercase bg-primary hover:bg-primary text-textcolor-ad hover:text-secondary py-2 px-4 border-b-4 border-primary-d focus:outline-none transition duration-200 ease-in-out"
   >
     <span v-if="!loading"><slot /></span>
     <div v-else class="lds-ring">

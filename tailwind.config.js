@@ -12,6 +12,7 @@ module.exports = {
         "secondary-t": "var(--vinum-secondary-t)",
         tanslucide: "var(--vinum-translucide)",
         textcolor: "var(--vinum-textcolor)",
+        "textcolor-ad": "var(--vinum-textcolor-ad)",
         "textcolor-al": "#FEF7E0",
         cardcolor: "var(--vinum-cardcolor)",
         accent: "var(--vinum-accent)",
