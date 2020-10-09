@@ -5,7 +5,7 @@
     </p>
     <p class="text-xl font-black italic my-4" >1. Go to gate number A9</p>
     <img src="/test.svg" class="object-contain object-left w-full h-48" />
-    <p class="text-xl font-black italic my-4" >2. Grab some food and drinks and go to block {{ $store.state.block }}</p>
+    <p class="text-xl font-black italic my-4" >2. Grab some food and drinks and go to the block {{ $store.state.block }}</p>
     <yb-sector-c />
     <p class="text-xl font-black italic my-4" >3. Take the seat {{ $store.state.seatNumber }} and support your team ! </p>
     <img src="/grey2.svg" class="object-contain object-left w-full h-48 " />
