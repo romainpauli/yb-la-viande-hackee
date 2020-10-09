@@ -36,7 +36,7 @@ export default {
   created() {
     this.$store.dispatch(
       "setTheme",
-      localStorage.getItem("theme") || "theme-light"
+      localStorage.getItem("theme") || "theme-dark"
     );
   },
   components: {
