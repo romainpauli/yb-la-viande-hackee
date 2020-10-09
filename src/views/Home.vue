@@ -1,8 +1,9 @@
 <template>
-  <div class="home">
-    <p v-for="i in items" :key="i" class="text-4xl" @click="toggleTheme">
-      Bienvenue!
+  <div class="home p-3">
+    <p class="text-4xl" @click="toggleTheme">
+      {{ welcome }}
     </p>
+    <vinum-btn @click.native="toggleTheme">Changer les couleurs</vinum-btn>
   </div>
 </template>
 
@@ -11,22 +12,7 @@ export default {
   name: "Home",
   data() {
     return {
-      items: [
-        "romain",
-        "florence",
-        "romain",
-        "florence",
-        "romain",
-        "florence",
-        "romain",
-        "florence",
-        "romain",
-        "florence"
-      ],
-      laliste: [],
-      files: [],
-      lastfile: null,
-      testmd: ""
+      welcome: "Bienvenue"
     };
   },
   methods: {
