@@ -4,28 +4,30 @@
     :class="theme"
     class="content-wrapper bg-secondary-ll text-textcolor"
   >
-    <vinum-side-menu v-if="$store.state.seatNumber !== null" class="z-40" />
-    <yb-seat-number v-else class="z-40 fixed h-sceen w-screen bg-secondary-ll" />
-    <div
-      class="h-screen flex overflow-hidden"
-      :class="theme"
-      @keydown.escape="sidebarOpen = !sidebarOpen"
-    >
-      <div class="flex flex-col w-0 flex-1 overflow-hidden">
-        <main
-          class="flex-1 relative z-0 overflow-y-auto focus:outline-none"
-          tabindex="0"
-        >
-          <!-- Replace with your content -->
-          <div :class="$route.name !== 'Signin' ? 'p-0' : ''">
-            <Transition name="fade" mode="out-in">
-              <router-view />
-            </Transition>
-          </div>
-          <!-- /End replace -->
-        </main>
+    <yb-seat-number v-if="$store.state.seatNumber === null" class="z-40 fixed h-sceen w-screen bg-secondary-ll" /> 
+    <template v-else>
+      <vinum-side-menu v-if="$store.state.seatNumber !== null" class="z-40" />
+      <div
+        class="h-screen flex overflow-hidden"
+        :class="theme"
+        @keydown.escape="sidebarOpen = !sidebarOpen"
+      >
+        <div class="flex flex-col w-0 flex-1 overflow-hidden">
+          <main
+            class="flex-1 relative z-0 overflow-y-auto focus:outline-none"
+            tabindex="0"
+          >
+            <!-- Replace with your content -->
+            <div :class="$route.name !== 'Signin' ? 'p-0' : ''">
+              <Transition name="fade" mode="out-in">
+                <router-view />
+              </Transition>
+            </div>
+            <!-- /End replace -->
+          </main>
+        </div>
       </div>
-    </div>
+    </template>
   </div>
 </template>
 
