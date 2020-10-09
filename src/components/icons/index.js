@@ -12,6 +12,9 @@ import IconBook from "./IconBook.vue";
 import IconOpenBook from "./IconOpenBook.vue";
 import IconLayout from "./IconLayout.vue";
 import IconDelete from "./IconDelete.vue";
+import IconMap from "./IconMap.vue";
+import IconList from "./IconList.vue";
+
 
 export default [
   IconAddCustomer,
@@ -26,5 +29,7 @@ export default [
   IconBook,
   IconOpenBook,
   IconLayout,
-  IconDelete
+  IconDelete,
+  IconMap,
+  IconList
 ];

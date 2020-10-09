@@ -28,9 +28,9 @@
             <icon-base
               width="24"
               height="24"
-              icon-name="home"
+              icon-name="list"
               maincolor="transparent"
-              ><icon-book
+              ><icon-list
             /></icon-base></li
         ></router-link>
         <router-link
@@ -43,9 +43,9 @@
             <icon-base
               width="24"
               height="24"
-              icon-name="home"
+              icon-name="map"
               maincolor="transparent"
-              ><icon-layout
+              ><icon-map
             /></icon-base>
           </li>
         </router-link>

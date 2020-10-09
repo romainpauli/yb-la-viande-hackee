@@ -6,7 +6,7 @@
   >
     <yb-seat-number v-if="$store.state.seatNumber === null" class="z-40 fixed h-sceen w-screen bg-secondary-ll" /> 
     <template v-else>
-      <vinum-side-menu v-if="$store.state.seatNumber !== null" class="z-40" />
+      <yb-bottom-menu v-if="$store.state.seatNumber !== null" class="z-40" />
       <div
         class="h-screen flex overflow-hidden"
         :class="theme"
@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import VinumSideMenu from "@/components/VinumSideMenu.vue";
+import YbBottomMenu from "@/components/YbBottomMenu.vue";
 import YbSeatNumber from "@/components/YbSeatNumber.vue";
 import { mapState } from "vuex";
 
@@ -44,7 +44,7 @@ export default {
     );
   },
   components: {
-    VinumSideMenu,
+    YbBottomMenu,
     YbSeatNumber
   },
   name: "App",
