@@ -5,7 +5,7 @@
     </p>
     <p class="text-xl font-black italic my-4">1. {{ $t("gotogate") }} XX</p>
     <img
-      src="http://svg-seat-maps.s3-website-eu-west-1.amazonaws.com/tickets.jpg"
+      src="https://d2b5gjn60kv9v9.cloudfront.net/tickets.jpg"
       class="object-contain object-left w-full h-48"
     />
     <p class="text-xl font-black italic my-4">
@@ -19,7 +19,7 @@
     <img
       v-if="$store.state.imagerdy"
       :src="
-        'http://svg-seat-maps.s3-website-eu-west-1.amazonaws.com/' +
+        'https://d2b5gjn60kv9v9.cloudfront.net/' +
           $store.state.seatNumberForApi +
           '.svg'
       "
