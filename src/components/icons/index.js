@@ -3,12 +3,12 @@ import IconAddCustomer from "./IconAddCustomer.vue";
 import IconPile from "./IconPile.vue";
 import IconLogOut from "./IconLogOut.vue";
 import IconHome from "./IconHome.vue";
-import IconCopy from "./IconCopy.vue";
+import IconIncrease from "./IconIncrease.vue";
 import IconMoon from "./IconMoon.vue";
 import IconSun from "./IconSun.vue";
-import IconAward from "./IconAward.vue";
+import IconDecrease from "./IconDecrease.vue";
 import IconActivite from "./IconActivite.vue";
-import IconBook from "./IconBook.vue";
+import IconStable from "./IconStable.vue";
 import IconOpenBook from "./IconOpenBook.vue";
 import IconLayout from "./IconLayout.vue";
 import IconDelete from "./IconDelete.vue";
@@ -21,12 +21,12 @@ export default [
   IconPile,
   IconLogOut,
   IconHome,
-  IconCopy,
+  IconIncrease,
   IconSun,
   IconMoon,
-  IconAward,
+  IconStable,
   IconActivite,
-  IconBook,
+  IconDecrease,
   IconOpenBook,
   IconLayout,
   IconDelete,
