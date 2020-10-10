@@ -1,5 +1,5 @@
 export default {
-    welcome: "Willkommen",
+    welcome: "Welcome",
     enterseatnumber: "Geben Sie Ihre Sitznummer ein",
     block: "Block",
     reihe: "Reihe",
