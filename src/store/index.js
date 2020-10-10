@@ -1,14 +1,17 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import ApiService from "@/services/ApiService.js"
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
     seatNumber: null,
+    seatNumberForApi: null,
     sector: null,
     block: null,
-    theme: "theme-dark"
+    theme: "theme-dark",
+    imagerdy: false
   },
   mutations: {
     setSeatNumber(state, seatNumber) {
@@ -17,9 +20,13 @@ export default new Vuex.Store({
         localStorage.removeItem("seatNumber");
       } else {
         state.seatNumber = seatNumber;
+        state.seatNumberForApi = seatNumber.replace(".", "-").replace("R", "");
         state.block = seatNumber.split(".")[0];
         state.sector = seatNumber[0];
         localStorage.setItem("seatNumber", seatNumber);
+        ApiService.seatMap(seatNumber.replace(".", "-").replace("R", "")).then(()=>{
+          state.imagerdy = true
+        })
       }
     },
     setTheme(state, theme) {

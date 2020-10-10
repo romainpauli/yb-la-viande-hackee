@@ -12,6 +12,15 @@ const apiClient = axios.create({
 export default {
   hello(qui) {
     return apiClient.get("hello/" + qui);
+  },
+  validateSeat(seatnr) {
+    return apiClient.get("validateseat/" + seatnr);
+  },
+  seatMap(seatnr) {
+    return apiClient.get("seatmap/" + seatnr);
+  },
+  getWaitingTime(time) {
+    return apiClient.get("waitingtime/" + time);
   }
   // createCatergoriePage(AUTH_TOKEN, data) {
   //   apiClient.defaults.headers.common.Authorization = AUTH_TOKEN;

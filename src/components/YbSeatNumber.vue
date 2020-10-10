@@ -51,6 +51,7 @@
 
 <script>
 import { mask } from "vue-the-mask";
+import ApiService from "@/services/ApiService.js"
 
 export default {
   directives: { mask },
@@ -73,19 +74,23 @@ export default {
       if (this.seatNumberBlock[1] === '0') {
           this.seatNumberBlock = this.seatNumberBlock[0] + this.seatNumberBlock[2]
       }
-      this.$store
-        .dispatch(
-          "setSeatNumber",
-          this.seatNumberBlock +
-            ".R" +
-            this.seatNumberReihe +
-            "-" +
-            this.seatNumberPlatz
-        )
-        .then(() => {
-          this.$router.push("/");
-        });
-      this.loading = false;
+      ApiService.validateSeat(this.seatNumberBlock + "-" + this.seatNumberReihe + "-" + this.seatNumberPlatz).then((res) => {
+          if (JSON.parse(res.data.body).result) {
+                this.$store.dispatch(
+                "setSeatNumber",
+                this.seatNumberBlock +
+                    ".R" +
+                    this.seatNumberReihe +
+                    "-" +
+                    this.seatNumberPlatz
+                )
+          } else {
+              alert('unknown seat')
+          } 
+      }).finally(()=>{
+          this.loading = false
+      })
+      
     },
     gonextfield(e, val, lmax) {
       if (val.length > lmax - 1) {

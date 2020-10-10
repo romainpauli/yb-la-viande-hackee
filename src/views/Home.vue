@@ -16,7 +16,8 @@
       3. {{ $t("takeaseat") }} {{ $store.state.seatNumber }} {{ $t("supportteam") }}
     </p>
     <img
-      src="http://svg-seat-maps.s3-website-eu-west-1.amazonaws.com/test2.svg"
+      v-if="$store.state.imagerdy"
+      :src="'http://svg-seat-maps.s3-website-eu-west-1.amazonaws.com/' + $store.state.seatNumberForApi + '.svg'"
       class="object-contain object-left w-full h-48 "
     />
   </div>
