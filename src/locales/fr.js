@@ -22,5 +22,6 @@ export default {
   homme1: "Messieurs C5",
   homme2: "Messieurs C16",
   femme1: "Dames C3",
-  femme2: "Dames C14"
+  femme2: "Dames C14",
+  handicaphelp: "Rejoins la porte accès facile qui de trouve du coté de la Papiermühlestrasse" 
 };

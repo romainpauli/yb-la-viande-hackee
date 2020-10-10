@@ -15,7 +15,9 @@ export default new Vuex.Store({
     qtimes: null,
     gametitle: null,
     gameinprogress: null,
-    lastupdate: null
+    lastupdate: null,
+    handicap: false,
+    bestdoor: 1
   },
   mutations: {
     setSeatNumber(state, seatNumber) {
@@ -27,6 +29,15 @@ export default new Vuex.Store({
         state.seatNumberForApi = seatNumber.replace(".", "-").replace("R", "");
         state.block = seatNumber.split(".")[0];
         state.sector = seatNumber[0];
+        if (seatNumber[0] === "C") {
+          state.bestdoor = seatNumber.split('-')[1] < 424 ? 4 : 1;
+        } else if (seatNumber[0] === "A") {
+          state.bestdoor = seatNumber.split('-')[1] < 439 ? 2 : 3;
+        } else if (seatNumber[0] === "B") {
+          state.bestdoor = seatNumber.split('-')[1] < 421 ? 3 : 4;
+        } else if (seatNumber[0] === "D") {
+          state.bestdoor = seatNumber.split('-')[1] < 421 ? 2 : 1;
+        }
         localStorage.setItem("seatNumber", seatNumber);
         ApiService.seatMap(seatNumber.replace(".", "-").replace("R", "")).then(
           () => {
@@ -44,6 +55,9 @@ export default new Vuex.Store({
       state.gametitle = times.GameTitle;
       state.qtimes = times.time;
       state.lastupdate = d;
+    },
+    toggleHandi(state) {
+      state.handicap = !state.handicap;
     }
   },
   actions: {
@@ -76,6 +90,9 @@ export default new Vuex.Store({
     },
     setTheme({ commit }, theme) {
       commit("setTheme", theme);
+    },
+    toggleHandi({ commit }) {
+      commit("toggleHandi");
     }
   }
 });

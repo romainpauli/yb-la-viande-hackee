@@ -3,7 +3,8 @@
     <p class="text-4xl text-center font-black italic text-primary">
       {{ $t("titrehome") }}
     </p>
-    <p class="text-xl font-black italic my-4">1. {{ $t("gotogate") }} XX</p>
+    <p v-if="$store.state.handicap" class="text-xl font-black italic my-4" >{{ $t("handicaphelp") }}</p>
+    <p v-else class="text-xl font-black italic my-4">1. {{ $t("gotogate") }} {{ $store.state.bestdoor }}</p>
     <yb-map-outside class="-my-36" />
     <p class="text-xl font-black italic mb-4">
       2. {{ $t("grabsomefood") }} {{ $store.state.block }}

@@ -83,11 +83,12 @@
       </text>
     </g>
     <g id="portes">
-      <circle id="porte3_1_" class="ost5" cx="334.5" cy="799.5" r="81.5" />
-      <circle id="porte2_1_" class="ost5" cx="329.5" cy="1497.5" r="81.5" />
-      <circle id="porte1_1_" class="ost5" cx="843.5" cy="1497.5" r="81.5" />
-      <circle id="porte4_1_" class="ost5" cx="837.5" cy="804.5" r="81.5" />
+      <circle v-if="($store.state.sector === 'A' || $store.state.sector === 'A') && !$store.state.handicap" id="porte3_1_" class="ost5" cx="334.5" cy="799.5" r="81.5" />
+      <circle v-if="($store.state.sector === 'A' || $store.state.sector === 'D') && !$store.state.handicap" id="porte2_1_" class="ost5" cx="329.5" cy="1497.5" r="81.5" />
+      <circle v-if="($store.state.sector === 'C' || $store.state.sector === 'D') && !$store.state.handicap" id="porte1_1_" class="ost5" cx="843.5" cy="1497.5" r="81.5" />
+      <circle v-if="($store.state.sector === 'B' || $store.state.sector === 'C') && !$store.state.handicap" id="porte4_1_" class="ost5" cx="837.5" cy="804.5" r="81.5" />
       <text
+      v-if="($store.state.sector === 'B' || $store.state.sector === 'C') && !$store.state.handicap"
         id="porte4text_1_"
         transform="matrix(1 0 0 1 817.4268 825.333)"
         class="ost2 ost6 ost7"
@@ -95,6 +96,7 @@
         4
       </text>
       <text
+        v-if="($store.state.sector === 'C' || $store.state.sector === 'D') && !$store.state.handicap"
         id="porte1text_1_"
         transform="matrix(1 0 0 1 820.7993 1518.3755)"
         class="ost2 ost6 ost7"
@@ -102,6 +104,7 @@
         1
       </text>
       <text
+        v-if="($store.state.sector === 'A' || $store.state.sector === 'A') && !$store.state.handicap"
         id="porte3text_1_"
         transform="matrix(1 0 0 1 310.0314 824.4037)"
         class="ost2 ost6 ost7"
@@ -109,6 +112,7 @@
         3
       </text>
       <text
+        v-if="($store.state.sector === 'A' || $store.state.sector === 'D') && !$store.state.handicap"
         id="porte2text_1_"
         transform="matrix(1 0 0 1 310.0316 1528.4037)"
         class="ost2 ost6 ost7"
@@ -177,6 +181,7 @@
         Quartierplatz
       </text>
       <path
+       v-if="$store.state.handicap"
         id="backgroundHandi"
         class="ost5"
         d="M790.7,1584h20.6c5.3,0,9.7,4.3,9.7,9.7v52.6c0,5.3-4.3,9.7-9.7,9.7h-20.6

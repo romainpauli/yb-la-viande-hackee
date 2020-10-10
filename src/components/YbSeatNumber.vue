@@ -25,7 +25,7 @@
         @keyup="gonextfield($event, seatNumberBlock, 3)"
         v-mask="['A##', 'A#']"
         class="bg-secondary-dd text-lg py-3 text-center w-12 mr-2"
-        placeholder="C11"
+        placeholder="C7"
       />
       <input
         v-model="seatNumberReihe"
@@ -34,7 +34,7 @@
         v-mask="['##', '#']"
         type="number"
         class="bg-secondary-dd text-lg py-3 text-center w-12 mr-2"
-        placeholder="11"
+        placeholder="8"
       />
       <input
         v-model="seatNumberPlatz"
@@ -42,10 +42,28 @@
         v-mask="['###', '##', '#']"
         type="number"
         class="bg-secondary-dd text-lg py-3 text-center w-16"
-        placeholder="111"
+        placeholder="321"
       />
     </div>
-    <vinum-btn @click.native="setSeatNumber" :loading="loading" class="mt-12">{{
+    <div class="mt-4 flex justify-center items-center">
+      <span
+        @click="toggleHandi"
+        role="checkbox"
+        tabindex="0"
+        aria-checked="false"
+        :class="$store.state.handicap ? 'bg-primary' : 'bg-gray-200'"
+        class="relative inline-flex flex-shrink-0 h-6 w-11 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-200 focus:outline-none focus:shadow-outline"
+      >
+        <!-- On: "translate-x-5", Off: "translate-x-0" -->
+        <span
+          aria-hidden="true"
+          :class="$store.state.handicap ? 'translate-x-5 ' : 'translate-x-0'"
+          class="inline-block h-5 w-5 rounded-full bg-white shadow transform transition ease-in-out duration-200"
+        ></span>
+      </span>
+      <img src="/handicap.svg" class="ml-3" height="36" width="36" />
+    </div>
+    <vinum-btn @click.native="setSeatNumber" :loading="loading" class="mt-6">{{
       $t("next")
     }}</vinum-btn>
   </div>
@@ -101,6 +119,9 @@ export default {
         .finally(() => {
           this.loading = false;
         });
+    },
+    toggleHandi() {
+      this.$store.dispatch("toggleHandi");
     },
     gonextfield(e, val, lmax) {
       if (val.length > lmax - 1) {
