@@ -19,6 +19,7 @@ import { mapState } from "vuex";
 
 export default {
   created() {
+    this.$i18n.locale = navigator.language.substring(0,2)
     this.$store.dispatch("setSeatNumber", localStorage.getItem("seatNumber"));
     this.$store.dispatch(
       "setTheme",

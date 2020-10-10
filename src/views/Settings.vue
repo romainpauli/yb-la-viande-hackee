@@ -17,7 +17,23 @@
       @click.native="$store.dispatch('setSeatNumber', null)"
       >Réinitialiser mon siège</vinum-btn
     >
-    <p>{{ qui }}</p>
+    <h3>Changer de langue</h3>
+        <vinum-btn v-if="$i18n.locale!='de'"
+      class="w-full my-2"
+      @click.native="$i18n.locale='de'"
+      >Deutsch</vinum-btn
+    >
+            <vinum-btn v-if="$i18n.locale!='fr'"
+      class="w-full my-2"
+      @click.native="$i18n.locale='fr'"
+      >Francais</vinum-btn
+    >
+            <vinum-btn v-if="$i18n.locale!='en'"
+      class="w-full my-2"
+      @click.native="$i18n.locale='en'"
+      >Englisch</vinum-btn
+    >
+    <h3>Changer de langue</h3>
     <vinum-btn @click.native="toggleTheme">Changer les couleurs</vinum-btn>
   </div>
 </template>

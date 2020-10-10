@@ -1,0 +1,18 @@
+export default {
+    "welcome": "Welcome",
+    "enterseatnumber": "Enter your seat number",
+    "block": "Block",
+    "reihe": "Row",
+    "platz": "Seat",
+    "next": "Next",
+    "titrehome": "Hello",
+    "gotogate": "Go to gate number A9",
+    "grabsomefood": "Grab some food and drinks and go to the block C11",
+    "takeaseat": "Take the seat",
+    "supportyourteam": "and support your team!",
+    "waitingtimes": "Waiting times",
+    "sector": "sector",
+    "catering": "catering",
+    "toilets": "toilets",
+    "reinitseat": "Reset seat number",
+}

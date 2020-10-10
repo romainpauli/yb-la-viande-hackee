@@ -3,23 +3,23 @@
     class="h-screen flex flex-col align-center justify-center px-5 text-center pb-16"
   >
     <img src="/logo.png" class="object-contain object-center w-full h-24" />
-    <h1 class="font-black text-3xl mb-4 text-primary">Welcome</h1>
-    <h1 class="italic text-medium text-base mb-3">Enter your seat number</h1>
+    <h1 class="font-black text-3xl mb-4 text-primary">{{$t('welcome')}}</h1>
+    <h1 class="italic text-medium text-base mb-3">{{$t('enterseatnumber')}}</h1>
     <div class="flex flex-row mx-auto">
       <label class="text-xs pt-3 text-center w-12 mr-2 italic font-black">
-        Block
+        {{$t('block')}}
       </label>
       <label class="text-xs pt-3 text-center w-12 mr-2 italic font-black">
-        Reihe
+        {{$t('reihe')}}
       </label>
       <label class="text-xs pt-3 text-center w-16 italic font-black">
-        Platz
+        {{$t('platz')}}
       </label>
     </div>
     <div class="flex flex-row mx-auto">
       <input
         v-model="seatNumberBlock"
-        @click="seatNumberReihe = ''"
+        @click="seatNumberBlock = ''"
         @keyup="gonextfield($event, seatNumberBlock, 3)"
         v-mask="['A##', 'A#']"
         class="bg-secondary-dd text-lg py-3 text-center w-12 mr-2"
@@ -36,7 +36,7 @@
       />
       <input
         v-model="seatNumberPlatz"
-        @click="seatNumberReihe = ''"
+        @click="seatNumberPlatz = ''"
         v-mask="['###', '##', '#']"
         type="number"
         class="bg-secondary-dd text-lg py-3 text-center w-16"
@@ -44,7 +44,7 @@
       />
     </div>
     <vinum-btn @click.native="setSeatNumber" :loading="loading" class="mt-12"
-      >next</vinum-btn
+      >{{$t('next')}}</vinum-btn
     >
   </div>
 </template>

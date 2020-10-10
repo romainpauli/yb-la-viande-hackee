@@ -1,13 +1,13 @@
 <template>
   <div class="about px-3">
     <h1 class="text-3xl pt-3 text-center font-black italic text-primary">
-      Waiting times
+      {{ $t('waitingtimes') }}
     </h1>
     <h2 class="text-xl pb-3 text-center font-black italic text-secondary-dd">
-      sector C
+      {{ $t('sector') }} C
     </h2>
     <h3 class="text-sm italic font-semibold ">
-      Catering
+      {{ $t('catering') }}
     </h3>
     <div class="w-full py-2" v-for="elem in cateringSorted" :key="elem.label">
       <div
@@ -25,7 +25,7 @@
       </div>
     </div>
     <h3 class="text-sm italic font-semibold ">
-      Toilets
+      {{ $t('toilets') }}
     </h3>
     <div class="w-full py-2" v-for="elem in toiletSorted" :key="elem.label">
       <div

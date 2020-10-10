@@ -1,0 +1,17 @@
+export default {
+    "welcome": "Welcome",
+    "enterseatnumber": "Welcome",
+    "block": "Welcome",
+    "reihe": "Welcome",
+    "platz": "Welcome",
+    "next": "Welcome",
+    "titrehome": "Welcome",
+    "gotogate": "Welcome",
+    "grabsomefood": "Welcome",
+    "takeaseat": "Welcome",
+    "waitingtimes": "Welcome",
+    "sector": "Welcome",
+    "catering": "Welcome",
+    "toilets": "Welcome",
+    "reinitseat": "Welcome",
+}
