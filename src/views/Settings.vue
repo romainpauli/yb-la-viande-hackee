@@ -1,12 +1,15 @@
 <template>
   <div class="about p-3">
-    <h3 class="my-2">Mon siège n'est pas le bon</h3>
+    <p class="text-4xl text-center font-black italic text-primary mb-6">
+      {{ $t("settings") }}
+    </p>
+    <h3 class="my-2">{{$t('noseat')}}</h3>
     <vinum-btn
       class="w-full my-2"
       @click.native="$store.dispatch('setSeatNumber', null)"
-      >Réinitialiser mon siège</vinum-btn
+      >{{$t('resetseat')}}</vinum-btn
     >
-    <h3 class="my-2" >Changer de langue</h3>
+    <h3 class="my-2" >{{$t('changelangue')}}</h3>
     <vinum-btn
       v-if="$i18n.locale != 'de'"
       class="w-full my-2"
@@ -31,8 +34,6 @@
       @click.native="$i18n.locale = 'it'"
       >Italiano</vinum-btn
     >
-    <h3 class="my-2" >Changer de langue</h3>
-    <vinum-btn @click.native="toggleTheme">Changer les couleurs</vinum-btn>
   </div>
 </template>
 

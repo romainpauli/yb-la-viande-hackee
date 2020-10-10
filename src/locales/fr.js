@@ -1,8 +1,8 @@
 export default {
-  Welcome: "Bienvenue",
+  welcome: "Bienvenue",
   enterseatnumber: "Entrez votre numéro de siège",
   block: "Bloc",
-  reihe: "Rangé",
+  reihe: "Rangée",
   platz: "Siège",
   next: "Suivant",
   titrehome: "Place au show!",
@@ -11,8 +11,7 @@ export default {
   takeaseat: "Rejoins la place affichée en jaune et supporte ton équpie!",
   supportteam: " et supporte ton équipe!",
   waitingtimes: "Temps d'attente ",
-  catering: "Catering ",
-  toilets: "WC",
+  toilets: "Toilettes",
   reinitseat: "Pour rejoindre ton siège rend à la section",
   frites1: "Frites C1",
   frites2: "Frites C10",
@@ -24,8 +23,14 @@ export default {
   femme1: "Dames C3",
   femme2: "Dames C14",
   gotogate: "Rejoins la porte ",
-  handicaphelp: "Rejoins la porte accès facile qui de trouve du coté de la Papiermühlestrasse",
+  handicaphelp: "Rejoins la porte accès facile qui se trouve du coté de la Papiermühlestrasse",
   oulaporte: "pour trouver ton siège au plus vite.",
   accesplace: "La porte ",
-  accesplace2: "te permet aussi d'y accèder."
+  accesplace2: "te permet aussi d'y accèder.",
+  sector: "Secteur",
+  catering: "Restauration",
+  settings: "Réglages",
+  resetseat: "réinitialiser mon siège",
+  noseat: "Mon siège n'est pas le bon",
+  changelangue: "Changer de langue"
 };

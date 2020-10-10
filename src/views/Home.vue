@@ -3,9 +3,9 @@
     <p class="text-4xl text-center font-black italic text-primary">
       {{ $t("titrehome") }}
     </p>
-    <p v-if="$store.state.handicap" class="text-xl font-black italic my-4" >{{ $t("handicaphelp") }}</p>
+    <p v-if="$store.state.handicap" class="text-xl font-black italic my-1" >{{ $t("handicaphelp") }}</p>
     <p v-else class="text-xl font-black italic mt-4 mb-1">{{ $t("gotogate") }} {{ $store.state.bestdoor[0] }} {{ $t('oulaporte')}} </p>
-    <p class="italic text-sm mb-2"> {{$t('accesplace')}} {{ $store.state.bestdoor[1] }} {{$t('accesplace2')}}</p>
+    <p v-if="! $store.state.handicap" class="italic text-sm mb-2"> {{$t('accesplace')}} {{ $store.state.bestdoor[1] }} {{$t('accesplace2')}}</p>
     <yb-map-outside class="-my-36" />
     <p class="text-xl font-black italic mb-1">
       {{ $t("grabsomefood") }} {{ $store.state.block }}
