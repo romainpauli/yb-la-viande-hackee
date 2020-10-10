@@ -13,7 +13,9 @@ export default new Vuex.Store({
     theme: "theme-dark",
     imagerdy: false,
     qtimes: null,
-    gametitle: null
+    gametitle: null,
+    gameinprogress: null,
+    lastupdate: null
   },
   mutations: {
     setSeatNumber(state, seatNumber) {
@@ -37,9 +39,11 @@ export default new Vuex.Store({
       state.theme = theme;
       localStorage.setItem("theme", theme);
     },
-    setQTimes(state, times) {
+    setQTimes(state, times, d) {
+      state.gameinprogress = times.response;
       state.gametitle = times.GameTitle;
       state.qtimes = times.time;
+      state.lastupdate = d
     }
   },
   actions: {
@@ -53,8 +57,10 @@ export default new Vuex.Store({
       );
     },
     fetchWaitingTimes({ commit }) {
-      ApiService.getWaitingTime("2020-10-10T15:15").then(res => {
-        commit("setQTimes", JSON.parse(res.data.body));
+      const d = new Date()
+      const datestring = d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()+'T'+ (d.getHours() < 10 ? '0' : '') +d.getHours()+':' + (d.getMinutes() < 10 ? '0' : '') +d.getMinutes()
+      ApiService.getWaitingTime(datestring).then(res => {
+        commit("setQTimes", JSON.parse(res.data.body), d);
       });
     },
     setTheme({ commit }, theme) {
