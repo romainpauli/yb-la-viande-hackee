@@ -4,7 +4,7 @@
     :class="theme"
     class="content-wrapper bg-secondary-ll text-textcolor"
   >
-    <div class="z-50 fixed h-full w-full bg-primary text-textcolor-ad text-4xl font-black italic text-center pt-48" v-if="$store.state.gameinprogress !== 'good'">{{ $store.state.gameinprogress }}</div>
+    <div class="z-50 fixed h-full w-full bg-primary text-textcolor-ad text-4xl font-black italic text-center pt-48" v-if="$store.state.gameinprogress !== 'good' && $store.state.gameinprogress !== null">{{ $store.state.gameinprogress }}</div>
     <yb-seat-number
       v-if="$store.state.seatNumber === null"
       class="z-40 fixed h-sceen w-screen bg-secondary-ll"
