@@ -22,8 +22,4 @@ export default {
   getWaitingTime(time) {
     return apiClient.get("waitingtime/" + time);
   }
-  // createCatergoriePage(AUTH_TOKEN, data) {
-  //   apiClient.defaults.headers.common.Authorization = AUTH_TOKEN;
-  //   return apiClient.post("categorie", data);
-  // }
 };

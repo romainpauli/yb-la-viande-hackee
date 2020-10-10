@@ -3,17 +3,19 @@
     class="h-screen flex flex-col align-center justify-center px-5 text-center pb-16"
   >
     <img src="/logo.png" class="object-contain object-center w-full h-24" />
-    <h1 class="font-black text-3xl mb-4 text-primary">{{$t('welcome')}}</h1>
-    <h1 class="italic text-medium text-base mb-3">{{$t('enterseatnumber')}}</h1>
+    <h1 class="font-black text-3xl mb-4 text-primary">{{ $t("welcome") }}</h1>
+    <h1 class="italic text-medium text-base mb-3">
+      {{ $t("enterseatnumber") }}
+    </h1>
     <div class="flex flex-row mx-auto">
       <label class="text-xs pt-3 pb-1 text-center w-12 mr-2 italic font-black">
-        {{$t('block')}}
+        {{ $t("block") }}
       </label>
       <label class="text-xs pt-3 pb-1 text-center w-12 mr-2 italic font-black">
-        {{$t('reihe')}}
+        {{ $t("reihe") }}
       </label>
       <label class="text-xs pt-3 pb-1 text-center w-16 italic font-black">
-        {{$t('platz')}}
+        {{ $t("platz") }}
       </label>
     </div>
     <div class="flex flex-row mx-auto">
@@ -43,15 +45,15 @@
         placeholder="111"
       />
     </div>
-    <vinum-btn @click.native="setSeatNumber" :loading="loading" class="mt-12"
-      >{{$t('next')}}</vinum-btn
-    >
+    <vinum-btn @click.native="setSeatNumber" :loading="loading" class="mt-12">{{
+      $t("next")
+    }}</vinum-btn>
   </div>
 </template>
 
 <script>
 import { mask } from "vue-the-mask";
-import ApiService from "@/services/ApiService.js"
+import ApiService from "@/services/ApiService.js";
 
 export default {
   directives: { mask },
@@ -71,26 +73,34 @@ export default {
   methods: {
     setSeatNumber() {
       this.loading = true;
-      if (this.seatNumberBlock[1] === '0') {
-          this.seatNumberBlock = this.seatNumberBlock[0] + this.seatNumberBlock[2]
+      if (this.seatNumberBlock[1] === "0") {
+        this.seatNumberBlock =
+          this.seatNumberBlock[0] + this.seatNumberBlock[2];
       }
-      ApiService.validateSeat(this.seatNumberBlock + "-" + this.seatNumberReihe + "-" + this.seatNumberPlatz).then((res) => {
+      ApiService.validateSeat(
+        this.seatNumberBlock +
+          "-" +
+          this.seatNumberReihe +
+          "-" +
+          this.seatNumberPlatz
+      )
+        .then(res => {
           if (JSON.parse(res.data.body).result) {
-                this.$store.dispatch(
-                "setSeatNumber",
-                this.seatNumberBlock +
-                    ".R" +
-                    this.seatNumberReihe +
-                    "-" +
-                    this.seatNumberPlatz
-                )
+            this.$store.dispatch(
+              "setSeatNumber",
+              this.seatNumberBlock +
+                ".R" +
+                this.seatNumberReihe +
+                "-" +
+                this.seatNumberPlatz
+            );
           } else {
-              alert('unknown seat')
-          } 
-      }).finally(()=>{
-          this.loading = false
-      })
-      
+            alert("unknown seat");
+          }
+        })
+        .finally(() => {
+          this.loading = false;
+        });
     },
     gonextfield(e, val, lmax) {
       if (val.length > lmax - 1) {

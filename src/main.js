@@ -1,6 +1,6 @@
 import Vue from "vue";
 import App from "./App.vue";
-import VueI18n from 'vue-i18n'
+import VueI18n from "vue-i18n";
 import router from "./router";
 import store from "./store";
 import VueLazyload from "vue-lazyload";
@@ -19,19 +19,19 @@ icons.forEach(component => {
 
 import ui from "./components/ui";
 // import i18n from "./i18n";
-import en from './locales/en.js'
-import fr from './locales/fr.js'
-import de from './locales/de.js'
-import it from './locales/it.js'
+import en from "./locales/en.js";
+import fr from "./locales/fr.js";
+import de from "./locales/de.js";
+import it from "./locales/it.js";
 
-const messages = { en, fr, de, it }
+const messages = { en, fr, de, it };
 
 Vue.use(VueI18n);
 // Create VueI18n instance with options
 const i18n = new VueI18n({
-  locale: 'en', // set locale
-  messages, // set locale messages
-})
+  locale: "en", // set locale
+  messages // set locale messages
+});
 
 ui.forEach(component => {
   Vue.component(component.name, component);

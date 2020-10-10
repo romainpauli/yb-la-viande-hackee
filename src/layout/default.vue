@@ -29,8 +29,8 @@ export default {
   name: "App",
   computed: mapState(["theme"]),
   methods: {
-    toggleTheme() {
-      this.$store.dispatch("toggleTheme");
+    fetchData() {
+      this.$store.dispatch("fetchWaitingTimes");
     }
   },
   created() {
@@ -39,8 +39,8 @@ export default {
       "setTheme",
       localStorage.getItem("theme") || "theme-light"
     );
-    this.toggleTheme();
-    this.timer = setInterval(this.toggleTheme, 60000);
+    this.fetchData();
+    this.timer = setInterval(this.fetchData, 30000);
   },
   data() {
     return {

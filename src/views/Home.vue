@@ -13,11 +13,16 @@
     </p>
     <yb-sector-c />
     <p class="text-xl font-black italic my-4">
-      3. {{ $t("takeaseat") }} {{ $store.state.seatNumber }} {{ $t("supportteam") }}
+      3. {{ $t("takeaseat") }} {{ $store.state.seatNumber }}
+      {{ $t("supportteam") }}
     </p>
     <img
       v-if="$store.state.imagerdy"
-      :src="'http://svg-seat-maps.s3-website-eu-west-1.amazonaws.com/' + $store.state.seatNumberForApi + '.svg'"
+      :src="
+        'http://svg-seat-maps.s3-website-eu-west-1.amazonaws.com/' +
+          $store.state.seatNumberForApi +
+          '.svg'
+      "
       class="object-contain object-left w-full h-48 "
     />
   </div>

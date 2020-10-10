@@ -18,24 +18,28 @@
       >Réinitialiser mon siège</vinum-btn
     >
     <h3>Changer de langue</h3>
-        <vinum-btn v-if="$i18n.locale!='de'"
+    <vinum-btn
+      v-if="$i18n.locale != 'de'"
       class="w-full my-2"
-      @click.native="$i18n.locale='de'"
+      @click.native="$i18n.locale = 'de'"
       >Deutsch</vinum-btn
     >
-            <vinum-btn v-if="$i18n.locale!='fr'"
+    <vinum-btn
+      v-if="$i18n.locale != 'fr'"
       class="w-full my-2"
-      @click.native="$i18n.locale='fr'"
+      @click.native="$i18n.locale = 'fr'"
       >Francais</vinum-btn
     >
-            <vinum-btn v-if="$i18n.locale!='en'"
+    <vinum-btn
+      v-if="$i18n.locale != 'en'"
       class="w-full my-2"
-      @click.native="$i18n.locale='en'"
+      @click.native="$i18n.locale = 'en'"
       >Englisch</vinum-btn
     >
-                <vinum-btn v-if="$i18n.locale!='it'"
+    <vinum-btn
+      v-if="$i18n.locale != 'it'"
       class="w-full my-2"
-      @click.native="$i18n.locale='it'"
+      @click.native="$i18n.locale = 'it'"
       >Italiano</vinum-btn
     >
     <h3>Changer de langue</h3>
