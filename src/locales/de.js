@@ -5,7 +5,7 @@ export default {
     reihe: "Reihe",
     platz: "Platz",
     next: "Weiter",
-    titrehome: "Loos Giele!",
+    titrehome: "Los Giele!",
     grabsomefood: "Begeben Sie sich zu Ihrem Block, um zum Sitzplatz zu gelangen",
     grabsomefoo: "Gönnen Sie sich etwas zu essen und zu trinken.",
     takeaseat: "Begeben Sie sich zum gelb eingefärbten Rechteck und unterstütze dein Team!",
