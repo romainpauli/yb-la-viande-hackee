@@ -11,7 +11,9 @@
       {{ $t("grabsomefood") }} {{ $store.state.block }}
     </p>
     <p class="italic text-sm mb-4"> {{$t('grabsomefoo')}}</p>
+    <div class="p-4">
     <yb-sector-c />
+    </div>
     <p class="text-xl font-black italic my-1">
       {{ $t("takeaseat") }} 
     </p>
