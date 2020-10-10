@@ -73,7 +73,7 @@ import { mapState } from "vuex";
 export default {
   data() {
     return {
-      fixedMax: 15,
+      fixedMax: 14,
     };
   },
   methods: {
