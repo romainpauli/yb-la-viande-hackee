@@ -19,6 +19,17 @@
           :style="'width:' + (Math.round(elem.time) / fixedMax) * 100 + '%;'"
         ></div>
         <div class="relative z-30 flex justify-between items-center">
+          <icon-base
+              width="24"
+              height="24"
+              icon-name="map"
+              maincolor="transparent"
+              ><icon-stable v-if="plusmoins(elem.forecast)==='stable'"
+            />
+            <icon-decrease v-if="plusmoins(elem.forecast)==='decrease'"
+            />
+            <icon-increase v-if="plusmoins(elem.forecast)==='increase'"
+            /></icon-base>
           <div class="font-black italic">{{ $t(elem.title) }}</div>
           <div class="text-sm italic">{{ Math.round(elem.time) }} min</div>
         </div>
@@ -37,6 +48,17 @@
           :style="'width:' + (Math.round(elem.time) / fixedMax) * 100 + '%;'"
         ></div>
         <div class="relative z-30 flex justify-between items-center">
+                   <icon-base
+              width="24"
+              height="24"
+              icon-name="map"
+              maincolor="transparent"
+              ><icon-stable v-if="plusmoins(elem.forecast)==='stable'"
+            />
+            <icon-decrease v-if="plusmoins(elem.forecast)==='decrease'"
+            />
+            <icon-increase v-if="plusmoins(elem.forecast)==='increase'"
+            /></icon-base>
           <div class="font-black italic">{{ $t(elem.title) }}</div>
           <div class="text-sm italic">{{ Math.round(elem.time) }} min</div>
         </div>
@@ -52,44 +74,18 @@ export default {
   data() {
     return {
       fixedMax: 15,
-      waitingTimes: [
-        {
-          label: "Chips",
-          time: 7,
-          type: "catering"
-        },
-        {
-          label: "Grill",
-          time: 3,
-          type: "catering"
-        },
-        {
-          label: "Pizz",
-          time: 11,
-          type: "catering"
-        },
-        {
-          label: "Wurst",
-          time: 5,
-          type: "catering"
-        },
-        {
-          label: "Beer",
-          time: 1,
-          type: "catering"
-        },
-        {
-          label: "Messieurs",
-          time: 3,
-          type: "toilet"
-        },
-        {
-          label: "Dames",
-          time: 7,
-          type: "toilet"
-        }
-      ]
     };
+  },
+  methods: {
+    plusmoins(a) {
+      if (a === 0) {
+        return 'stable'
+      } else if (a > 0) {
+        return 'increase'
+      } else {
+        return 'decrease'
+      }
+    }
   },
   computed: {
     maxtime() {
