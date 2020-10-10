@@ -302,7 +302,10 @@
   letter-spacing: 2;
 }
 .ost13 {
-  fill: #f2f2f2;
+  fill: none;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
 }
 .ost14 {
   fill: none;

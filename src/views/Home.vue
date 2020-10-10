@@ -4,16 +4,21 @@
       {{ $t("titrehome") }}
     </p>
     <p v-if="$store.state.handicap" class="text-xl font-black italic my-4" >{{ $t("handicaphelp") }}</p>
-    <p v-else class="text-xl font-black italic my-4">1. {{ $t("gotogate") }} {{ $store.state.bestdoor }}</p>
+    <p v-else class="text-xl font-black italic mt-4 mb-1">{{ $t("gotogate") }} {{ $store.state.bestdoor[0] }} {{ $t('oulaporte')}} </p>
+    <p class="italic text-sm mb-2"> {{$t('accesplace')}} {{ $store.state.bestdoor[1] }} {{$t('accesplace2')}}</p>
     <yb-map-outside class="-my-36" />
-    <p class="text-xl font-black italic mb-4">
-      2. {{ $t("grabsomefood") }} {{ $store.state.block }}
+    <p class="text-xl font-black italic mb-1">
+      {{ $t("grabsomefood") }} {{ $store.state.block }}
     </p>
+    <p class="italic text-sm mb-4"> {{$t('grabsomefoo')}}</p>
     <yb-sector-c />
-    <p class="text-xl font-black italic my-4">
-      3. {{ $t("takeaseat") }} {{ $store.state.seatNumber }}
-      {{ $t("supportteam") }}
+    <p class="text-xl font-black italic my-1">
+      {{ $t("takeaseat") }} 
     </p>
+    <p class="italic text-sm mb-4">
+    {{ $t("reihe") }}: {{ $store.state.seatNumber.split('-')[0].split('.')[1].replace("R", "") }},
+     {{ $t("platz") }}: {{ $store.state.seatNumber.split('-')[1] }}
+     </p>
     <img
       v-if="$store.state.imagerdy"
       :src="

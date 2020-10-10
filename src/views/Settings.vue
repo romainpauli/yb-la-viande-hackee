@@ -1,23 +1,12 @@
 <template>
   <div class="about p-3">
-    <h1>Say hi to the API</h1>
-    <input
-      class="my-2 text-lg p-2 bg-secondary border-secondary w-full"
-      v-model="question"
-      @keydown.enter="helloApi(question)"
-    />
-    <vinum-btn
-      class="w-full"
-      :loading="isLoading"
-      @click.native="helloApi(question)"
-      >say hello</vinum-btn
-    >
+    <h3 class="my-2">Mon siège n'est pas le bon</h3>
     <vinum-btn
       class="w-full my-2"
       @click.native="$store.dispatch('setSeatNumber', null)"
       >Réinitialiser mon siège</vinum-btn
     >
-    <h3>Changer de langue</h3>
+    <h3 class="my-2" >Changer de langue</h3>
     <vinum-btn
       v-if="$i18n.locale != 'de'"
       class="w-full my-2"
@@ -42,7 +31,7 @@
       @click.native="$i18n.locale = 'it'"
       >Italiano</vinum-btn
     >
-    <h3>Changer de langue</h3>
+    <h3 class="my-2" >Changer de langue</h3>
     <vinum-btn @click.native="toggleTheme">Changer les couleurs</vinum-btn>
   </div>
 </template>

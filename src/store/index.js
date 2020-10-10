@@ -17,7 +17,7 @@ export default new Vuex.Store({
     gameinprogress: null,
     lastupdate: null,
     handicap: false,
-    bestdoor: 1
+    bestdoor: null
   },
   mutations: {
     setSeatNumber(state, seatNumber) {
@@ -30,13 +30,13 @@ export default new Vuex.Store({
         state.block = seatNumber.split(".")[0];
         state.sector = seatNumber[0];
         if (seatNumber[0] === "C") {
-          state.bestdoor = seatNumber.split('-')[1] < 424 ? 4 : 1;
+          state.bestdoor = seatNumber.split('-')[1] < 424 ? [4,1] : [1, 4];
         } else if (seatNumber[0] === "A") {
-          state.bestdoor = seatNumber.split('-')[1] < 439 ? 2 : 3;
+          state.bestdoor = seatNumber.split('-')[1] < 439 ? [2, 3] : [3, 2];
         } else if (seatNumber[0] === "B") {
-          state.bestdoor = seatNumber.split('-')[1] < 421 ? 3 : 4;
+          state.bestdoor = seatNumber.split('-')[1] < 421 ? [3, 4] : [4, 3];
         } else if (seatNumber[0] === "D") {
-          state.bestdoor = seatNumber.split('-')[1] < 421 ? 2 : 1;
+          state.bestdoor = seatNumber.split('-')[1] < 421 ? [2, 1] : [1, 2];
         }
         localStorage.setItem("seatNumber", seatNumber);
         ApiService.seatMap(seatNumber.replace(".", "-").replace("R", "")).then(
