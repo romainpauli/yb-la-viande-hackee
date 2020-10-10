@@ -1,7 +1,7 @@
 <template>
   <div class="about p-3">
     <h1 class="text-3xl text-center font-black italic text-primary">
-      Sector {{ $store.state.sector }}
+      {{ $t('sector')}} {{ $store.state.sector }}
     </h1>
     <yb-sector-c />
   </div>

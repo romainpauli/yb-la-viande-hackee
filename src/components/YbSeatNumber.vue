@@ -6,13 +6,13 @@
     <h1 class="font-black text-3xl mb-4 text-primary">{{$t('welcome')}}</h1>
     <h1 class="italic text-medium text-base mb-3">{{$t('enterseatnumber')}}</h1>
     <div class="flex flex-row mx-auto">
-      <label class="text-xs pt-3 text-center w-12 mr-2 italic font-black">
+      <label class="text-xs pt-3 pb-1 text-center w-12 mr-2 italic font-black">
         {{$t('block')}}
       </label>
-      <label class="text-xs pt-3 text-center w-12 mr-2 italic font-black">
+      <label class="text-xs pt-3 pb-1 text-center w-12 mr-2 italic font-black">
         {{$t('reihe')}}
       </label>
-      <label class="text-xs pt-3 text-center w-16 italic font-black">
+      <label class="text-xs pt-3 pb-1 text-center w-16 italic font-black">
         {{$t('platz')}}
       </label>
     </div>
@@ -70,6 +70,9 @@ export default {
   methods: {
     setSeatNumber() {
       this.loading = true;
+      if (this.seatNumberBlock[1] === '0') {
+          this.seatNumberBlock = this.seatNumberBlock[0] + this.seatNumberBlock[2]
+      }
       this.$store
         .dispatch(
           "setSeatNumber",
