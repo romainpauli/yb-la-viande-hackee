@@ -22,8 +22,9 @@ import ui from "./components/ui";
 import en from './locales/en.js'
 import fr from './locales/fr.js'
 import de from './locales/de.js'
+import it from './locales/it.js'
 
-const messages = { en, fr, de}
+const messages = { en, fr, de, it }
 
 Vue.use(VueI18n);
 // Create VueI18n instance with options

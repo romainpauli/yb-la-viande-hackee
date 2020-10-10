@@ -33,6 +33,11 @@
       @click.native="$i18n.locale='en'"
       >Englisch</vinum-btn
     >
+                <vinum-btn v-if="$i18n.locale!='it'"
+      class="w-full my-2"
+      @click.native="$i18n.locale='it'"
+      >Italiano</vinum-btn
+    >
     <h3>Changer de langue</h3>
     <vinum-btn @click.native="toggleTheme">Changer les couleurs</vinum-btn>
   </div>
