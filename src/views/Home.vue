@@ -4,11 +4,8 @@
       {{ $t("titrehome") }}
     </p>
     <p class="text-xl font-black italic my-4">1. {{ $t("gotogate") }} XX</p>
-    <img
-      src="https://d2b5gjn60kv9v9.cloudfront.net/tickets.jpg"
-      class="object-contain object-left w-full h-48"
-    />
-    <p class="text-xl font-black italic my-4">
+    <yb-map-outside class="-my-36" />
+    <p class="text-xl font-black italic mb-4">
       2. {{ $t("grabsomefood") }} {{ $store.state.block }}
     </p>
     <yb-sector-c />
@@ -30,6 +27,7 @@
 
 <script>
 import YbSectorC from "@/components/YbSectorC.vue";
+import YbMapOutside from "@/components/YbMapOutside.vue";
 
 export default {
   name: "Home",
@@ -39,7 +37,8 @@ export default {
     };
   },
   components: {
-    YbSectorC
+    YbSectorC,
+    YbMapOutside
   }
 };
 </script>

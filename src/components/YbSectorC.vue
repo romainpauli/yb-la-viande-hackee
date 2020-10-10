@@ -1778,7 +1778,12 @@
         transform="matrix(1 -8.999509e-04 8.999509e-04 1 736.1677 233.7816)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'frites1')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "frites1")[0].time
+          )
+        }}
+        min
       </text>
       <g id="frites1">
         <g>
@@ -2107,14 +2112,24 @@
         transform="matrix(1 0 0 1 736.4932 407.1843)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'femme1')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "femme1")[0].time
+          )
+        }}
+        min
       </text>
       <text
         id="frites2Wait"
         transform="matrix(1 -8.999509e-04 8.999509e-04 1 741.9049 1312.4958)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'frites2')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "frites2")[0].time
+          )
+        }}
+        min
       </text>
       <g id="frites2">
         <g>
@@ -2422,21 +2437,36 @@
         transform="matrix(1 0 0 1 736.2188 604.1969)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'frites1')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "frites1")[0].time
+          )
+        }}
+        min
       </text>
       <text
         id="saucisse1wait"
         transform="matrix(1 0 0 1 747.1659 942.2762)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'saucisse1')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "saucisse1")[0].time
+          )
+        }}
+        min
       </text>
       <text
         id="pizzawait"
         transform="matrix(1 0 0 1 747.912 1114.4087)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'pizza')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "pizza")[0].time
+          )
+        }}
+        min
       </text>
       <g id="homme2">
         <path
@@ -2488,14 +2518,24 @@
         transform="matrix(1 0 0 1 746.9626 1737.8179)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'femme2')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "femme2")[0].time
+          )
+        }}
+        min
       </text>
       <text
         id="homme2wait"
         transform="matrix(1 0 0 1 746.6882 1934.8306)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'homme2')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "homme2")[0].time
+          )
+        }}
+        min
       </text>
       <path
         id="saucisse2"
@@ -2512,7 +2552,12 @@
         transform="matrix(1 0 0 1 747.375 2118.8726)"
         class="st7 st10"
       >
-        {{ Math.round($store.state.qtimes.filter(x => x.title == 'saucisse2')[0].time) }} min
+        {{
+          Math.round(
+            $store.state.qtimes.filter(x => x.title == "saucisse2")[0].time
+          )
+        }}
+        min
       </text>
       <text
         id="bier1wait"

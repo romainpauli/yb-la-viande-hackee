@@ -43,7 +43,7 @@ export default new Vuex.Store({
       state.gameinprogress = times.response;
       state.gametitle = times.GameTitle;
       state.qtimes = times.time;
-      state.lastupdate = d
+      state.lastupdate = d;
     }
   },
   actions: {
@@ -57,8 +57,19 @@ export default new Vuex.Store({
       );
     },
     fetchWaitingTimes({ commit }) {
-      const d = new Date()
-      const datestring = d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()+'T'+ (d.getHours() < 10 ? '0' : '') +d.getHours()+':' + (d.getMinutes() < 10 ? '0' : '') +d.getMinutes()
+      const d = new Date();
+      const datestring =
+        d.getFullYear() +
+        "-" +
+        (d.getMonth() + 1) +
+        "-" +
+        d.getDate() +
+        "T" +
+        (d.getHours() < 10 ? "0" : "") +
+        d.getHours() +
+        ":" +
+        (d.getMinutes() < 10 ? "0" : "") +
+        d.getMinutes();
       ApiService.getWaitingTime(datestring).then(res => {
         commit("setQTimes", JSON.parse(res.data.body), d);
       });

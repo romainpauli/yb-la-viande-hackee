@@ -103,9 +103,7 @@ export default {
         if (a.time > b.time) return 1;
         return 0;
       }
-      return [...this.qtimes.filter(x => x.type == "c")].sort(
-        compare
-      );
+      return [...this.qtimes.filter(x => x.type == "c")].sort(compare);
     },
     toiletSorted: function() {
       function compare(a, b) {
@@ -113,10 +111,9 @@ export default {
         if (a.time > b.time) return 1;
         return 0;
       }
-      return [...this.qtimes.filter(x => x.type == "w")].sort(
-        compare
-      );
-    }, ...mapState(["qtimes"])
+      return [...this.qtimes.filter(x => x.type == "w")].sort(compare);
+    },
+    ...mapState(["qtimes"])
   }
 };
 </script>
